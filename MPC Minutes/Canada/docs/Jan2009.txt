@@ -1,0 +1,768 @@
+
+
+
+
+
+
+
+
+
+Monetary Policy Report
+Update
+January 2009
+This text is a commentary of the Governing Council of the Bank of Canada. It presents the Bank’s updated outlook based on information received up to 19 January 2009.
+
+Overview
+The outlook for the global economy has de- teriorated significantly since the October Monetary Policy Report. The financial crisis intensified last autumn and spilled over into
+turn, put further strains on the financial sys- tem. This dynamic contributed to height- ened uncertainty and a collapse of confidence, compounding the situation. The major advanced economies, including Can- ada, are now in recession, and emerging- market countries are increasingly affected. In response to the sudden downturn in glo- bal demand, there have been further de- clines in commodity prices, especially for energy, and global inflationary pressures have abated rapidly.
+Policy-makers have responded to the
+
+
+fall in global economic activity with bold and concerted policy actions. Central banks have cut monetary policy rates aggressively since last October, and governments in many countries are enacting substantial fis- cal stimulus packages. Additional initia- tives to stabilize financial institutions in
+and the extraordinary measures taken by
+to gain traction. However, with a negative feedback loop between the weak economy
+
+
+and financial markets, it will take some time for conditions to normalize.
+Economic activity in Canada is project- ed to decline through mid-2009 as a result of these global developments. Canadian ex- ports are already falling sharply in response to the downturn in external demand, espe- cially from the United States. Reductions in real income associated with the reversal in commodity prices, together with steep de- clines in confidence and reductions in household net worth, are leading to a de- cline in final domestic demand. The Canadi- an economy is expected to recover in the second half of 2009 and to grow above po- tential in 2010, as policy actions begin to take hold, both in Canada and globally. Support will also be provided from the past depreciation of the Canadian dollar. On an average annual basis, real GDP is projected to decline by 1.2 per cent in 2009 and to re- bound by 3.8 per cent in 2010.
+The Canadian economy moved into ex-
+cess supply in the fourth quarter of 2008. Excess supply is expected to build sharply in the first half of 2009 and is not projected to be fully eliminated until mid-2011.
+With the sharp widening of the output gap, together with modest decreases in housing prices, core CPI inflation in Canada is projected to ease through 2009, reaching an anticipated low of 1.1 per cent by the fourth quarter. Total CPI inflation is expect- ed to fall much more abruptly, dipping be- low zero in the second and third quarters of 2009, reflecting year-on-year drops in ener- gy prices. With inflation expectations well an- chored, total and core CPI inflation are projected to return to the Bank’s 2 per cent tar- get in the first half of 2011, as the economy re- turns to potential.
+Against   this   background,   the   Bank
+lowered its policy rate by 50 basis points on 20 January, bringing the cumulative monetary policy easing to 350 basis points since December 2007. Guided by Canada’s inflation-targeting   framework,   the   Bank
+will continue to monitor carefully economic and financial developments in judging to what extent further monetary stimulus will be required to achieve the 2 per cent target over the medium term. Low, stable, and predictable inflation is the best contribution monetary policy can make to long-term eco- nomic growth and financial stability.
+Global developments continue to pose significant risks to the Bank’s inflation pro- jection for Canada, on both the upside and the downside. On the upside, the global economy could be stronger if global fiscal stimulus turns out to be more expansionary than expected, or if the aggressive policy ac- tions taken simultaneously across major economies reduce uncertainty and restore confidence more quickly than assumed. On the downside, the global recession could be deeper and more protracted because finan- cial conditions take longer to normalize.
+More generally, there are risks around
+the resolution of global imbalances. While cyclical developments appear to be contrib- uting to a narrowing of large current ac- count imbalances, a lasting and orderly resolution will require policies to promote a rebalancing of domestic demand across ma- jor economic areas.
+Although the outlook is subject to a high degree of uncertainty, the Bank judges that the risks to its inflation projection are rough- ly balanced.
+Recent Economic Developments
+Global Developments
+The global economy has deteriorated signif- icantly since the October Report, with the deepening financial crisis spilling over to real economic activity. The major advanced economies are now in recession, and the synchronized nature of the contraction is in- creasingly affecting emerging-market coun- tries through trade, financial, and confidence channels. Uncertainty about the
+
+
+
+Chart 1
+Official Policy Rates
+Daily
+
+%
+6	6
+
+
+5	5
+
+
+4	4
+
+
+3	3
+
+
+2	2
+
+
+1	1
+
+
+0	0
+2004	2006	2008
+Sources: Bank of Canada, U.S. Federal Reserve, Bank of Japan, Bank of England, and European Central Bank
+an unprecedented fall in household wealth, and low consumer confidence. Industrial production has declined dramatically, re- flecting a broad-based contraction of activi- ty in the manufacturing sector. Sales and production of motor vehicles, in particular, have been much weaker than anticipated.
+Across other major regions, there has been a sudden unexpected decline in eco- nomic activity. In Europe and Asia, key in- dicators, such as consumer confidence and purchasing managers’ indexes, point to a further deterioration in growth prospects. In Europe, tightening credit conditions and the reduction in house prices and financial wealth have been important factors behind flagging domestic demand;  in Japan, the
+appreciation of the yen and the weakness in
+outlook remains high and is a contributing factor restraining activity.
+As a result of substantially weaker glo- bal demand, commodity prices have fallen, particularly for energy. Oil prices have de- clined by 50 per cent since October. The drop in commodity prices has contributed to sharp declines in headline inflation in many countries. Measures of core inflation have also started to ease, reflecting growing excess supply and some pass-through from lower commodity prices.
+Policy-makers have responded to the sharp fall-off in economic activity with a se- ries of bold policy actions. Easing inflation- ary pressures have prompted central banks to cut rates to extraordinarily low levels (Chart 1). In some countries, such as the United States and Japan, where policy rates are close to zero, monetary authorities are resorting to other means of credit easing. Policy-makers are also turning increasingly to discretionary fiscal policy measures to stimulate domestic demand.
+The U.S. economy registered a small de-
+cline in the third quarter of 2008, and recent indicators suggest that it contracted sharply in the fourth quarter. Consumption has con- tinued to decline because of substantial em- ployment losses, reduced credit availability,
+export markets have been key drivers. For many emerging-market economies, the re- cent reversal in capital flows is depressing demand by significantly constraining the availability of credit. Sharp declines in trade credit, in particular, appear to be having a significant impact on global trade.
+Canadian Economic Activity Economic conditions in Canada have also deteriorated significantly since the October Report, notwithstanding a small positive surprise to growth in the third quarter of 2008. As a result of the recent sharp decline in global economic activity, the Canadian economy has entered a recession.
+Real GDP rose at an annual rate of
+1.3 per cent in the third quarter of 2008, after virtually no change in the first half of the year. Both net exports and inventory invest- ment made a slight contribution to real GDP growth, in contrast to the overall drag they exerted in the first half. Growth of final do- mestic demand, however, slowed markedly in the third quarter, reflecting both slower growth in real incomes and heightened un- certainty in the face of the deepening global recession (Chart 2). Export volumes contin- ued to fall, with especially large declines in farm, energy, and forestry products.
+
+
+
+Chart 2
+Real Income, Domestic Demand, and Output
+Year-over-year percentage change
+
+10	10
+
+
+8	8
+
+
+6	6
+
+
+4	4
+
+
+2	2
+
+
+0	0
+
+
+-2	-2
+
+
+-4	-4
+2002	2003	2004	2005	2006	2007	2008
+* Real gross domestic income is current-dollar gross domestic product deflated by the price index for final domestic demand.
+Note: Estimates for the fourth quarter of 2008 are based on the Bank’s monitoring of current data.
+
+
+Chart 3
+Contribution to Real GDP Growth
+Percentage points, quarterly at an annual rate
+
+
+
+
+
+
+
+8	8
+investment (including inventories), is ex- pected to have decreased in the fourth quar- ter (Chart 3).
+Estimated Pressures on Capacity
+The Canadian economy moved into excess supply in the fourth quarter of 2008. The Bank’s conventional measure of the output gap suggests that the economy was operat- ing about 1 per cent below its production potential in the fourth quarter of 2008 (Chart 4).1 In the Bank’s winter Business Outlook Survey, the percentage of respondents re- porting some pressures on capacity fell be- low average, while the percentage reporting labour shortages dropped to its low- est level in the 10-year history of the survey.
+Inflation and the 2 Per Cent Target Movements in the total CPI over the past six months have mainly reflected the impact of
+
+6	6	Chart 4
+Estimated Output Gap and Response to Business Outlook
+4	4	Survey Question on Capacity Pressures
+%	%
+2	2	70	3
+
+0	0
+60	2
+-2	-2
+
+-4	-4	50	1
+
+-6	-6	40	0
+
+-8	-8
+2007	2008
+30	-1
+Note: GDP estimates for the fourth quarter of 2008 are based on the Bank’s monitoring of current data.
+
+
+Data for the fourth quarter of 2008 sug- gest that real GDP contracted at an annual
+
+
+20
+
+
+10
+2001
+
+
+
+
+
+
+
+2002
+
+
+
+
+
+
+
+2003
+
+
+
+
+
+
+
+2004
+
+
+
+
+
+
+
+2005
+
+
+
+
+
+
+
+2006
+
+
+
+
+
+
+
+2007
+
+
+-2
+
+
+-3
+2008
+rate of 2.3 per cent—much larger than the
+0.4 per cent decrease projected in the Octo- ber Report. With the considerable downturn in U.S. economic activity, Canadian exports (particularly automotive products) are ex- pected to register a sharp drop. Given the recent declines in our terms of trade, real in- come growth, and confidence, Canadian households and businesses are becoming in- creasingly cautious. As a result, domestic demand, especially in housing and business
+* Difference between actual output and estimated potential output. The estimate for the fourth quarter of 2008 is based on a projected decrease in output of 2.3 per cent (at annual rates) for the quarter.
+** Percentage of firms indicating that they would have either some or significant difficulty meeting an unanticipated increase in demand/ sales.
+
+1.	The level of excess supply in the fourth quarter of 2008, esti- mated using the Bank’s conventional measure, is about the same as that expected in the October Report. Despite a much larger pro- jected reduction in real GDP in the fourth quarter than previously expected, the level of output in that quarter is only slightly lower than projected in the last Report, because of revisions to GDP growth in the first half of 2008 and a small positive surprise to growth in the third quarter. The lower projected level of output is offset by a small decrease in the estimated level of potential output.
+
+
+
+Chart 5
+Consumer Price Index
+Year-over-year percentage change
+
+
+
+5	5
+
+
+
+4	4
+
+
+
+3	3
+
+
+
+2	2
+
+
+
+1	1
+
+
+
+0	0
+1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+and longer-term inflation expectations remain well anchored to the 2 per cent inflation target.
+Financial Developments
+Stabilization of the global financial system is a precondition for economic recovery. There are signs that the extraordinary measures taken by central banks and governments to stabilize the financial system and restore the flow of credit are starting to gain traction. Spreads in targeted markets have nar- rowed, and volatility has eased slightly from extraordinarily high levels. Conditions
+in global financial markets, nevertheless, re-
+* CPI excluding eight of the most volatile components and the effect of changes in indirect taxes on the remaining components.
+
+fluctuating crude oil prices. After peaking at
+3.5 per cent in August, the 12-month rate of increase in the total CPI fell to 2.0 per cent in November, somewhat lower than expected in the October Report.
+The core rate of inflation averaged
+1.7 per cent from August to October, but jumped to 2.4 per cent in November (Chart 5)—much higher than in the October base-case projection. A marked reduction in sales incentives for 2009 motor vehicles, relative to those for 2008 models, contribut- ed to the increase. There was also a further increase in core food prices in November. These positive surprises to core inflation are not expected to persist, given the weak demand conditions in the automotive sector and the sharp drop in food commodity prices over the past year.
+Measures of near-term inflation expec-
+tations have been volatile over the past six months, reflecting the sharp swings in energy prices. After reaching recent highs in mid- 2008, expectations for average inflation over the next two years, as reported in the Bank’s winter Business Outlook Survey, fell marked- ly. The latest Consensus Economics forecast for total CPI inflation is 0.7 per cent for 2009, but moves back up to 1.9 per cent for 2010. Taking this and other information into account, the Bank judges that medium-
+main strained. With the deteriorating global economic outlook now feeding back onto these pressures, it will take some time for conditions to normalize.
+In longer-term credit markets, conditions have worsened in recent months, especially for lower-quality borrowers. Issuance activ- ity has been very light until recently, except for securities bearing a government guaran- tee. The cost of funds for business borrowers remains exceptionally high relative to gov- ernment yields. Moreover, surveys of senior loan officers in a number of advanced coun- tries point to a substantial tightening in bank lending standards, suggesting that ac- cess to credit may have fallen further. Glo- bal equity markets have also continued to decline, with the indexes of all major and emerging markets reaching multi-year lows. The ongoing fragile state of global fi- nancial conditions continues to restrict the availability of funds to support real eco- nomic activity and has contributed to uncer- tainty and flagging confidence, which are further eroding domestic demand in many countries.
+Canadian Credit Conditions
+Canadian credit conditions remain better than those in other major countries. Borrowing costs for banks have decreased since the Oc- tober Report, owing to the reduction in the policy interest rate and significant ongoing
+
+
+efforts to provide liquidity to the Canadian financial system. The estimated spread be- tween the weighted average of bank bor- rowing rates across the term structure and the expected overnight rate has narrowed since October from a peak of 200 basis points to a current level of around 170 basis points. The narrowing of spreads, together with the decline in the overnight interest rate, has reduced overall bank funding costs by approximately 100 basis points since October.
+Consistent with these developments,
+
+Chart 6
+Business and Household Credit
+Year-over-year percentage change
+
+14	14
+13	13
+12	12
+11	11
+10	10
+9	9
+8	8
+7	7
+6	6
+5	5
+4	4
+3	3
+2	2
+1	1
+the effective average interest rate paid by
+0   2001     2002  2003   2004   2005   2006   2007  2008  0
+households has also eased and is well below the levels that existed when the financial turbulence began in August 2007 (Table 1). Bank lending to households has slowed only moderately and continues to expand at a pace well above the historical average (Chart 6). One of the factors helping to ex- plain the strength of household credit growth has been the resilience of labour markets up to October.
+Business credit also grew at a solid pace from September to November (the last data point available), as an increase in bank lend- ing more than offset a decline in market sources of funds. Nonetheless, respondents
+
+Note: Last data point plotted is November.
+
+
+
+to the Bank’s latest Senior Loan Officer Survey and Business Outlook Survey reported ongo- ing tightening in both the pricing and avail- ability of credit, which, combined with weak demand conditions, is likely to reduce credit growth going forward. Yields on in- vestment-grade corporate bonds have been broadly flat, despite the decline in yields on government bonds, and corporate borrowers (especially those below investment grade) have generally been finding it difficult to raise funds in capital markets.
+
+
+Table 1
+Interest Rates (per cent)
+Date
+Overnight rate
+Prime rate
+Estimated variable mortgage rate
+Posted 5-year
+mortgage rate
+Three-month bankers’ acceptances
+Long-term corporate bond rate
+31 July 2007
+4.50
+6.25
+5.35
+7.24
+4.75
+5.42
+18 Oct. 2007
+4.50
+6.25
+5.65
+7.43
+4.85
+5.41
+4 Dec. 2007
+4.25
+6.25
+5.25
+7.37
+4.70
+5.28
+24 Jan. 2008
+4.00
+5.75
+5.25
+7.39
+4.06
+5.30
+24 Apr. 2008
+3.00
+4.75
+4.15
+6.99
+3.23
+5.32
+17 July 2008
+3.00
+4.75
+4.20
+7.09
+3.29
+5.48
+23 Oct. 2008
+2.25
+4.00
+5.00
+7.20
+2.68
+5.99
+9 Dec. 2008
+1.50
+4.00
+5.00
+6.86
+1.77
+6.04
+16 Jan. 2009a
+1.50
+3.50
+4.30
+6.73
+0.99
+5.71
+a. Prior to the 20 January reduction in the target overnight rate.
+Sources: Long-term corporate bond rate, Bloomberg. All other series, Bank of Canada.
+
+
+Exchange Rate
+Foreign exchange markets have remained extremely volatile over the past three months, with the Canadian dollar trading in a range of about 77 to 87 cents U.S. and av- eraging 82 cents. Two main factors have been driving recent movements in the dol- lar. First, the fall in commodity prices, par- ticularly energy prices, has put downward pressure on the Canadian dollar. Second, the U.S. dollar appreciated against most ma- jor currencies through October and Novem- ber, possibly reflecting sizable repatriation of assets by investors who manage their funds in U.S. dollars.
+The Economic Outlook
+The Bank’s base-case projection incorpo- rates the following key assumptions: a Can- ada/U.S. exchange rate averaging 82 cents U.S.; energy prices moving in line with cur- rent futures prices; prices for non-energy commodities easing slightly over the near term; tight global credit conditions persist- ing through 2009, and improving gradually in 2010;2 and an unchanged outlook for Ca- nadian potential output growth relative to the October Report (i.e., 2.4 per cent through the remainder of 2009, and 2.5 per cent in 2010). In addition, substantial fiscal policy stimulus is assumed, globally and in Canada.
+The Global Outlook
+Global economic growth is projected to slow to 1.1 per cent in 2009—a rate consist- ent with a deep global recession—and to pick up in 2010, but remain below the rate of potential output growth (Table 2). Economic activity in all regions is expected to be much weaker over the next couple of years than projected in the October Report because of a more protracted and widespread weakness in global financial markets and a stronger negative feedback to the real economy.
+
+2.	In the case of the United States, the extraordinary nature of the policy actions taken by the Federal Reserve to ease credit con- ditions makes it difficult to assess their impact.
+Heightened uncertainty is also contributing to slower growth.
+U.S. economic growth is expected to de- cline through the first three quarters of 2009, as consumption and business investment con- tinue to contract and exports weaken. Annual
+U.S. GDP growth is projected to average
+-1.7 per cent in 2009 and 2.6 per cent in 2010. As a result of this weaker outlook, U.S. core in- flation will be much lower over the projection horizon and is expected to remain below 1 per cent for most of the next three years.
+Several factors are expected to underpin the recovery in the global economy. First, as the measures to stabilize the financial sector taken around the world gain more traction, global credit conditions should begin to normalize, bolstering growth by increasing the availability of credit to businesses and consumers, and re- storing confidence. Second, the easing in mon- etary policy and simultaneous fiscal policy expansion will stimulate domestic demand globally. Third, the drag exerted by the housing market correction in the United States and in
+
+Table 2
+Projection for Global Economic Growth
+
+Share of real global GDPa (per cent)
+Projected growth (per cent)b
+
+2007
+2008
+2009
+2010
+United States
+22
+2.0
+(2.0)
+1.2
+(1.2)
+-1.7
+(-0.1)
+2.6
+(3.2)
+European Union
+20
+2.7
+(2.7)
+0.9
+(1.0)
+-1.0
+(0.3)
+2.1
+(3.0)
+Japan
+7
+2.4
+(2.0)
+0.0
+(0.5)
+-1.7
+(0.6)
+2.0
+(2.2)
+China and Asian NIEsc
+14
+10.2
+(10.2)
+7.5
+(8.1)
+5.6
+(7.3)
+6.9
+(7.5)
+Others
+37
+6.6
+(6.6)
+5.0
+(5.5)
+2.7
+(4.5)
+4.3
+(5.5)
+World
+100
+5.0
+(5.0)
+3.4
+(3.7)
+1.1
+(2.8)
+3.7
+(4.6)
+a.	GDP shares are based on IMF estimates of the purchasing- power-parity (PPP) valuation of country GDPs for 2006. Source: IMF, WEO Update, January 2009.
+b.	Numbers in parentheses are projections from the October 2008
+Monetary Policy Report.
+c.	NIEs are newly industrialized economies. These include Hong Kong (Special Administrative Region), South Korea, Taiwan (Province of China), and Singapore.
+Source: Bank of Canada
+
+
+some other industrial countries should dimin- ish, and construction activity should then pick up as excess supply in that sector is gradually eliminated. Strengthening U.S. GDP growth, and the accompanying improvement in con- sumer confidence, should also help to stimu- late global economic activity through trade and financial linkages.
+The Canadian Outlook
+Real GDP in Canada is expected to decline markedly in the first half of 2009, especially in the first quarter. This leaves the level of aggregate output by mid-year much lower than expected in the October Report. On an average annual basis, real GDP decreases by
+1.2 per cent in 2009 (Tables 3 and 4).
+Final domestic demand is projected to decrease in 2009. Reduced real incomes and net worth, along with much lower confi- dence levels, weigh heavily on household spending, with housing investment expect- ed to decrease considerably. Weak global growth, much lower commodity prices, tighter credit conditions, and heightened uncertainty about economic prospects lead to a projected fall in business investment, in- cluding inventory investment. With the ex- pected weakness of foreign demand (especially from the United States), Canadi- an export volumes are projected to decrease still further through 2009. However, given the projected decline in domestic demand, imports are also expected to fall considera- bly. Consequently, there is only a slight drag to growth coming from net exports.
+The anticipated normalization of financial
+conditions, together with the stimulus coming from monetary and fiscal policies, should boost the growth of consumer spending in 2010. Exports are also expected to recover next year as the U.S. economy strengthens and the past depreciation of the Canadian dollar stim- ulates foreign demand. Excess supply will be gradually reduced, with the economy projected to return to balance by mid-2011. The projected return to balance of the Canadian
+
+Table 3
+Contributions to Average Annual Growth of Real Canadian GDPa
+Percentage points
+
+2007
+2008
+2009
+2010
+Consumption
+2.5
+1.8
+0.4
+2.0
+
+(2.5)
+(2.0)
+(1.5)
+(2.5)
+Housing
+0.2
+-0.2
+-1.0
+0
+
+(0.2)
+(-0.2)
+(-0.6)
+(-0.3)
+Government
+0.9
+0.9
+0.9
+1.3
+
+(0.9)
+(1.0)
+(0.7)
+(0.6)
+Business fixed investment
+0.5
+(0.5)
+0.4
+(0.2)
+-0.6
+(-0.2)
+0
+(0.3)
+Subtotal: Final domestic demand
+4.1
+(4.1)
+2.9
+(3.0)
+-0.3
+(1.4)
+3.3
+(3.1)
+Exports
+0.4
+-1.8
+-2.6
+2.1
+
+(0.4)
+(-1.5)
+(-0.6)
+(1.5)
+Imports
+-1.8
+-0.1
+2.4
+-2.1
+
+(-1.8)
+(-0.4)
+(-0.2)
+(-1.2)
+Subtotal: Net exports
+-1.4
+(-1.4)
+-1.9
+(-1.9)
+-0.2
+(-0.8)
+0
+(0.3)
+Inventories
+0
+-0.3
+-0.7
+0.5
+
+(0)
+(-0.5)
+(0)
+(0)
+Real GDP
+2.7
+0.7
+-1.2
+3.8
+
+(2.7)
+(0.6)
+(0.6)
+(3.4)
+Real gross domestic income (GDI)b
+3.7
+(3.7)
+2.3
+(2.0)
+-3.6
+(-1.9)
+4.1
+(3.2)
+a.	Figures in parentheses are from the base-case projection in the October Monetary Policy Report.
+b.	Real gross domestic income is current-dollar gross domestic product deflated by the price index for final domestic demand.
+
+
+
+economy is faster than either of the recoveries following the 1981–82 and 1990–92 recessions (Chart 7). In contrast to these earlier episodes, with an explicit 2 per cent inflation target since 1991 and expectations of inflation well an- chored to this target, monetary policy has been able to react in a timely and significant way to help offset the economic downturn and promote conditions to support recovery. In addition, Canada enters this recession with greater fiscal flexibility and stronger corporate balance sheets than in the recession of the 1990s.
+
+
+The sharp widening of the output gap, together with modest decreases in house prices, should cause the core rate of inflation to ease through 2009, reaching a projected low of 1.1 per cent by the fourth quarter (Table 4). With the gradual reduction in ex- cess supply and upward pressure coming from increased import costs, and with infla- tion expectations well anchored, the core rate is projected to return to the 2 per cent target in the first half of 2011.
+The projected 12-month rate of change in
+the total CPI in 2009 is much lower than in the
+
+Chart 7
+Output Gap: Cycle-on-Cycle Comparison
+%
+4	4
+
+
+
+2	2
+
+
+
+0	0
+
+
+
+-2	-2
+
+
+
+-4	-4
+October Report, reflecting year-on-year drops
+in energy prices. Indeed, the rate of change in
+-6  t-4	t	t+4	t+8	t+12	-6
+the total CPI is expected to fall below zero in the second and third quarters. Total CPI infla- tion is projected to move back up to about
+1.6 per cent in early 2010, and to reach the 2 per cent target in the first half of 2011.
+Note: Historical estimates of output gap based on the Bank’s conventional measure.
+Projected output gap in current cycle based on Bank of Canada projection.
+t = quarter prior to start of recession.
+1981–82 recession begins in third quarter of 1981. 1990–92 recession begins in second quarter of 1990. Current recession begins in fourth quarter of 2008.
+
+Table 4
+Summary of the Base-Case Projectiona
+
+2008
+2009
+2010
+
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+H1
+H2
+Real GDP
+(quarter-over-quarter percentage change)b
+1.3
+(0.8)
+-2.3
+(-0.4)
+-4.8
+(0)
+-1.0
+(0.8)
+2.0
+(2.1)
+3.5
+(2.3)
+4.7
+(4.2)
+4.9
+(4.5)
+Real GDP
+(year-over-year percentage change)
+0.5
+(0.3)
+-0.3
+(0)
+-1.3
+(0.2)
+-1.7
+(0.3)
+-1.6
+(0.6)
+-0.1
+(1.3)
+3.0
+(2.7)
+4.6
+(4.0)
+Core inflation
+(year-over-year percentage change)
+1.6
+(1.6)
+2.2
+(1.8)
+2.1
+(1.8)
+1.5
+(1.5)
+1.2
+(1.5)
+1.1
+(1.7)
+1.3
+(1.9)
+1.8
+(2.0)
+Total CPI
+(year-over-year percentage change)
+3.4
+(3.4)
+2.0
+(2.6)
+1.2
+(2.5)
+-0.6
+(0.9)
+-1.0
+(0.4)
+1.1
+(1.6)
+1.6
+(1.9)
+1.8
+(2.0)
+Total CPI
+(excluding effect of changes in indirect taxes) (year-over-year percentage change)
+3.9
+(4.0)
+2.6
+(3.2)
+1.2
+(2.5)
+-0.6
+(0.9)
+-1.0
+(0.4)
+1.1
+(1.6)
+1.6
+(1.9)
+1.8
+(2.0)
+WTIc
+(level)
+119
+(119)
+58
+(82)
+43
+(81)
+52
+(82)
+56
+(83)
+58
+(85)
+62
+(86)
+64
+(88)
+a.	Figures in parentheses are from the October Monetary Policy Report.
+b.	For half years, the number reported is the average of the respective quarter-to-quarter percentage growth at annual rates.
+c.	Assumption for the price of West Texas Intermediate crude oil (US$ per barrel), based on an average of futures contracts over the two weeks ending 16 January 2009.
+
+The Monetary Policy Report and the Update
+are available on the Bank’s website at:
+<http://www.bankofcanada.ca>.
+ISSN 1495-947X (Print) ISSN 1495-8473 (Online)
+Copies can also be obtained by contacting the Bank at:
+Telephone: 1 877 782-8248;
+email:  publications@bankofcanada.ca

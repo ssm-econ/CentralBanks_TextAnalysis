@@ -1,0 +1,45 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import httplib2
+from bs4 import BeautifulSoup, SoupStrainer
+
+driver = webdriver.Safari()
+driver.get("https://www.bankofengland.co.uk/news/news")
+driver.maximize_window()
+                           
+cookie_path="/html/body/div[1]/div[1]/div/div/table/tbody/tr[3]/td[3]/button"
+wait = WebDriverWait(driver, 10)
+cookie_button = wait.until(EC.visibility_of_element_located((By.XPATH, cookie_path)))
+cookie_button.click()
+
+chkbox_path='//*[@id="item-1"]/div[2]/div/label[4]'
+chkbox=driver.find_element_by_xpath(chkbox_path)
+wait = WebDriverWait(driver, 10)
+chkbox_button = wait.until(EC.visibility_of_element_located((By.XPATH, chkbox_path)))
+chkbox_button.click()
+
+
+http = httplib2.Http()
+status, response = http.request('http://www.nytimes.com')
+
+for link in BeautifulSoup(response, parse_only=SoupStrainer('a')):
+    if link.has_attr('href'):
+        print(link['href'])
+
+
+List<WebElement> linksize = driver.findElements(By.tagName("a")); 
+ = driver.find_elements_by_tag_name("a")
+driver.get(allLinks[0])
+
+
+link1='//*[@id="SearchResults"]/div[3]/a'
+driver.find_element(By.XPATH,link1).click()
+
+links = [link.get_attribute('href') for link in driver.find_elements_by_xpath("xpath")]
+for link in links:
+    driver.get(link)
+    # DO something
+    
+driver.navigate().to(allLinks[0])

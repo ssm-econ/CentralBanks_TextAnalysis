@@ -1,0 +1,896 @@
+
+
+ 
+
+
+
+
+
+MONETARY POLICY REPORT
+July 2016
+Canada’s Inflation-Control Strategy1
+
+
+Inflation targeting and the economy
+•	The Bank’s mandate is to conduct monetary policy to pro- mote the economic and financial well-being of Canadians .
+•	Canada’s experience with inflation targeting since 1991 has shown that the best way to foster confidence in the value of money and to contribute to sustained economic growth, employment gains and improved living standards is by keeping inflation low, stable and predictable .
+•	In 2011, the Government and the Bank of Canada renewed Canada’s inflation-control target for a further five-year period, ending 31 December 2016 . The target, as measured by the total consumer price index (CPI), remains at the
+2 per cent midpoint of the control range of 1 to 3 per cent .
+The monetary policy instrument
+•	The Bank carries out monetary policy through changes in the target overnight rate of interest .2 These changes are transmitted to the economy through their influence on market interest rates, domestic asset prices and the exchange rate, which affect total demand for Canadian goods and services . The balance between this demand and the economy’s production capacity is, over time, the
+primary determinant of inflation pressures in the economy .
+•	Monetary policy actions take time—usually from six to eight quarters—to work their way through the economy and have their full effect on inflation . For this reason, monetary policy must be forward-looking .
+•	Consistent with its commitment to clear, transparent communications, the Bank regularly reports its perspec- tive on the forces at work on the economy and their
+implications for inflation . The Monetary Policy Report is a key element of this approach . Policy decisions are typi- cally announced on eight pre-set days during the year, and full updates of the Bank’s outlook, including risks to the projection, are published four times per year in the Monetary Policy Report .
+Inflation targeting is symmetric and flexible
+•	Canada’s inflation-targeting approach is symmetric, which means that the Bank is equally concerned about inflation rising above or falling below the 2 per cent target .
+•	Canada’s inflation-targeting framework is flexible . Typically, the Bank seeks to return inflation to target over a horizon of six to eight quarters . However, the most appropriate horizon for returning inflation to target will vary depending on the nature and persistence of the shocks buffeting the economy .
+Monitoring inflation
+•	In the short run, a good deal of movement in the CPI is caused by fluctuations in the prices of certain volatile components (e .g ., fruit and gasoline) and by changes in indirect taxes . For this reason, the Bank also monitors a set of “core” inflation measures, for example, the CPIX, which strips out eight of the most volatile CPI compo- nents and the effect of indirect taxes on the remaining components . These “core” measures allow the Bank to “look through” temporary price movements and focus on the underlying trend of inflation . In this sense, core infla- tion is monitored as an operational guide to help the Bank achieve the total CPI inflation target . It is not a replace- ment for it .
+
+
+1	See Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Inflation-Control Target (8 November 2011) and
+Renewal of the Inflation-Control Target: Background Information—November 2011, which are both available on the Bank’s website .
+2	When interest rates are at very low levels, the Bank has at its disposal a suite of extraordinary policy measures that could be used to provide additional monetary stimulus and/or improve credit market conditions . The Framework for Conducting Monetary Policy at Low Interest Rates, available on the Bank’s website, describes these measures and the principles guiding their use .
+
+
+
+
+
+
+
+
+The Monetary Policy Report is available on the Bank of Canada’s website at bankofcanada.ca.
+For further information, contact:
+Public Information Communications Department Bank of Canada
+234 Laurier Avenue West Ottawa, Ontario K1A 0G9
+Telephone: 613-782-8111;
+1-800-303-1282 (toll-free in North America)
+Email: info@bankofcanada.ca; Website: bankofcanada.ca
+ISSN 1201-8783 (Print)
+ISSN 1490-1234 (Online)
+© Bank of Canada 2016
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+July 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a report of the Governing Council of the Bank of Canada:
+Stephen S. Poloz, Carolyn Wilkins, Timothy Lane, Lawrence Schembri, Lynn Patterson and Sylvain Leduc.
+
+
+
+
+
+
+
+
+
+
+Contents	
+Global Economy	1
+Financial conditions	1
+Box 1: The Impact of the UK Vote to Leave the European Union	2
+United States	2
+Other advanced economies	4
+China and other emerging-market economies	4
+Commodity prices	4
+Summary	5
+Canadian Economy	7
+Recent developments	8
+Box 2: The Near-Term Economic Effects of the Alberta Wildfires	8
+Economic outlook	9
+Resource sector	10
+Non-commodity exports	11
+Household spending	12
+Output gap and inflation	14
+Risks to the Inflation Outlook	17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The world economy is expected to gather strength following a weak start to 2016, particularly in the United States and China. The broad growth profile remains consistent with that of the April Monetary Policy Report, although the Bank’s projections have been marked down modestly, mainly in view of the foreseeable macroeconomic effects of the UK referendum vote to exit from the European Union (EU) (Brexit). Overall, global economic growth is expected to rise from about 3 per cent this year to 3 1/2 per cent in 2017–18 (Table 1). Considerable uncertainty surrounds the Brexit process, however, as well as its outcome and the broader political ramifications. This uncer- tainty is likely to weigh on the decisions of businesses and households for some time to come (Box 1).
+Table 1: Projection for global economic growth
+
+
+Share of real global GDPa (per cent)
+Projected growthb (per cent)
+2015
+2016
+2017
+2018
+United States
+16
+2.4 (2.4)
+2.0 (2.0)
+2.1 (2.1)
+2.0 (2.1)
+Euro area
+12
+1.6 (1.5)
+1.6 (1.4)
+1.2 (1.6)
+1.5 (1.7)
+Japan
+4
+0.6 (0.5)
+0.5 (0.5)
+0.7 (0.7)
+0.8 (0.8)
+China
+17
+6.9 (6.9)
+6.4 (6.5)
+6.4 (6.4)
+6.3 (6.3)
+Oil-importing EMEsc
+33
+3.3 (3.4)
+3.4 (3.6)
+4.0 (4.2)
+4.4 (4.4)
+Rest of the worldd
+18
+1.3 (1.5)
+0.9 (1.5)
+2.2 (2.5)
+3.1 (3.1)
+World
+100
+3.1 (3.1)
+2.9 (3.0)
+3.3 (3.4)
+3.5 (3.6)
+a.	GDP shares are based on International Monetary Fund (IMF) estimates of the purchasing-power-parity valuation of country GDPs for 2014 from the IMF’s October 2015 World Economic Outlook.
+b.	Numbers in parentheses are projections used in the previous Report.
+c.	The oil-importing emerging-market economies (EMEs) grouping excludes China. It is composed of large emerging markets from Asia, Latin America, the Middle East and Africa (such as India, Brazil and South Africa), as well as newly industrialized economies (such as South Korea).
+d.	“Rest of the world” is a grouping of all other economies not included in the first five regions. It is composed of oil-exporting emerging markets (such as Russia, Nigeria and Saudi Arabia) and other advanced economies (such as Canada, the United Kingdom and Australia).
+Source: Bank of Canada
+
+Financial conditions remain accommodative
+The result of the UK referendum triggered a sharp but orderly repricing of a number of asset classes in global financial markets. Safe-haven flows
+contributed to exchange rate movements, notably an appreciation of the US dollar and the yen against the pound and the euro. Yields on highly rated government bonds fell to record lows as a result of the flight to safety, as well as on expectations that central bank actions will lead to a longer period of accommodative monetary policy. The global financial system remained
+
+Box 1
+The Impact of the UK Vote to Leave the European Union
+The impact of the vote by the United Kingdom to exit the European Union (Brexit) is expected to be felt primarily within those regions, with some spillovers to the rest of the global economy . There are three main transmission chan- nels for the shock:
+•	Financial conditions: While the vote immediately trig- gered significant exchange rate movements and a sharp repricing of a number of asset classes, the global finan- cial system proved to be resilient . This resilience has lim- ited the negative effect on the global economy through financial channels . Interest rates have been generally lower since the vote, reflecting, in part, safe-haven flows to high-quality assets as well as market expectations of a more prolonged period of accommodative monetary policy . The vote has raised concerns, however, over the impact on the business models of European and UK banks and other financial institutions .
+•	Trade: Brexit may have significant medium-term impli- cations for trade and investment flows for the UK and remaining EU countries, although the short-run effects could be limited . There will likely be prolonged uncer- tainty, however, about the timing of the UK’s exit and its subsequent trade relations with the EU, as well as about other issues such as migration .
+•	Conﬁdence: The prolonged uncertainty—compounded by the complexity of the negotiations and various polit- ical challenges—is already weighing on confidence and will likely lead to a postponement of major economic
+decisions, especially on business investment . These confidence effects, while concentrated in the UK and the EU, may extend to other parts of the world, including the United States and Canada .
+Assessing all of these effects is particularly challenging, since many important elements will be understood only as the process unfolds . In our current judgment, the level of global GDP would be reduced by about 0 .2 per cent by the end of 2018 . This modest estimated effect reflects the UK’s small share of both global GDP (2 .4 per cent) and
+imports (3 .7 per cent) . It also assumes that the outcome is an orderly exit and does not capture possible wider rami- fications, including those in the political sphere . As such, most of the effect on GDP is expected to come from the prolonged period of uncertainty around investment . These effects will take time to be fully assessed (see Risks to the Inflation Outlook on page 17) .
+The impact on the level of Canadian GDP over the pro- jection period is likewise anticipated to be modest, about
+-0 .1 per cent, reflecting, among other factors, Canada’s small direct trade exposure to the UK (which is a destination for only 3 .5 per cent of Canadian exports) . This estimate also includes some second-round effects through Canada’s other trade partners, primarily the US, as well as through confidence and financial channels . These estimated effects are incorporated into the Bank’s base-case scenario for Canada and contribute to the downward adjustment in the profile for Canadian exports and business investment .
+
+
+resilient: markets continued to function normally, including funding markets, with movements largely stabilizing in the days following the referendum.
+Market sentiment remains fragile, however, because of ongoing uncertainty about the strength of the global economy.
+
+US growth is showing signs of a rebound
+US economic activity in early 2016 expanded at a more modest pace than expected, largely indicating a sharper-than-anticipated contraction in business investment in the energy sector (Chart 1). Equipment investment outside the energy sector also declined unexpectedly, in large part reflecting the temporary weakness in global demand. Nonetheless, incoming data suggest that growth will rebound: job gains have averaged about 150,000 over the past three months, a pace consistent with a falling unemployment rate; initial claims for unemployment insurance have fallen below pre-crisis lows; and both the job openings rate and the growth in the number of estab- lishments have been trending up (Chart 2).1
+
+1 For additional background information on the US labour market, see R. Fay and J. Ketcheson, “The US Labour Market: How Much Slack Remains?” Bank of Canada Staff Analytical Note (forthcoming).
+Chart 1: Weakness in US business investment was concentrated in the energy sector
+Year-over-year percentage change in business investment, quarterly data
+% 50
+
+25
+
+0
+
+-25
+
+-50
+
+-75
+2010	2011	2012	2013	2014	2015 2016
+Total	Total excluding energy	Energy (3 per cent of total as at 2016Q1)
+
+Source: US Bureau of Economic Analysis via Haver Analytics	Last observation: 2016Q1
+
+Chart 2: Business creation is supportive of US labour market improvements
+Quarterly data
+Thousands 750
+% 4.5
+
+
+600	3.0
+
+
+450	1.5
+
+
+300	0.0
+
+
+150
+
+2005
+
+2006
+
+2007
+
+2008 2009 2010 2011
+
+2012
+
+2013
+
+2014
+-1.5
+2015 2016
+
+Initial claims for unemployment insurance (left scale)
+
+
+Note: The number of establishments includes those created by new and existing firms.
+Sources: US Department of Labor and
+US Bureau of Labor Statistics via Haver Analytics
+
+Job openings rate (right scale) Number of establishments (right scale, year-over-year percentage change)
+
+Last observations: Establishments, 2015Q4; job openings, 2016Q1;
+unemployment insurance, 2016Q2
+
+
+
+US economic growth is expected to average around 2 per cent over the projection horizon, with the strong labour market and accommodative mon- etary policy continuing to support private domestic demand. High levels of consumer confidence and healthy employment are expected to boost con- sumption growth above the growth of disposable income. While uncertainty associated with Brexit may weigh on confidence and cloud the outlook for business prospects, investment is expected to pick up in the second half
+of 2016 as the drag from energy investment and the strong US dollar dimin- ishes, domestic demand remains solid and global growth improves.
+
+Growth prospects remain modest in other advanced economies, amid headwinds from Brexit
+Growth in the euro area has been marked down beyond 2016 in light of the UK referendum result, which is likely to lead to weaker confidence, tighter credit conditions and reduced bilateral trade (Box 1). In Japan, authorities have announced additional fiscal stimulus, including a delay in a sales tax hike in response to ongoing weakness in private demand growth. Both
+the European Central Bank and the Bank of Japan have continued to implement unconventional monetary policy measures to support growth. Economic growth in the euro area and Japan is expected to average around 1 1/2 per cent and less than 1 per cent, respectively, over the projection horizon. Growth in both regions continues to be tempered by weak invest- ment and structural factors, including labour market rigidities.
+
+Emerging markets are driving global growth, but face challenges
+Economic growth in China slowed more sharply in early 2016 than expected in April, to around 4.5 per cent (quarter-over-quarter annualized). The slow- down was primarily the result of weakness in net exports and, to a lesser extent, a drag from softer investment in fixed assets in the manufacturing sector—in part because of the ongoing restructuring in industries with excess capacity, such as steel. However, strong credit growth in the early part of the year and additional fiscal stimulus are expected to support growth in the second half of 2016. Residential investment has been stronger than expected, suggesting more underlying momentum. Growth in China
+is projected to stabilize at around 6 1/2 per cent over the 2016–18 period, although rising corporate debt is exacerbating financial vulnerabilities.
+Among other oil-importing emerging-market economies (EMEs), conditions in the first half of the year in certain distressed economies (notably Brazil) improved by more than expected. Growth in oil-importing EMEs is expected to pick up over 2017–18 as progress is made on structural reforms, particu- larly the removal of regulatory obstacles to growth. This growth profile is now expected to be softer than in April, however, especially in light of recent increases in oil prices.
+The projection for growth in the rest-of-the-world grouping has been revised down significantly since April. In some oil-exporting EMEs, the adjustment to low oil prices has been more severe and protracted than previously antici- pated, notwithstanding the recent increase in oil prices. Growth is expected to recover as the adjustment in these economies progresses.
+
+Oil prices have risen
+There is gathering evidence that the needed supply-demand adjustment in the global oil market is progressing (Chart 3). In this context, the upside risks to oil prices identified in previous Reports have already partially materialized: the price assumption has risen by about US$10 per barrel relative to the April Report, although this increase was also partly a result of temporary supply disruptions. By convention, the Bank assumes that oil prices will remain near their recent average levels: US$50, US$49 and
+US$36 per barrel, respectively, for Brent, West Texas Intermediate (WTI) and Western Canada Select (WCS). The substantial reductions in investment
+Chart 3:  Supply adjustments and demand growth are supporting a rise in oil prices
+Quarterly data
+Millions of barrels per day
+99
+
+98
+
+97
+
+96
+
+95
+
+94
+
+93
+2015	2016	2017
+Demand	Supply
+
+Sources: International Energy Agency and Bank of Canada calculations	Last data plotted: 2017Q4
+
+
+since 2014, coupled with rising demand, continue to pose an upside risk to prices over the projection horizon, although ongoing cost-cutting initiatives and technological advances limit this upside potential.
+The projected stability of the non-energy commodity price index masks divergent pressures on component prices. Lumber prices are expected to be a source of strength, benefiting from stronger housing markets in the United States and China. In contrast, there is the potential for downward pressure on base metals prices as several new mining projects come on line globally.
+
+Summary
+The projected path of the Bank’s foreign activity measure, which is an indi- cator of demand for Canadian exports, has been revised down to reflect a less-favourable composition of US economic activity, in particular, weaker business investment. Growth in the foreign activity measure improves starting in the second half of 2016 as a result of the anticipated rebound in US business investment.
+By convention, the Canadian dollar is assumed to be close to its recent average of 77 cents, similar to the assumption of 76 cents in April.
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Canadian economy continues to adjust to low commodity prices. The reallocation of investment and employment from the resource sector to the non-resource sector is progressing. Starting in the second half of 2016, real GDP is expected to increase at a rate that exceeds potential growth, driven by solid US domestic demand growth and federal infrastructure spending and other fiscal measures (Table 2). The outlook for real GDP is also sup- ported by accommodative monetary and financial conditions and the past depreciation of the Canadian dollar.
+While the fundamental elements of the growth projection are similar to those presented in April, the forecast for real GDP growth has been revised down. Downward revisions to investment and exports more than offset the posi- tive economic effects of the recent increase in oil prices. The output gap is expected to close somewhat later than forecast in April, toward the end of 2017. The Bank expects inflation to average close to 2 per cent throughout 2017 as the output gap narrows.
+Table 2: Contributions to average annual real GDP growth
+Percentage pointsa, b
+
+
+2015
+2016
+2017
+2018
+Consumption
+1.1 (1.1)
+1.1 (1.0)
+1.1 (1.2)
+1.1 (1.0)
+Housing
+0.3 (0.3)
+0.3 (0.2)
+0.1 (0.1)
+0.0 (0.0)
+Government
+0.4 (0.4)
+0.4 (0.5)
+0.6 (0.6)
+0.0 (0.0)
+Business fixed investment
+-1.4 (-1.2)
+-0.9 (-0.8)
+0.2 (0.4)
+0.5 (0.5)
+Subtotal: Final domestic demand
+0.4 (0.5)
+0.9 (0.9)
+2.0 (2.3)
+1.6 (1.5)
+Exports
+1.1 (1.0)
+0.3 (1.1)
+1.1 (0.9)
+1.3 (1.2)
+Imports
+-0.1 (-0.1)
+0.5 (0.2)
+-1.1 (-1.2)
+-0.8 (-0.8)
+Subtotal: Net exports
+1.0 (0.9)
+0.8 (1.3)
+0.0 (-0.3)
+0.5 (0.4)
+Inventories
+-0.3 (-0.3)
+-0.4 (-0.5)
+0.2 (0.3)
+0.0 (0.1)
+GDP
+1.1 (1.2)
+1.3 (1.7)
+2.2 (2.3)
+2.1 (2.0)
+Memo items:
+Range for potential output
+Real gross domestic income (GDI)
+
+1.4–1.8
+(1.4–1.8)
+
+1.2–1.8
+(1.2–1.8)
+
+1.0–2.0
+(1.0–2.0)
+
+0.9–2.1
+(0.9–2.1)
+-1.2 (-1.1)
+0.6 (0.5)
+2.9 (2.3)
+2.0 (2.0)
+Total CPI
+(year-over-year percentage change)
+1.1 (1.1)
+1.6 (1.4)
+2.1 (1.9)
+2.0 (2.1)
+a.	Numbers in parentheses are from the projection in the previous Report.
+b.	Numbers may not add to total because of rounding.
+
+Uneven quarterly economic growth continues
+Economic growth has been uneven in recent quarters, fluctuating around the rate of potential output growth (Chart 4). This volatility mainly reflects an uneven timing of trade flows and household expenditures. Economic activity expanded by 2.4 per cent in the first quarter of 2016 but is estimated to have contracted by 1.0 per cent in the second quarter. The quarterly variability is exacerbated by the economic effects of the devastating wildfires in Alberta, which are estimated to have subtracted about 1 percentage point from GDP growth in the second quarter (Box 2). A marked rebound is expected in the
+
+
+Chart 4: Economic growth is uneven
+Contribution to real GDP growth, quarterly data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% 6
+
+
+
+Percentage points
+6
+
+4	4
+
+2	2
+
+0	0
+
+-2	-2
+
+-4	-4
+
+-6
+2014	2015
+-6
+2016
+      GDP growth, quarterly,
+at annual rates (left scale) Potential output growth, quarterly, at annual rates (left scale)
+Business fixed investment (right scale) Exports (right scale)
+Other components of GDP (consumption, housing, government, inventories and imports; right scale)
+
+Sources: Statistics Canada and Bank of Canada estimates and calculations	Last data plotted: 2016Q3
+
+
+The Near-Term Economic Eﬀects of the Alberta Wildﬁres
+The devastating wildfires in the Fort McMurray area of Alberta led to the mass evacuation of residents and the tem- porary shutdown of several major oil sands production facili- ties from early May through early June . While the timing and magnitude of the impact of the wildfires on economic data are still uncertain, the Bank estimates that real GDP growth (expressed quarterly at annual rates) in the second quarter was reduced by about 1 .1 percentage points (Table 2-A) . This estimate incorporates three related assessments . First, oil sands production decreased by up to 1 million barrels per day, or roughly 40 million barrels in total . Second, local economic activity declined significantly: the Regional Municipality of Wood Buffalo was closed and its residents evacuated .1 Third, roughly 2,400 structures were lost to the wildfires, and
+
+1 The estimates take into account the additional hours of emergency workers and related activity .
+hundreds more were deemed uninhabitable because of toxic ash . In the third quarter, GDP is expected to rebound as oil production is fully restored and rebuilding efforts begin .
+
+Table 2-A: Estimated impact of Fort McMurray area wildfires on total GDP growth
+Quarter-over-quarter percentage change, at annual rates
+
+
+2016Q2
+2016Q3
+2016Q4
+GDP growth excluding wildfire impact
+0.1
+2.2
+2.7
+Halt of oil production and area evacuation (in percentage points)
+-1.1
+
+
+Recovery in oil production and area activity (in percentage points)
+
+1.1
+
+Rebuilding (in percentage points)
+
+0.2
+0.1
+Real GDP growth
+-1.0
+3.5
+2.8
+Source: Bank of Canada estimates and projections
+
+Table 3: Summary of the projection for Canadaa, b
+Year-over-year percentage change
+
+
+2016
+2015
+2016
+2017
+2018
+Q1
+Q2
+Q3
+Q4
+Q4
+Q4
+Q4
+Q4
+Total CPI
+1.6
+(1.5)
+1.6
+(1.3)
+1.5
+(1.2)
+1.8
+1.3
+(1.3)
+1.8
+(1.5)
+2.1
+(2.0)
+2.1
+(2.1)
+Core inflation (CPIX)
+2.0
+(1.9)
+2.1
+(2.0)
+2.0
+(2.0)
+2.0
+2.0
+(2.0)
+2.0
+(2.1)
+2.0
+(2.0)
+2.1
+(2.1)
+Real GDP
+
+Quarter-over-quarter percentage change at annual rates
+1.1
+(1.4)
+1.0
+(1.7)
+1.3
+(1.7)
+1.9
+0.3
+(0.5)
+1.9
+(2.2)
+2.1
+(2.1)
+2.2
+(2.1)
+2.4
+(2.8)
+-1.0
+(1.0)
+3.5
+(2.2)
+2.8
+
+
+
+
+a.	Numbers in parentheses are from the projection in the previous Report. Assumptions for the price of crude oil are based on a recent average of spot prices.
+b.	In this table, the Bank has adopted a convention of showing the last quarter of historical data and the next three quarters, which are monitored and forecasted, as well as fourth-quarter-over-fourth-quarter projections of real GDP growth and inflation for longer horizons.
+
+third quarter as oil production resumes and the rebuilding effort gets under way in the Fort McMurray area. Also contributing to the rebound are the new Canada Child Benefit, which lends support to consumption, and a boost from government infrastructure spending. Average growth over the second and third quarters is estimated to be about 1 1/4 per cent, softer than antici- pated in the April Report (Table 3).
+Estimates from the Bank’s two measures of economic slack (the structural and statistical approaches) point to material excess capacity.2 Similarly, firms participating in the Bank’s summer Business Outlook Survey reported that pressures on production capacity and the incidence of labour short- ages continue to be low. Labour market indicators suggest continuing slack. For instance, youth participation rates are near their post-recession lows, and wage growth remains subdued, particularly in industries that produce goods.3 Looking through the temporary weakness associated with the Alberta wildfires, the Bank judges that the excess capacity in the economy in the second quarter was between about 1 per cent and 2 per cent.4
+Total CPI inflation remains in the lower half of the Bank’s inflation-control range. Downward pressure from low consumer energy prices and persistent excess capacity are being partially offset by the temporary boost from the pass-through of the earlier exchange rate depreciation. Most measures
+of core inflation remain close to 2 per cent but would be lower without the effect of exchange rate pass-through. The near-term outlook for inflation has been revised up, reflecting firmer-than-assumed oil prices.
+
+As the complex adjustment progresses, growth will pick up
+The expansion of activity in the non-resource sector will assert itself as the dominant trend in the second half of 2016 as the drag from declining
+investment in the energy sector wanes. Increased foreign demand and fiscal
+
+2	The Bank’s structural (integrated framework) and statistical (extended multivariate filter) estimates of economic slack can be found at Statistics > Indicators > Indicators of Capacity and Inflation Pressures for Canada on the Bank of Canada’s website.
+3	For more details on recent wage pressures, see D. Brouillette and L. Savoie-Chabot, “Un examen plus approfondi des pressions salariales au Canada,” Bank of Canada Staff Analytical Note No. 2016-6 (July 2016).
+4	The projection is based on an assumed value for the output gap of -1.7 per cent in the second quarter of 2016 (-1.4 per cent excluding the effect of the wildfires), compared with the April assumption of
+-1.0 per cent for the first quarter. The level of potential GDP is estimated to be 0.2 per cent lower in the second quarter than projected in the April Report, reflecting downward historical revisions to business investment and capital deepening.
+
+spending, as well as the effects of the past depreciation of the Canadian dollar, are expected to lift real GDP growth. In addition, monetary and finan- cial conditions remain accommodative and the yield curve has flattened, in line with recent developments in global financial markets.
+Real GDP is expected to grow by 1.3 per cent in 2016, 2.2 per cent in 2017 and 2.1 per cent in 2018 (Table 2 and Table 3). This projection for GDP growth is marked down from April. A more subdued investment profile, reflecting (in roughly equal parts) a downward revision to historical data and heightened caution in the face of uncertain demand prospects, lowers the trajectory of both real GDP and potential output. In addition, exports have been revised down in response to relatively weaker foreign demand, exacerbated by the effects on trade of the UK referendum (Box 1). These downward revisions are partially offset by higher oil prices, which result
+in a modest rebound in Canada’s terms of trade and a boost in real gross domestic income (GDI) and consumption.
+
+Difficult adjustments are proceeding in the resource sector
+The restructuring of the resource sector in response to low commodity prices is proceeding. Firms in the oil and gas sector have significantly reduced investment and employment (Chart 5). Capital spending plans suggest that the contraction of investment spending in the oil and gas sector will be nearly complete by the end of the year, at which time the level of investment in that sector will be about 60 per cent below its 2014 level.
+Other aspects of the restructuring, such as the shifting of employment opportunities across regions, are likely to continue for some time.
+Oil prices remain below the full-cycle break-even cost for many producers.5 In particular, prices remain below levels at which new investment projects in the oil sands are likely to be profitable, even with the recent increase.
+Nevertheless, oil sands production should continue to increase modestly as previously committed projects are completed and come on line.
+
+Chart 5: The investment share of the energy sector has shrunk rapidly
+Investment in the oil and gas sector as a share of nominal GDP, annual data
+%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+Sources: Statistics Canada and Bank of Canada calculations, estimates and projections
+4.5
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+
+5	Full-cycle project costs incorporate upfront fixed expenses, including for the procurement of land, engineering and the construction of infrastructure, as well as for project commissioning. These costs are in addition to operating costs, general and administrative expenses, taxes and sustaining capital costs.
+
+Growth in non-energy commodity exports is expected to remain subdued. Prices for base metals remain low, and excess supply and competitiveness challenges will persist in dampening production and investment spending in the sector. At the same time, conditions are more favourable for some other non-energy commodities: exports of building materials should continue to strengthen as the US housing market keeps on expanding, and agricultural production and exports will benefit from increasing global food demand.
+
+Non-commodity exports are expected to support growth
+An important aspect of the ongoing adjustment to lower commodity prices is the sequence of stronger non-commodity exports leading to increased investment, net firm creation and a rise in employment opportunities. This sequence is progressing, albeit unevenly.
+Recent monthly data on goods exports have disappointed. Looking through the monthly volatility, the Bank projects that the steady trend increase in non-commodity exports since the 2009 trough will continue (Chart 6). Non- commodity exports are expected to exceed the pre-recession peak starting next year.
+Solid foreign demand and the past depreciation of the Canadian dollar will continue to support non-commodity exports. The profile for non-commodity exports has nevertheless been revised down, reflecting in part an unexpected but temporary slowdown in US investment earlier this year. Non-commodity export growth is expected to be slightly stronger in 2017–18, but the level of non-commodity exports remains somewhat lower at the end of 2018.
+The projected growth profile for non-commodity exports relies on historical relationships between non-commodity exports, foreign demand and the value of the Canadian dollar.6 The prolonged period of disappointing global growth and weak demand for Canadian exports caused some firms to exit and a permanent loss of capacity.7 As a result, the response of exports to improving
+
+
+Chart 6: Real exports have been increasing steadily
+Chained 2007 dollars, quarterly data
+
+
+$ billions
+325
+
+300
+
+275
+
+250
+
+225
+
+
+2000     2002     2004     2006     2008     2010     2012     2014     2016     2018
+Non-commodity   exportsa	Commodity exports
+200
+
+a. Non-commodity exports includes goods and services.
+Sources: Statistics Canada and Bank of Canada calculations and projections
+
+6	For example, historical analysis suggests that currency depreciation would encourage exports, with the temporary boost to growth during the transition largely complete after six to eight quarters, leaving the level permanently higher.
+7	See Box 1, “Measuring Capacity Through a Business Cycle,” Bank of Canada Monetary Policy Report
+(October 2014): 16–17.
+
+demand and competitiveness may take longer to materialize should invest- ment in new capacity be required. In addition, the timing and magnitude of the benefits from the dollar’s earlier depreciation will vary across industries and will depend on the competitive position of other countries.
+Some of the more exchange-rate-sensitive categories of exports have been strengthening.8 The results of the spring 2016 EDC Trade Confidence Index Survey published by Export Development Canada and the Bank’s summer Business Outlook Survey (BOS) provide corroborating evidence of tangible positive effects of the lower dollar for Canadian exporters. Firms in the service industry that participated in the BOS anticipate robust sales, since many of them are benefiting from increasing foreign demand.
+Improved exports are expected to lead to more business investment, net firm creation and hiring. The latest data on the population of firms show encouraging growth of 2 per cent (year-over-year) in the first quarter of 2016, reflecting both an increase in the number of new firms and a decrease in the number of exiting firms. As well, capacity pressures have increased in much of the manufacturing sector, and financing conditions remain favourable.9 In addition, the past depreciation of the dollar has boosted margins and cash flow denominated in Canadian dollars, providing funding to expand invest- ment spending.
+These supportive business conditions have not yet translated into strong investment, likely because of uncertainty over future demand prospects and structural challenges.10 Consequently, the projection for investment growth has been marked down since April, with a small negative impact on poten- tial output. Nevertheless, as both foreign and domestic demand increase, industries outside the resource sector will need to invest to expand produc- tion. By the end of the year, non-resource investment is expected to dom- inate, resulting in an expansion of total business investment, and contribute to rebuilding capacity and increasing potential output. Over the projection horizon, investment in machinery and equipment as a share of output should begin to recover (Chart 7).
+
+Household spending is expected to grow moderately
+Consumption is projected to grow at a moderate pace, supported by con- tinued employment growth in the non-resource sector and federal fiscal measures (notably, the Canada Child Benefit). A comparison of employment and retail sales across regions illustrates divergent adjustments to low oil prices, with households in the energy-producing provinces cutting expendi- tures sharply (Chart 8).
+Over the projection horizon, real GDI is expected to rise with real GDP. While household expenditures will continue to be restrained by the ongoing wealth and income effects of the past decline in Canada’s terms of trade, the impact is expected to gradually diminish.
+
+8	Examples include building and packaging materials; furniture and fixtures; travel services; large motor vehicles (e.g., heavy trucks and buses); pharmaceutical and medicinal products; and aircraft, aircraft engines and aircraft parts.
+9	Most firms surveyed in the Bank’s summer BOS continue to characterize credit as easy or relatively easy to obtain. Nevertheless, firms directly or indirectly exposed to the energy sector again reported a tightening in credit conditions. Similarly, the further tightening in business-lending conditions reported by the Bank’s Senior Loan Officer Survey was concentrated in the oil and gas sector.
+10	Some industries (for example, motor vehicles and forest products manufacturing) have closed or moved production capacity out of Canada in recent years because of differences in unit labour costs, future supply constraints and structural factors (such as weaker demand in northern United States and Canada for auto parts and the transition toward digital technologies reducing demand for paper products).
+
+
+
+Chart 7: Investment in machinery and equipment as a share of GDP should begin to recover
+Investment in machinery and equipment as a share of nominal GDP, annual data
+%
+
+
+5.5
+
+5.0
+
+4.5
+
+4.0
+
+3.5
+
+
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+3.0
+
+Sources: Statistics Canada and Bank of Canada calculations and projections
+
+Chart 8: National household spending growth has held up despite weakness in energy-producing provinces
+Percentage change since November 2014, monthly data
+%	%
+6	30
+
+4	20
+
+2	10
+
+0	0
+
+-2	-10
+
+-4	-20
+
+-6
+Employment (Survey of Employment,
+Payrolls and Hours, left scale)
+
+Retail sales (nominal, left scale)
+
+Housing resales (right scale)
+-30
+National	Energy-producing provinces	Rest of Canada
+
+Note: The energy-producing provinces are Alberta, Saskatchewan and Newfoundland and Labrador.
+Sources: Statistics Canada and	Last observations: Employment and retail sales, April 2016; Bank of Canada calculations		housing resales, May 2016
+
+
+In the housing market, new construction and resale activity remain robust in British Columbia and Ontario, supported by strong demand, in part attribut- able to population and employment growth. The same factors are fuelling house price increases in these regions, particularly the greater Vancouver and Toronto areas. Sharply rising prices in these markets over the past year raise the possibility that prices are also being driven by self-reinforcing expecta- tions, making them more sensitive to an adverse shock to housing demand. In contrast, housing activity and house prices in the energy-producing provinces have declined; elsewhere in the country, housing growth has been modest, with most markets appearing balanced. Over the projection horizon, the contribution of residential investment to real GDP growth is anticipated to decrease and household sector vulnerabilities to stabilize.
+
+Inflation will average close to 2 per cent in 2017 as the output gap narrows
+Real GDP growth is projected to exceed potential output growth from the second half of 2016 (Table 2). The output gap is expected to close
+somewhat later than indicated in April, toward the end of 2017. The timing of the closing of the gap is highly uncertain and is influenced by downward
+revisions to both the projection for real GDP and potential output. The profile for potential output depends on the projection for investment spending,
+and both are currently subject to unusual uncertainty as a result of the economy’s ongoing complex structural adjustment as well as the difficult-to- forecast effect of Brexit.
+Total CPI inflation is projected to remain below 2 per cent through 2016 as disinflationary pressures associated with weak consumer energy prices and excess capacity more than offset the inflationary effects of exchange rate pass-through (Chart 9).11 The effects of these factors will gradually dissipate, and total CPI inflation is expected to average close to 2 per cent in 2017 as the output gap narrows.
+The near-term forecast for total CPI inflation is revised up from April, reflecting higher oil prices and some temporary factors. These factors include a revised view of the evolution of gasoline prices and tax changes.12
+Medium-term inflation expectations remain well anchored. The June Consensus Economics forecast for total CPI inflation is 1.6 per cent in 2016 and 2.1 per cent in 2017.
+
+Chart 9: Total CPI inflation is expected to remain below 2 per cent through 2016
+Contribution to the deviation of inflation from 2 per cent
+% 3.5
+Percentage points
+1.5
+3.0	1.0
+
+2.5	0.5
+
+2.0	0.0
+
+1.5	-0.5
+
+1.0	-1.0
+
+0.5	-1.5
+
+0.0	-2.0
+
+-0.5
+
+
+2014
+
+
+2015	2016	2017	2018
+
+-2.5
+Total inflation (year-over-year percentage change, left scale)
+Commodity prices excluding pass-through a (right scale)
+Output gap (right scale)
+Exchange rate pass-through (right scale)
+Other factors (right scale)
+
+a. Also includes the effect on inflation of the divergence from the typical relationship between gasoline and crude oil prices, the introduction of the cap-and-trade plan in Ontario and the Alberta carbon levy
+Sources: Statistics Canada and Bank of Canada estimates, calculations and projections
+
+11	For more details on inflation dynamics by sector, see L. Savoie-Chabot, “Ce que révèle une analyse sectorielle des dynamiques récentes de l’inflation au Canada,” Bank of Canada Staff Analytical Note No. 2016-7 (July 2016).
+12	These changes include an increase in the harmonized sales tax (HST) in New Brunswick and Newfoundland and Labrador starting in July. The implementation of a carbon levy in Alberta as of January 2017 is also pushing inflation up in 2017.
+
+Based on the past dispersion of private sector forecasts, a reasonable range around the base-case projection for total CPI inflation is ±0.3 percentage points. This range is intended to convey a sense of forecast uncertainty.
+A complementary perspective is provided using statistical analysis of the Bank’s forecast errors, which suggests that a 50 per cent confidence interval around the base-case projection widens from ±0.3 percentage
+points in the third quarter of 2016 to ±0.6 percentage points by the end of 2018. Over the same period, a 90 per cent confidence band widens from
+±0.6 to ±1.5 percentage points.
+Risks to thE inflation outlook
+BANK OF CANADA • MONETARy POLICy REPORT • JULy 2016
+
+
+
+
+
+
+
+
+
+
+Risks to the inflation outlook	
+The outlook for inflation is subject to several risks emanating from both the external environment and the domestic economy. Overall, the Bank
+judges that the risks to the projected path for inflation are roughly balanced. However, economic and geopolitical uncertainties have clearly risen in the wake of the Brexit vote. While the foreseeable consequences are incorpor- ated into the Bank’s base-case projection, there may be wider ramifica- tions that are difficult to forecast at this early stage and are therefore not included.
+Many of the risks mentioned in recent Reports remain important, although two that were identified in April—stronger momentum for Canadian exports and a more pronounced adjustment of the Canadian economy to low energy prices—are now viewed as less likely to materialize.
+(i)	Sluggish business investment
+Business investment has been unexpectedly weak across a number of advanced economies, including the United States and Canada.13 The lacklustre pace of business spending has been assumed to reflect mostly cyclical factors, such as slower growth of global demand and heightened uncertainty.14 But the weakness could also signal that demographic forces or some other structural factors are more relevant than previously estimated. Such factors would suggest a dimmer outlook for non-resource business investment in Canada than presented in the base-case projection. Weaker business invest- ment would also reduce capital deepening and lower potential output, partially mitigating the disinflationary effect of weaker demand.
+
+(ii)	Weaker household spending
+Household spending is expected to grow moderately over the projec- tion horizon, but a number of circumstances could lead to less robust spending than anticipated. Consumer sentiment remains lacklustre
+in the energy-producing provinces. At the same time, because households have become more indebted, their spending may be more sensitive to adverse shocks.15 Recent housing market develop- ments, particularly in Vancouver and Toronto and adjacent areas,
+
+13	See J.-D. Guénette et al., “The Case of Serial Disappointment,” Bank of Canada Staff Analytical Note (forthcoming).
+14	For more details on business investment, see M. Leboeuf and R. Fay, “What Is Behind the Weakness in Global Investment?” Bank of Canada Staff Discussion Paper No. 2016-05 (February 2016).
+15	For additional discussion of vulnerabilities related to the elevated level of Canadian household indebt- edness and to imbalances in the Canadian housing market, see the Bank of Canada Financial System Review (June 2016).
+Risks to thE inflation outlook
+BANK OF CANADA •  MONETARy POLICy REPORT • JULy 2016
+
+have exacerbated vulnerabilities in the household sector, increasing the likelihood and severity of a retrenchment in consumption should a house price correction occur.
+(iii)	Higher oil prices
+Strengthening demand, as well as supply constraints, could con- tribute to higher oil prices, although ongoing cost-cutting initiatives and technological advances would limit this upside potential. Growth in demand for gasoline has been robust in many major economies, especially the United States, suggesting that demand for oil may increase faster than expected. At the same time, persistently low investment in new oil projects since 2014 has significantly reduced prospects for supply growth. Shale oil production in the United States has declined substantially, and conventional oil production in other non-OPEC countries, including Canada, has been decreasing.16 Future production capacity may not be sufficient to meet demand, putting upward pressure on prices. Higher-than-expected oil prices would contribute to an improvement in Canada’s terms of trade, pro- viding a positive boost to wealth and household spending in Canada.
+
+(iv)	Slower growth in emerging-market economies
+Slower growth in EMEs is a downside risk, particularly in those that hold high levels of foreign-currency-denominated debt and in commodity exporters facing fiscal and other pressures. In China,
+increased emphasis by the authorities on short-term growth is con- tributing to a further buildup of financial imbalances. Slower growth in EMEs could affect Canada through several channels, including lower commodity prices, weaker export sales, increased uncertainty and financial market volatility.
+(v)	Stronger real GDP growth in the United States
+The downward revisions to the April Report’s projection of potential GDP growth in the United States could reflect an overly conservative interpretation of labour market and productivity trends. Productivity in the United States may rise more than expected if the persistent weak- ness in US growth includes a larger-than-estimated cyclical element. In particular, the ongoing recovery could lead to an acceleration in the rate of firm creation and more technological innovation. As well, the strong labour market and the creation of new businesses may draw more discouraged workers back into the labour force than expected. Any of these developments would raise the potential growth rate of the US economy, boosting real GDP growth. Stronger US economic growth could have positive spillovers to Canada from greater demand for Canadian exports and improved global confidence.
+
+
+
+
+
+
+
+
+
+16	Non-OPEC countries are those that are not members of the Organization of the Petroleum Exporting Countries.

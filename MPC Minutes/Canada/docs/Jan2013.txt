@@ -1,0 +1,2108 @@
+riiili"'iil BANK OF CANADA
+,1, • -&- BANQUE DU CANADA
+
+
+
+
+
+
+
+
+
+
+
+
+Monetary Policy Report
+January 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bankofcanada.ca
+ 
+Canada’s Inflation-Control Strategy1
+
+
+ 
+Inflation targeting and the economy
+•	The Bank’s mandate is to conduct monetary policy to pro- mote the economic and ﬁnancial well-being of Canadians .
+•	Canada’s experience with inflation targeting since 1991 has shown that the best way to foster conﬁdence in the value of money and to contribute to sustained economic growth, employment gains and improved living standards is by keeping inflation low, stable and predictable .
+•	In 2011, the Government and the Bank of Canada renewed Canada’s inflation-control target for a further ﬁve-year period, ending 31 December 2016 . The target, as measured by the total consumer price index (CPI), remains at the
+2 per cent midpoint of the control range of 1 to 3 per cent .
+The monetary policy instrument
+•	The Bank carries out monetary policy through changes in the target overnight rate of interest .2  These changes are transmitted to the economy through their influence on market interest rates, domestic asset prices and the exchange rate, which aﬀect total demand for Canadian
+goods and services . The balance between this demand and the economy’s production capacity is, over time, the pri- mary determinant of inflation pressures in the economy .
+•	Monetary policy actions take time—usually from six to eight quarters—to work their way through the economy and have their full eﬀect on inflation . For this reason, monetary policy must be forward looking .
+•	Consistent with its commitment to clear, transparent communications, the Bank regularly reports its perspec- tive on the forces at work on the economy and their
+ 
+implications for inflation . The Monetary Policy Report is a key element of this approach . Policy decisions are typically announced on eight pre-set days during the year, and full updates of the Bank’s outlook, including
+risks to the projection, are published four times per year in the Monetary Policy Report .
+Inflation targeting is symmetric and flexible
+•	Canada’s inflation-targeting approach is symmetric, which means that the Bank is equally concerned about inflation rising above or falling below the 2 per cent target .
+•	Canada’s inflation-targeting framework is flexible . Typically, the Bank seeks to return inflation to target over a horizon of six to eight quarters . However, the most appropriate horizon for returning inflation to target will vary depending on the nature and persistence of the shocks buﬀeting the economy .
+Monitoring inflation
+•	In the short run, a good deal of movement in the CPI is caused by fluctuations in the prices of certain volatile components (e .g ., fruit and gasoline) and by changes in indirect taxes . For this reason, the Bank also monitors a set of “core” inflation measures, most importantly the CPIX, which strips out eight of the most volatile CPI com- ponents and the eﬀect of indirect taxes on the remaining components . These “core” measures allow the Bank to “look through” temporary price movements and focus on the underlying trend of inflation . In this sense, core infla- tion is monitored as an operational guide to help the Bank achieve the total CPI inflation target . It is not a replace- ment for it .
+ 
+
+ 
+1	See Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Inflation-Control Target (8 november 2011) and
+Renewal of the Inflation-Control Target: Background Information—November 2011, which are both available on the Bank’s website .
+2	When interest rates are at the zero lower bound, additional monetary easing to achieve the inflation target can be provided through three unconven- tional instruments: (i) a conditional statement on the future path of the policy rate; (ii) quantitative easing; and (iii) credit easing . These instruments and the principles guiding their use are described in the Annex to the April 2009 Monetary Policy Report .
+
+
+
+
+
+
+
+The Monetary Policy Report is available on the Bank of Canada’s website at bankofcanada.ca.
+ 
+For further information, contact:
+Publication Information Communications Department Bank of Canada
+234 Wellington Street Ottawa, Ontario K1A 0G9
+ 
+Telephone: 613 782-8111;
+1 800 303-1282 (toll free in North America)
+Email: info@bankofcanada.ca Website: bankofcanada.ca
+ISSN 1201-8783 (Print)
+ISSN 1490-1234 (Online)
+©2013 Bank of Canada
+ 
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+January 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a report of the Governing Council of the Bank of Canada:
+Mark Carney, Tiff Macklem, John Murray, Timothy Lane and Agathe Côté.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“Achieving our objective will mean delivering a path of policy that adjusts as economic circumstances evolve…. Our goal, as always, is to ensure that households, firms and investors can make their decisions in a stable macro environment.”
+
+
+—Mark Carney
+
+Governor, Bank of Canada 11 December 2012 Toronto, Ontario
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Contents	
+Global Economy	1
+Global Financial Conditions	2
+United States	5
+Box 1: The Impact of the American Taxpayer Relief Act of 2012	7
+Euro Area	8
+Japan	10
+Emerging-Market Economies	10
+Commodity Prices	11
+Implications for the Canadian Economy	13
+Canadian Dollar	14
+Canadian Economy	17
+Financial Conditions	18
+Estimated Pressures on Capacity	21
+The Real Economy	23
+Box 2: Developments in the Canadian Energy Sector and
+Their Impact on the Economy	26
+Inflation	31
+Risks to the Outlook	35
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+The global economic outlook is slightly weaker than the Bank projected in its October Monetary Policy Report. At the same time, global tail risks have diminished. The economic expansion in the United States is continuing at a gradual pace, restrained by ongoing public and private deleveraging, global weakness and, more recently, by the uncertainty related to fiscal negotiations. Despite a marked improvement in peripheral sovereign debt markets, Europe remains in recession, and recent indicators point to a somewhat more pro- tracted downturn than expected in October. While growth in China is improving, economic activity has been slowing further in some other major emerging economies.
+Global economic growth is estimated to have slowed markedly in 2012, falling to 3.0 per cent, from 3.9 per cent in 2011. In 2013, the global economy is projected to continue to grow modestly, at a rate of 2.9 per cent, before picking up to 3.5 per cent in 2014 (Table 1). The Bank’s base-case scenario is predicated on the assumptions that the crisis in the euro area will remain contained and that a severe tightening of U.S. fiscal policy will be avoided.
+Overall, recent developments support these assumptions.
+
+Table 1: Projection for global economic growth
+
+	Share of real global GDPa (per cent)	Projected growthb (per cent)
+		2011	2012	2013	2014
+United States	19	1.8 (1.8)	2.3 (2.1)	2.1 (2.3)	3.1 (3.2)
+Euro area	14	1.5 (1.5)	-0.4 (-0.5)	-0.3 (0.4)	0.8 (1.0)
+Japan	6	-0.5 (-0.7)	2.0 (2.2)	1.0 (1.0)	1.2 (1.1)
+China	14	9.3 (9.3)	7.8 (7.6)	7.8 (7.7)	7.7 (7.7)
+Rest of the world	47	4.3 (4.3)	3.1 (3.2)	3.0 (3.1)	3.5 (3.3)
+World	100	3.9 (3.8)	3.0 (3.0)	2.9 (3.1)	3.5 (3.5)
+a.	GDP shares are based on International Monetary Fund (IMF) estimates of the purchasing-power-parity (PPP) valuation of country GDPs for 2011.
+Source: IMF, World Economic Outlook, October 2012
+b.	Numbers in parentheses are projections used for the October 2012 Monetary Policy Report. Source: Bank of Canada
+
+Considerable excess capacity in some advanced economies and the absence of underlying inflationary pressures have led central banks in these countries to undertake additional unconventional measures while main- taining historically low policy interest rates (Chart 1 and Chart 2). Supported by these actions and by positive policy developments in Europe, global financial conditions have improved, and commodity prices have stayed at historically elevated levels.
+ 
+
+
+ 
+
+ 
+Chart 1: Policy interest rates are at historically low levels in advanced economies…
+Policy interest rates, daily data
+
+ 
+
+
+
+% 4.5
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+ 
+2008	2009	2010	2011	2012	2013
+
+Canada	United States	Euro area	Japan
+Note: On 5 October 2010, the Bank of Japan changed the target for its policy rate from 0.1 per cent to a range of 0.0 to 0.1 per cent. The U.S. Federal Reserve has been maintaining a target range for its policy rate of
+0.0 to 0.25 per cent since 16 December 2008.
+Sources: Bank of Canada, U.S. Federal Reserve,
+European Central Bank and Bank of Japan	Last observation: 18 January 2013
+
+Chart 2: …and some central banks have undertaken additional unconventional measures
+Central bank assets relative to GDP, quarterly data
+% 35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+2006	2007	2008	2009	2010	2011	2012
+ 
+
+Bank of Canada	U.S. Federal
+Reserve
+ 
+
+European Central Bank
+ 
+
+Bank of England
+ 
+
+Bank of Japan
+ 
+Sources: Bank of Canada, Statistics Canada; U.S. Federal Reserve, U.S. Bureau of Economic Analysis; European Central Bank, Eurostat; Bank of England, U.K. Office for National Statistics; Bank of Japan,
+Cabinet Office of Japan	Last observation: 2012Q3
+
+
+Global Financial Conditions
+Global financial conditions have improved since the last Report and are increasingly supportive of growth. Investors continue to be cautious, how- ever, reflecting ongoing concerns about the prospects for global economic growth, policy implementation in the euro area, and uncertainty surrounding the U.S. fiscal outlook and debt-ceiling negotiations. Trading volumes across asset classes have generally been low in recent months, with many market participants preferring to sit on the sidelines.
+ 
+
+
+ 
+Chart 3: Yields in peripheral euro-area economies have declined sharply…
+Yields on 10-year sovereign bonds, daily data
+%	%
+8	20
+
+7	16
+
+6	12
+
+5	8
+
+4	4
+
+3	0
+Jan    Apr     Jul     Oct    Jan    Apr     Jul     Oct    Jan    Apr     Jul     Oct    Jan
+2010	2011	2012	2013
+Italy (left scale)	Spain (left scale)	Portugal (right scale)
+
+Source: Bloomberg	Last observation: 18 January 2013
+
+
+In the euro area, positive developments have led to a significant easing in finan- cial conditions since the October Report. Euro-area finance ministers (the Eurogroup) have agreed to disburse the next loan tranche to Greece from the European Financial Stability Facility (EFSF) and to further support Greece’s debt sustainability by lengthening the term of the loans and lowering the interest rate.1 European Union finance ministers also reached an agreement on a common bank supervisory framework for the euro area. In light of these and other developments, funding conditions have improved for European banks. Moreover, peripheral euro-area sovereign bonds and European equity markets have per- formed well since the October Report. Yields on 10-year bonds for most periph- eral euro-area countries have declined sharply, returning to levels recorded in late 2010 (Chart 3), and euro-area stock market indexes have outperformed those of most other major economies (Chart 4). Significant risks nevertheless remain. There are signs of continuing fragmentation in the European financial system, which is contributing to a divergence in borrowing rates across coun- tries, and the most recent bank lending survey in the euro area suggests that banks continue to tighten credit standards on loans to businesses.
+In the United States, the Federal Reserve announced its intention to provide further policy accommodation through purchases of longer-term Treasury securities at a pace of US$45 billion per month.2 This new initiative, which replaces the recently expired Maturity Extension Program, was in line with market expectations. The Federal Reserve also modified its forward guid- ance by linking future rate increases to specific thresholds for economic indicators (instead of providing a conditional time horizon). The federal funds rate is thus expected to stay at exceptionally low levels at least as long as the unemployment rate remains above 6.5 per cent, subject to projected inflation one and two years ahead remaining below 2.5 per cent and longer- term inflation expectations continuing to be well anchored.
+
+1	Member states authorized the release of the instalment, and it was formally approved by the Eurogroup on 13 December 2012. The IMF Executive Board also completed its reviews of Greece’s economic performance under an Extended Fund Facility program, and approved the disbursement of the loan payment on 16 January 2013.
+2	This is in addition to the previously announced purchase of agency mortgage-backed securities at a pace of US$40 billion per month.
+ 
+
+
+ 
+
+ 
+Chart 4: …while global equity prices have risen
+Index: 3 January 2012 = 100, daily data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan    Feb   Mar    Apr   May   Jun    Jul    Aug   Sep   Oct   Nov   Dec   Jan
+ 
+
+
+
+Index 130
+125
+
+120
+
+115
+
+110
+
+105
+
+100
+
+95
+
+90
+
+85
+ 
+2012	2013
+Canada	United States	Euro area	Japan	Emerging-market
+economies
+Source: Bloomberg	Last observation: 18 January 2013
+
+Chart 5: Yields on U.S. corporate debt are near record lows…
+Yields to maturity on U.S. corporate bonds, daily data
+%	%
+7	11
+
+6	10
+
+5	9
+
+4	8
+
+3	7
+
+ 
+2
+Jan	Apr		Jul	Oct	Jan	Apr	Jul		Oct 2011				2012
+ 
+6
+Jan 2013
+ 
+U.S. AAA-A bonds (left scale)	U.S. high-yield bonds (right scale)
+Source: Merrill Lynch	Last observation: 18 January 2013
+Sentiment improved in U.S. financial markets following the partial resolution of the fiscal cliff, with yields on Treasuries and other major government bonds increasing markedly, especially at the long end of the yield curve.
+U.S. financial conditions nevertheless remain supportive of growth, with corporate credit yields near record-low levels despite the rise in Treasuries (Chart 5). U.S. high-yield spreads have narrowed further, and issuance has remained exceptionally robust, underpinned by strong investor demand for corporate bonds (Chart 6). While the debate over the fiscal cliff put down- ward pressure on U.S. equity prices toward the end of 2012, they have since rebounded, reflecting the recent improvement in market sentiment.
+ 
+
+
+ 
+
+ 
+Chart 6: …and U.S. corporate bond issuance has been robust
+Global corporate issuance placed in U.S. dollars, quarterly data
+ 
+
+
+
+US$ billions
+450
+
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+ 
+Q1	Q2	Q3	Q4	Q1	Q2	Q3	Q4	Q1	Q2	Q3	Q4 2010				2011					2012
+ 
+High-yield bonds Investment-grade bonds
+ 
+2010 quarterly average
+2011 quarterly average
+ 
+2012 quarterly average
+ 
+Note: Quarterly averages include both high-yield and investment-grade bonds.
+Source: Bloomberg	Last observation: 2012Q4
+
+
+United States
+U.S. GDP growth accelerated to 3.1 per cent in the third quarter of 2012. Temporary increases in defence spending and a strong contribution from inventory investment more than offset a decline in business fixed invest- ment, which partly reflected ongoing uncertainty surrounding the future course of fiscal policy. However, the Bank estimates that U.S. GDP growth slowed sharply in the fourth quarter of 2012, dampened by weak external demand, the persistent drag from elevated uncertainty and the effects of Hurricane Sandy.
+The pace of U.S. economic activity is expected to improve gradually through 2013 and 2014. On an average annual basis, GDP growth is projected to reach 2.1 per cent in 2013 and 3.1 per cent in 2014, revised down slightly from the October Report. Growth is supported by highly accommodative monetary policy, a reduction in uncertainty associated with fiscal policy, continuing improvement in the housing market and a gradual pickup in external demand. Nevertheless, fiscal consolidation and, to a lesser degree, household deleveraging will continue to restrain activity. Overall, the U.S. economy is projected to expand at a relatively modest pace, consistent with other economies that have experienced severe financial crises (Chart 7).
+Fiscal consolidation will exert a significant drag on U.S. economic growth, as expected in the October Report. Although the adoption of the American Taxpayer Relief Act of 2012 means that the fiscal cliff has, to a large extent, been avoided, negotiations on other important issues are ongoing, and much uncertainty remains. The Bank continues to assume that U.S. fiscal policy will subtract roughly 1.5 percentage points from growth in both
+2013 and 2014 (Box 1).
+U.S. households have made considerable progress in repairing their balance sheets (Chart 8). However, while the drag from household deleveraging is expected to diminish over the projection horizon, tighter fiscal policy and a gradual improvement in employment suggest that consumer expenditures
+ 
+
+will grow only modestly. Residential investment, in contrast, has rebounded strongly in recent quarters, albeit from historically low levels. Home-builder sentiment has improved significantly, and the number of housing starts is well above the level recorded a year ago (Chart 9). Underlying demographic demand and significantly improved affordability are expected to boost resi- dential construction over the projection horizon.
+U.S. business fixed investment slowed markedly through the first three quarters of 2012 as a result of the heightened uncertainty associated with the fiscal outlook (Chart 10). A rapid increase in investment spending is
+
+Chart 7:  U.S. real GDP growth is projected to remain modest
+U.S. real GDP across economic cycles; start of recession = 100, quarterly data
+Index 145
+
+135
+
+125
+
+115
+
+105
+
+95
+
+85
+-2	-1	0	1	2	3	4	5	6	7
+
+ 
+U.S. current cycle Base-case projection
+ 
+The Big Five modern financial crises
+Range of past U.S. recessions (1948 onward)
+ 
+Note: The Big Five modern financial crises, as described in Reinhart and Rogoff (2008), are Spain (1977), Norway (1987), Finland (1991), Sweden (1991) and Japan (1992). See C.M. Reinhart and K.S. Rogoff,
+“Is the 2007 U.S. Sub-Prime Financial Crisis So Different? An International Historical Comparison,”
+American Economic Review: Papers and Proceedings 98, no. 2 (2008): 339–44.
+Sources: U.S. Bureau of Economic Analysis, Organisation for Economic Co-operation and Development, and Bank of Canada projections
+
+Chart 8: U.S. households have made considerable progress deleveraging
+Quarterly data
+Ratio	Ratio
+7.0	1.7
+
+ 
+
+6.5
+
+
+6.0
+ 
+1.6
+
+1.5
+
+1.4
+ 
+
+ 
+
+5.5
+ 
+1.3
+ 
+
+1.2
+5.0
+1.1
+
+ 
+4.5
+ 
+1.0
+1990 1992  1994  1996  1998  2000  2002  2004  2006  2008  2010 2012
+ 
+
+Net worth to disposable income (left scale)	Debt to disposable income (right scale)
+
+Note: U.S. debt calculations include the unincorporated business sector.
+Sources: U.S. Federal Reserve and U.S. Bureau of Economic Analysis	Last observation: 2012Q3
+
+ 
+
+ 
+expected in mid-2013, supported by healthy corporate balance sheets and record-low corporate yields. The level of investment is projected to be lower than was expected at the time of the October Report, however, reflecting a larger and more persistent impact from elevated excess capacity and tight borrowing conditions in the commercial real estate sector.
+U.S. export growth is projected to remain weak in early 2013, constrained by sluggish demand from major trading partners, especially Europe. A gradual rebound is expected beginning in the middle of the year as global demand
+ 
+
+
+
+
+
+
+U.S. exports are somewhat lower than previously anticipated
+ 
+
+Box 1
+
+The Impact of the American Taxpayer Relief Act of 2012
+ 
+As expected at the time of the october Report, the so-called “ﬁscal cliﬀ” was avoided by the recently enacted American Taxpayer Relief Act of 2012 . The “ﬁscal cliﬀ” refers to a number of expiring tax provisions and automatic spending cuts (also known as sequestration) that were to come into
+ 
+
+Chart 1-A: Fiscal consolidation is projected to have a significant dampening effect on U.S. economic growth through 2014
+Contributions to real GDP growth in percentage points, annual data
+%	Percentage points
+ 
+eﬀect in January 2013 . According to Bank estimates, these	5
+measures represented close to US$600 billion (4 1 per cent
+of U .S . GDP) in additional ﬁscal tightening in 2013 .	4
+While the American Taxpayer Relief Act eliminated most of	3
+the scheduled tax increases, there were two notable excep-
+tions: (i) upper-income households now face higher tax rates	2
+on marginal income, capital gains and dividends, starting at	1
+a threshold of $400,000 for individuals and $450,000 for
+households; and (ii) the 2 per cent payroll tax holiday for all	0
+individuals was allowed to expire on 1 January The other tax
+holidays that were set to expire were either made permanent,	-1 such as the Bush-era income tax cuts for lower- and middle-in- come households, or were temporarily extended, as in the case	-2
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2011	2012
+ 
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+2013	2014
+ 
+of the tax treatment of capital depreciation for businesses . In addition, the Alternative Minimum Tax has now been perma- nently indexed to inflation . The agreement also prolonged the
+ 
+GDP growth excluding fiscal policy (left scale)
+ 
+GDP growth (left scale)
+ 
+Estimated contribution from fiscal policy
+(right scale)
+ 
+extended unemployment insurance beneﬁts to the end of 2013 . In total, this agreement by itself represents an estimated ﬁscal tightening of around US$150 billion in 2013, which is in addi- tion to some previously agreed-upon consolidation .
+A number of ﬁscal issues remain unresolved, however . First, legislators will have to address the issue of the government’s debt ceiling by late February . Second, the implementation of sequestration (totalling roughly US$80 billion in 2013) has been delayed for two months and is expected to be renegoti- ated, with most of the impact to be felt after 2013 . Finally, the U .S . government’s current agreement with Congress
+for funding (the “continuing resolution”) expires at the end of March; if this issue is left unresolved, it will lead to a gov- ernment shutdown of non-essential functions . Some form of agreement on these issues is needed before the end of February, setting the stage for another round of contentious
+ﬁscal negotiations . notwithstanding the elevated uncertainty
+ 
+Note: The contribution of fiscal policy to growth includes both direct government expenditures and the indirect effects on other components of aggregate demand.
+Sources: U.S. Bureau of Economic Analysis and Bank of Canada calculations and projections
+
+
+remains a reasonable assumption (Chart 1-A) . However, the timing of the drag between the two years may be slightly diﬀerent .
+The process of addressing these ﬁscal issues has resulted in a heightened level of uncertainty for U .S . businesses and
+households . While it is diﬃcult to estimate the exact negative impact of uncertainty, it appears to be largely responsible for the sudden slowdown in the past year in U .S . non-residential ﬁxed investment1—a particularly important component of
+U .S . demand for Canadian exporters . Growth in U .S . invest- ment spending is expected to accelerate over time as the uncertainty related to ﬁscal policy gradually dissipates .
+ 
+about the result of future negotiations, the Bank judges that	 	
+the 1 .5 percentage points of ﬁscal drag built into its fore-
+ 
+cast for 2013 and 2014, as presented in the october Report,
+ 
+1 Investment fell from an average annualized quarterly growth rate of 10 per cent in 2011 to around 3 per cent in the ﬁrst three quarters of 2012 .
+ 
+
+ 
+Chart 9: The U.S. housing market is improving
+Monthly data
+Index	Thousands of units
+80	2400
+
+65	2050
+
+1700
+50
+1350
+35
+1000
+
+20	650
+
+ 
+5
+2004	2005	2006	2007	2008	2009	2010	2011	2012 2013
+ 
+300
+ 
+
+Home-Builders Housing Market Index (left scale)
+ 
+
+Housing starts (right scale)
+ 
+Note: The Housing Market Index (HMI) is based on a monthly survey of members of the National Association of Home Builders and is designed to take the pulse of the single-family housing market.
+Sources: U.S. Census Bureau and
+National Association of Home Builders	Last observations: December 2012 and January 2013
+
+Chart 10: Uncertainty has weighed on U.S. business fixed investment
+Annualized growth rates, quarterly data
+% 30
+
+20
+
+10
+
+0
+
+-10
+
+-20
+
+-30
+
+ 
+
+2008	2009	2010	2011	2012
+Real private non-residential fixed investment
+ 
+-40
+ 
+
+Source: U.S. Bureau of Economic Analysis	Last observation: 2012Q3
+
+
+starts to recover. Exports are nevertheless somewhat lower than previously anticipated, consistent with downward revisions to the outlooks for both Canada and the euro area. Although U.S. imports are expected to pick up with the improvement in domestic demand, overseas energy imports will be dampened by increased production from domestic sources.3
+
+Euro Area
+Euro-area GDP contracted by 0.3 per cent in the third quarter of 2012, its fourth consecutive decline, and recent indicators point to a deepening recession in the fourth quarter. The deterioration in industrial production in
+
+3	According to the U.S. Energy Information Administration, U.S. oil production is expected to increase from 5.65 million barrels per day in 2011 to almost 8 million barrels per day in 2014.
+ 
+
+
+ 
+Chart 11: Industrial production is declining in core European economies
+Year-over-year growth rates, monthly data
+% 16
+14
+12
+10
+8
+6
+4
+2
+0
+-2
+-4
+Jan	Apr		Jul	Oct	Jan	Apr	Jul		Oct	-6 2011					2012
+Germany	France	Euro area
+Source: Eurostat	Last observation: November 2012
+
+Chart 12: Europe is stagnating
+Euro-area real GDP across economic cycles; start of recession = 100, quarterly data
+Index 120
+
+115
+
+110
+
+105
+
+100
+
+95
+
+90
+-2	-1	0	1	2	3	4	5	6
+ 
+
+Euro-area current cycle Base-case projection
+ 
+
+The Big Five modern financial crises Range of past euro-area recessions (1980 onward)
+ 
+Note: The Big Five modern financial crises, as described in Reinhart and Rogoff (2008), are Spain (1977), Norway (1987), Finland (1991), Sweden (1991) and Japan (1992). See C.M. Reinhart and K.S. Rogoff,
+“Is the 2007 U.S. Sub-Prime Financial Crisis So Different? An International Historical Comparison,”
+American Economic Review: Papers and Proceedings 98, no. 2 (2008): 339–44.
+Sources: Eurostat, Organisation for Economic Co-operation and Development, and Bank of Canada projections
+
+
+Germany and France suggests that depressed demand from the peripheral countries is increasingly affecting activity in the core countries, especially business investment (Chart 11).
+Despite improving market sentiment, the euro-area economy is expected to remain very weak, with bank deleveraging, fiscal austerity, financial market tensions and heightened uncertainty weighing on the growth of domestic demand (Chart 12). Recent data on real activity, as well as the latest bank credit data, suggest that the economic recovery will be slower than
+ 
+
+originally thought, in part because fiscal austerity measures and tight credit conditions are taking a greater-than-expected toll on economic activity.
+Euro-area GDP growth in 2013 and 2014 has therefore been revised down to
+-0.3 per cent and 0.8 per cent, respectively.
+Even with some recent moderation, headline inflation remains slightly above the European Central Bank’s target of “below, but close to, 2 per cent,” boosted by high energy prices and increases in indirect taxes and adminis- tered prices in some euro-area countries. However, inflation is expected to fall below 2 per cent in 2013 following the runoff of these temporary factors, as significant excess capacity continues to dampen price pressures.
+Although the tail risks associated with Europe have diminished, substantial fiscal and structural adjustments will be needed over an extended period to contain the crisis and put the euro area onto a sustainable path. As a result, market and business confidence will likely be restored only gradually.
+
+Japan
+Real GDP in Japan fell by 3.5 per cent in the third quarter of 2012, owing to a sharp decline in both exports and private domestic demand. While
+some of the recent weakness can be attributed to geopolitical tensions with China, the contraction was more pronounced and more broadly based than anticipated in October.
+Real GDP is expected to grow at a modest pace through 2013 and 2014. A gradual pickup in foreign demand, aided by a return to more normal rela- tions with China and the lagged effects of the recent depreciation of the yen, is expected to boost economic activity. Domestic demand continues to rely on macro policies for growth, with new monetary and fiscal measures more than offsetting the waning support from post-earthquake spending on reconstruction.4 However, the planned increase in the value-added tax on consumption is expected to dampen growth in 2014.5
+
+Emerging-Market Economies
+Real GDP growth in China picked up in the fourth quarter, increasing to
+7.9 per cent on a year-over-year basis, consistent with the recent improve- ment in industrial production (Chart 13). This rebound follows a gradual deceleration over the past three years, driven mainly by reduced growth in foreign demand and, more recently, efforts by Chinese authorities to rein in an overheated property market. As in the October Report, economic growth is expected to stabilize in a range of 7.5 per cent to 8 per cent through 2014, supported in the near term by announced fiscal policy measures and strong credit growth and, subsequently, by a pickup in global demand. In addition, healthy wage increases should help boost domestic consumption. Investment growth, on the other hand, is expected to slow gradually, owing in part to more modest spending on housing. Policy-makers will likely be cautious about providing additional stimulus in order to avoid exacerbating existing imbalances in the economy.
+
+4	Additional fiscal stimulus, including an “emergency stimulus package” of over ¥13 trillion approved by the Cabinet on 15 January as part of a supplementary budget incorporating both government spending and tax relief measures, and new monetary stimulus announced on 20 December are expected to boost GDP growth over the projection period.
+5	Japan’s value-added tax on consumption is projected to increase from 5 per cent to 8 per cent in April 2014 and to 10 per cent in October 2015. The new government has indicated, however, that this increase will be conditional on the prevailing economic situation.
+ 
+
+
+ 
+Chart 13: Industrial production in China has picked up
+Year-over-year growth rates, monthly data
+%	%
+16	16
+
+15	14
+
+14	12
+
+13	10
+
+12	8
+
+11	6
+
+10	4
+
+9	2
+
+8	0
+
+r (right scale)
+Note: The growth rate for the steel and power subcomponents is measured from the 3-month moving average of the seasonally adjusted series for the production of steel products and power generation in China.
+Sources: China National Bureau of Statistics
+and Bank of Canada calculations	Last observation: December 2012
+
+
+With consumer price inflation at 2.5 per cent in December, inflationary pressures in China remain contained. In coming months, however, rising world food prices, caused by severe droughts in a number of major food- producing countries, are expected to exert upward pressure on China’s rate of inflation.
+In other emerging-market economies (EMEs), such as Brazil, India and Russia, the pace of economic activity has continued to slow or has stagnated. Weak external demand (particularly from the euro area) is dampening exports.
+Domestically, declining investment growth continues to weigh on activity, reflecting slow progress in implementing structural reforms, tight financing conditions and, in some cases, the lagged impact of past policy tightening.
+Although some EMEs have entered 2013 with solid momentum, there is still significant regional differentiation. The slight improvement in growth pros- pects is mainly concentrated in emerging Asia and parts of Latin America, while activity in emerging Europe continues to slow, given its close links with the euro area. Economic growth in EMEs is thus expected to be relatively modest through the first half of 2013 before gradually picking up as export markets strengthen somewhat and monetary and fiscal policies provide support. New fiscal measures are being implemented in Korea and Brazil, and most EMEs have the fiscal capacity to provide additional stimulus if needed.
+
+Commodity Prices
+Global commodity prices remain elevated. Global prices for crude oil, as measured by the Brent benchmark, have fluctuated within a relatively narrow range since the October Report, and continue to be boosted by tensions in the Middle East. Although still depressed by excess supply conditions in North America, the West Texas Intermediate (WTI) benchmark has increased steadily since mid-December, leading to a narrower discount relative to Brent. The latest futures curves suggest a modest decline in Brent crude oil
+ 
+
+prices over the projection horizon as geopolitical tensions abate, while WTI prices are expected to remain relatively flat. Progress toward alleviating the current supply glut should result in a further gradual narrowing of the spread between these two benchmarks (Chart 14).
+While natural gas prices are still very low at US$3.50 per million Btu, they are well above the decade low recorded in April 2012. This increase largely reflects significant progress on the switchover from coal to natural gas for electricity generation. Natural gas prices retreated somewhat in December,
+
+Chart 14: The spread between the Brent and WTI crude oil benchmarks is expected to narrow
+Monthly data
+US$/barrel
+130
+
+120
+
+110
+
+100
+
+90
+
+80
+
+ 
+
+2010	2011	2012
+ 
+70
+2013	2014
+ 
+
+Brent crude oil Brent futures price
+ 
+
+WTI crude oil WTI futures price
+ 
+Note: Values for January 2013 are estimates based on the average daily spot prices up to
+18 January 2013. Futures prices are estimates based on an average of futures contracts over the two weeks ending 18 January 2013.
+Source: Bank of Canada
+
+Chart 15: The recovery of the U.S. housing market is driving lumber prices higher
+Monthly data
+ 
+US$ per thousand board feet 375
+ 
+Thousands of units
+1050
+ 
+
+350	950
+
+325	850
+
+300	750
+
+275	650
+
+ 
+250
+
+225
+ 
+
+
+
+
+2010	2011	2012
+ 
+550
+
+450
+ 
+
+Lumber prices (left scale)	Housing starts (right scale)
+Note: Lumber prices refer to 2” x 4” spruce, pine and fir. Sources: U.S. Census Bureau and
+Resource Information Systems Inc.	Last observation: December 2012
+
+ 
+
+owing to warmer-than-expected weather conditions, but have rebounded recently and are now close to the levels observed at the time of the October Report. The futures curve indicates a steady rise in natural gas prices to slightly above US$4 per million Btu by the end of 2014, similar to expecta- tions in October.
+Base metals prices are little changed since the last Report, but are expected to rise gradually in coming years, supported by continued steady growth in demand from EMEs. Prices for forestry products, in contrast, have surged by more than 10 per cent since mid-October and are projected to increase further in tandem with the recovery in the U.S. housing sector (Chart 15).
+Although prices for agricultural products are also projected to rise through mid-2013, reflecting a delayed increase in livestock prices following the drought in 2012, they should ease thereafter as the supply of grains begins to normalize. Prices for non-energy commodities have been revised up slightly over the projection horizon, relative to the October Report.
+
+Implications for the Canadian Economy
+External demand for Canada’s manufacturing exports remains quite modest relative to its pre-recession level, largely because of the still-low level of activity in the U.S. housing sector.6 As the U.S. housing market recovers and business investment activity strengthens, the foreign activity measure is expected to accelerate and grow at a faster pace than U.S. GDP (Chart 16). Owing to the downward revision to the projected profile for U.S. business fixed investment, the level of external demand for Canadian goods is antici- pated to remain below expectations at the time of the October Report.
+Despite rising WTI oil prices, the Bank of Canada’s commodity price index (BCPI) is little changed since mid-October, with the marked decline in the prices received by Canadian producers of heavy crude oil offsetting the sharp increase in the prices of forestry products (Chart 17). Constraints on
+
+Chart 16: The foreign activity measure is expected to grow at a faster pace than U.S. real GDP
+Index: 2007Q4 = 100, quarterly data
+Index 110
+
+105
+
+100
+
+95
+
+90
+
+85
+
+80
+2005    2006    2007    2008    2009    2010    2011    2012    2013    2014
+
+Foreign activity measure	U.S. real GDP
+Sources: U.S. Bureau of Economic Analysis and Bank of Canada calculations and projections
+
+6	The foreign activity measure has recovered only 60 per cent of the decline recorded during the 2008–09 recession. The foreign activity measure captures the composition of foreign demand for Canadian exports by weighting the various components of U.S. private final domestic demand and economic activity in other countries according to their importance for Canada’s trade.
+ 
+
+
+ 
+Chart 17: The Bank’s commodity price index is little changed, on balance
+Bank of Canada commodity price index (rebased to January 2003 = 100), monthly data
+
+Index 250
+240
+230
+220
+210
+200
+190
+180
+170
+160
+150
+2010	2011	2012	2013
+ 
+
+All commodities (US$)
+Non-energy commodities (US$) Energy commodities (US$)
+ 
+
+Daily value of the BCPI (18 January 2013)
+Daily value of the non-energy commodity price index (18 January 2013)
+  Daily value of the energy commodity price index (18 January 2013)
+ 
+Note: Values for January 2013 are estimates based on the average daily values up to 18 January 2013. Source: Bank of Canada	Last observation: 18 January 2013
+
+
+pipeline capacity and refinery outages have pushed the price of Western Canada Select (WCS) down from US$78 per barrel to slightly less than US$60 per barrel. These developments have put pressure on Canada’s terms of trade and real gross domestic income, and have contributed to the recent slowdown in engineering investment in Canada (Box 2, page 26).
+The BCPI is expected to rise modestly over the projection horizon, as WCS prices move higher in response to easing constraints on refinery and pipe- line capacity. Gradually rising prices for natural gas and base metals, as well as further gains in the prices of forestry products, are also expected to contribute to the increase in the BCPI. Given the lower projected prices for domestically produced oil, however, the BCPI is expected to remain below the level anticipated at the time of the October Report over most of the projection horizon.
+
+Canadian Dollar
+The Canadian dollar has traded within a relatively narrow range since the October Report, averaging 101 cents U.S. (Chart 18), the same level as assumed in October. It is assumed to remain at this level over the projection horizon.
+ 
+
+
+ 
+
+ 
+Chart 18: The Canadian dollar has traded in a relatively narrow range
+Daily data
+Index 130
+ 
+
+
+
+US$ 1.10
+ 
+
+
+120
+ 
+
+1.05
+
+1.00
+ 
+
+ 
+
+110
+
+
+
+100
+ 
+0.95
+
+0.90
+
+0.85
+
+0.80
+ 
+
+ 
+90
+2008	2009	2010	2011	2012
+ 
+0.75
+2013
+ 
+CERI: Canadian-dollar effective exchange rate index (against U.S. dollar, euro, yen, U.K. pound, Mexican peso and Chinese renminbi)
+(left scale, 1992 = 100)
+ 
+Closing spot exchange rate for Canadian dollar vis-à-vis U.S. dollar (right scale)
+ 
+Note: A rise in either series indicates an appreciation of the Canadian dollar.
+Source: Bank of Canada	Last observation: 18 January 2013
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+Canadian Economy
+
+ 
+The slowdown in the Canadian economy in the second half of 2012 was more pronounced than the Bank had anticipated at the time of the October Report.
+In particular, exports and business fixed investment have been weaker (Chart 19), reflecting both foreign and domestic developments. While global tail risks have diminished, foreign demand has been more subdued than expected. At the same time, the less-favourable prices received by Canadian energy producers, together with the continued elevated level of uncertainty,
+have led to slower growth in final domestic demand. As anticipated, Canadian households have shown a more cautious attitude toward spending.
+The Bank projects a return to above-potential growth in the Canadian economy through 2013, supported in particular by rebounds in business fixed investment and exports. The projected level of exports nonetheless remains below its
+pre-recession peak until the second half of 2014, owing to the weak level of foreign demand and competitiveness challenges, including the persistent strength of the Canadian dollar. Growth in consumption is expected to be maintained at a moderate pace, while residential investment is still expected to decline from historically high levels. The Bank expects trend growth in house- hold credit to moderate further, with the debt-to-income ratio stabilizing near current levels.
+ 
+The slowdown in the Canadian economy in the second half of 2012 was more pronounced than anticipated
+
+
+
+
+
+
+The Bank projects a return to above-potential growth through 2013
+ 
+
+ 
+Chart 19: Business fixed investment and net exports are expected to rebound from recent weakness
+Contributions to real GDP growth; 4-quarter moving average
+%	Percentage points
+6	6
+
+5	5
+
+4	4
+
+3	3
+2	2
+
+1	1
+
+0	0
+
+-1	-1
+
+-2	-2
+
+-3	-3
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+2010	2011	2012	2013	2014
+GDP growth (left scale)	Business fixed investment and net exports (right scale)
+Other components of GDP (right scale)
+Sources: Statistics Canada and Bank of Canada calculations and projections
+
+ 
+
+Although the Bank still sees a rebound in the growth of real GDP, economic activity in Canada is expected to be more restrained than projected in the October Report. As a result, the economy is now forecast to return to full capacity only in the second half of 2014.
+Core inflation has softened more than the Bank had expected. More muted price pressures across a wide range of goods and services have been observed, consistent with the unexpected increase in excess capacity in the Canadian economy and greater competitive pressures among retailers. Total CPI inflation has also been lower than anticipated, reflecting developments in core inflation and weaker-than-projected gasoline prices. Total inflation is expected to remain around 1 per cent in the near term before rising gradually, along with core infla- tion, to the 2 per cent target in the second half of 2014 as the economy returns to full capacity and inflation expectations remain well anchored. This inflation projection is weaker than in the October Report, owing to greater excess supply in the Canadian economy over most of the projection horizon, as well as the anticipated persistence of recent relative price shocks in coming quarters.
+
+Financial Conditions
+Against a backdrop of some further improvement in global financial condi- tions, the supply and price of credit for businesses and households in Canada remain very stimulative (Chart 20), providing important ongoing support to the economic expansion.
+Canadian financial markets have remained strong in recent months. Yields on both Canadian government and corporate bonds have stayed at excep- tionally low levels, partly because of sustained international demand for the debt of Canadian governments, banks and corporations, a sign that their credit quality is perceived to be high by global standards. In this context, the volume of corporate bond issuance has picked up in recent months, and issuance for 2012 as a whole reached its highest level since 2007 (Chart 21). Moreover, the S&P/TSX Composite Index has remained firm since the October Report, following significant gains during the summer months, and volatility has been relatively low.
+
+Chart 20: Borrowing costs for businesses and households remain at exceptionally low levels
+Weekly data
+%
+7.0
+
+6.5
+
+6.0
+
+5.5
+
+5.0
+
+4.5
+
+4.0
+
+3.5
+
+3.0
+2.5
+2008	2009	2010	2011	2012	2013
+Effective business interest rate	Effective household interest rate
+Note: For more information on these series, see <http://credit.bankofcanada.ca/financialconditions>.
+Source: Bank of Canada calculations	Last observation: 18 January 2013
+
+ 
+
+Canadian banks continue to be well positioned to lend, with ready access to low-cost funding across the term structure in both Canadian and foreign
+currencies. Responses to the Bank’s latest Senior Loan Officer Survey (avail- able on the Bank’s website under Publications and Research > Periodicals > SLOS 2012Q4) and the balance of opinion of Canadian firms surveyed in the Bank’s winter Business Outlook Survey (available on the Bank’s website under Publications and Research > Periodicals > BOS Winter 2012-13) together sug- gest that business-lending conditions have changed little in recent months, following a period of almost uninterrupted easing since late 2009 (Chart 22).
+
+
+
+ 
+Chart 21: Bond issuance by Canadian firms has picked up
+Corporate debt issuance by domestic firms in Canadian dollars
+ 
+
+
+
+Can$ billions
+30
+ 
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+Non-financial issues	Financial issues
+
+
+ 
+Chart 22: Lending conditions for Canadian firms have changed little in recent months
+Balance of opinion
+ 
+
+
+
+% 100
+ 
+
+80
+
+60
+
+40
+
+20
+
+0
+
+-20
+
+-40
+ 
+
+
+2007	2008	2009	2010	2011	2012
+
+Overall business-lending conditions from the Senior Loan Officer Surveya
+Overall credit conditions from the Business Outlook Surveyb
+ 
+
+-60
+ 
+a.	Weighted percentage of surveyed financial institutions reporting tightened credit conditions minus the weighted percentage reporting eased credit conditions
+b.	Percentage of firms reporting tightened credit conditions minus the percentage reporting eased credit conditions
+Source: Bank of Canada	Last observation: 2012Q4
+
+ 
+
+
+ 
+Chart 23: Household credit growth has slowed while business credit has accelerated
+3-month percentage change (at annual rates)
+% 14
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+2008	2009	2010	2011	2012
+ 
+Total  business  credit Historical average of business
+credit growth from 1992 to present
+ 
+Total household credit
+Historical average of household credit growth from 1992 to present
+ 
+Source: Bank of Canada	Last observation: November 2012
+
+Chart 24: Household credit growth has trended lower
+Year-over-year percentage change, monthly data
+% 14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+2008	2009	2010	2011	2012
+
+Consumer credit	Residential mortgage credit	Total household credit
+
+Source: Bank of Canada	Last observation: November 2012
+
+
+With highly favourable financing conditions for Canadian firms, the pace of expansion of overall business credit has picked up to a rate well above its historical average (Chart 23). While this is consistent with a return to more rapid growth in business fixed investment, the pickup in business credit growth can be partly explained by transitory influences. These include an increase in the need for working capital due to higher inventories and the early refinancing of corporate debt at favourable interest rate levels.
+Household credit continues to be readily available at near-record low rates. The growth of household credit has nonetheless slowed from around
+5.5 per cent through much of 2012 to just above 3 per cent in the three months to November (Chart 23). This is the lowest rate of growth since 1999, and reflects a slowdown in the growth of both residential mortgage and consumer credit.
+ 
+
+A number of factors have contributed to the slowing trend in household credit growth to slightly below 5 per cent on a year-over-year basis from a peak of over 12 per cent in 2008 (Chart 24). These factors include the con- sequences of the pulling forward of housing activity due to improved afford- ability, the cumulative effects of changes to mortgage insurance rules and the tightening of mortgage underwriting guidelines,7 and increasing con- sumer appreciation of the dangers of elevated debt levels. Even with the recent slowing, household credit still grew slightly faster than disposable income in the third quarter, resulting in a further rise in the aggregate house- hold debt-to-income ratio to 165 per cent. The Bank expects trend growth in household credit to moderate further, with the debt-to-income ratio stabilizing near current levels.
+Despite the continued high level of uncertainty surrounding the global economic outlook and the associated preference for liquidity, growth in the narrow monetary aggregates has slowed considerably in recent months, coinciding with the weak GDP growth registered in the second half of 2012. Growth in the broad monetary aggregates has also moderated and is con- sistent with subdued inflationary pressures ahead.
+
+Estimated Pressures on Capacity
+Various indicators point to an increase in excess capacity in the Canadian economy through the second half of 2012. Real GDP growth slowed slightly more than expected to 0.6 per cent in the third quarter, and is estimated to have been 1.0 per cent in the fourth quarter, significantly below the October forecast. Exports and business fixed investment were particularly weak, offset somewhat by an unexpectedly large rise in inventory investment.
+Largely as a result, the level of real GDP at the end of 2012 is 0.6 per cent below that expected in the October Report. Consistent with these dynamics, the Bank’s conventional measure of the output gap widened to -1.1 per cent in the fourth quarter of 2012 (Chart 25).
+Responses to the Bank’s winter Business Outlook Survey also point to a recent increase in economic slack. The proportion of firms that would have difficulty meeting an unexpected increase in demand has fallen sharply, albeit from a level around its historical average in recent quarters. The pro- portion of firms reporting labour shortages has also declined, to a level well below its historical average.
+In contrast, labour market indicators more broadly do not suggest an increase in the degree of excess capacity in the Canadian economy in recent quarters. With solid gains in employment, the unemployment rate has edged down in recent months, to a level consistent with a modest degree
+of slack in the economy (Chart 26). Nonetheless, the average duration of unemployment and the proportion of involuntary part-time workers have remained at elevated levels, while average hours worked remain relatively low. Wage growth has also continued to be moderate, consistent with the persistence of slack in the labour market (Chart 27).
+On balance, the Bank judges that the economy was operating about
+1 per cent below its production capacity in the fourth quarter of 2012, a larger degree of slack than expected in October.
+
+
+7   See the December 2012 Financial System Review (especially Box 2) for a discussion of recent changes to the rules for government-backed insured mortgages, as well as changes to the guidelines on resi- dential mortgage underwriting issued by the Office of the Superintendent of Financial Institutions.
+ 
+
+
+ 
+Chart 25: Excess supply has increased
+%	%
+3
+70
+2
+60
+1
+50
+40	0
+30	-1
+20	-2
+
+10	-3
+
+ 
+0
+2007
+ 
+
+2008
+ 
+
+2009
+ 
+
+2010
+ 
+
+2011
+ 
+-4
+2012
+ 
+Some and significant difficultya (left scale) Labour shortagesb (left scale)
+ 
+
+Conventional measure of the output gapc (right scale)
+ 
+a.	Response to Business Outlook Survey question on capacity pressures. Percentage of firms indicating that they would have either some or significant difficulty meeting an unanticipated increase in demand/sales.
+b.	Response to Business Outlook Survey question on labour shortages. Percentage of firms reporting labour shortages that restrict their ability to meet demand.
+c.	Difference between actual output and estimated potential output from the Bank of Canada’s conventional measure. The estimate for the fourth quarter of 2012 (indicated by ) is based on a projected increase in output of 1.0 per cent (at annual rates) for the quarter.
+Source: Bank of Canada	Last observation: 2012Q4
+
+Chart 26: Labour market indicators point to slack in the economy
+Monthly data
+%	%
+9	30
+
+8	28
+
+7	26
+
+6	24
+
+5	22
+
+4	20
+2008	2009	2010	2011	2012
+ 
+Unemployment rate (left scale)
+ 
+Involuntary part-time workersa (right scale)
+ 
+a. Expressed as a percentage of total part-time employment, unadjusted, 12-month moving average Sources: Statistics Canada and Bank of Canada calculations	Last observation: December 2012
+ 
+
+
+ 
+Chart 27: Increases in labour compensation have been moderate overall
+Quarterly data
+% 6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+2007	2008	2009	2010	2011	2012
+Effective annual increase in base wage rates for newly negotiated settlements (all industries) Compensation per hour (year-over-year percentage change)
+Average hourly earnings of permanent workers (year-over-year percentage change)
+
+Note: The 2012Q4 value for the effective annual increase in base wage rates for newly negotiated settlements is approximated by the average of October and November data.
+Sources: Statistics Canada and Human Resources
+and Skills Development Canada	Last observations: 2012Q3 and 2012Q4
+
+
+The Real Economy
+The Bank expects growth in the Canadian economy to pick up this year (Chart 28). The anticipated rebound through the first half of the year mainly reflects stronger foreign demand and the unwinding of temporary factors that restrained activity in the resource sector in the second half of 2012.
+Consumption is expected to grow at a moderate pace, while business fixed investment accelerates (Chart 19 and Table 2). The Bank projects that net exports will contribute positively to GDP growth in 2013 and 2014 after unexpectedly detracting from growth in 2012. This contribution is neverthe- less modest, reflecting the persistence of external headwinds.
+On an average annual basis, real GDP is forecast to grow by 2.0 per cent in 2013, up slightly from 1.9 per cent in 2012. With the quarterly pace of growth rising through 2013, average annual growth of 2.7 per cent is projected in 2014 (Table 3). The level of economic activity is lower than in the October Report through most of the projection period. Final domestic demand has been revised down, mainly reflecting the adverse impact on business fixed investment of more persistent uncertainty regarding the global economic outlook and less-favourable terms of trade (Box 2). The profile for exports is also revised down relative to the October Report as a result of the down- ward revision to foreign activity, although imports are also weaker than previously anticipated.
+Growth in household spending proceeded at a moderate pace in the second half of 2012, broadly in line with expectations. Consumption picked up fol- lowing weakness in the first half of the year, with a rebound in purchases of motor vehicles and stronger growth in spending by Canadian consumers abroad. In contrast, housing investment began to decline from historically high levels. Sales of existing homes have fallen, partly because of measures taken by federal authorities. Housing starts have also declined from very high levels, decreasing from roughly 225,000 units through much of 2012 to
+ 
+
+
+ 
+
+ 
+Chart 28: Real GDP growth is expected to pick up through 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2008	2009	2010	2011	2012	2013	2014
+ 
+
+
+% 8
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+-10
+ 
+Year-over-year percentage change in real GDP
+Base-case projection
+ 
+Quarter-over-quarter percentage change in real GDP, at annual rates Base-case projection
+ 
+Sources: Statistics Canada and Bank of Canada calculations and projections
+
+
+Table 2: Contributions to average annual real GDP growth
+Percentage pointsa
+
+	2011	2012	2013	2014
+Consumption	1.4 (1.4)	1.1 (1.0)	1.1 (1.2)	1.3 (1.2)
+Housing	0.1 (0.1)	0.4 (0.3)	-0.1 (-0.1)	-0.1 (-0.1)
+Government	0.1 (0.1)	-0.2 (-0.2)	0.3 (0.3)	0.3 (0.3)
+Business fixed investment	1.2 (1.2)	0.6 (0.7)	0.5 (0.7)	0.9 (0.7)
+Subtotal: Final domestic demand	2.7 (2.7)	1.9 (1.8)	1.8 (2.1)	2.4 (2.1)
+Exports	1.4 (1.4)	0.4 (0.8)	0.6 (1.0)	1.5 (1.6)
+Imports	-1.8 (-1.8)	-0.8 (-0.7)	-0.5 (-0.8)	-1.2 (-1.3)
+Subtotal: Net exports	-0.4 (-0.4)	-0.4 (0.1)	0.1 (0.2)	0.3 (0.3)
+Inventories	0.3 (0.3)	0.4 (0.3)	0.1 (0.0)	0.0 (0.0)
+GDP	2.6 (2.6)	1.9 (2.2)	2.0 (2.3)	2.7 (2.4)
+Memo items:
+Potential output
+Real gross domestic income (GDI)	
+1.6 (1.6)	
+2.0 (2.0)	
+2.1 (2.1)	
+2.2 (2.2)
+	3.7 (3.7)	1.5 (1.5)	2.1 (2.8)	2.9 (2.6)
+a. Figures in parentheses are from the base-case projection in the October 2012 Monetary Policy Report.
+Those for potential output are from Box 2 in the October 2012 Report.
+
+about 200,000 units in November and December. However, home building still remains above demographic demand, which is estimated at around 185,000. Ongoing strong rates of construction, particularly of multiple-unit dwellings in some regions, continue to point to overbuilding (Chart 29).
+Despite some softening in house prices, valuations in some segments of the housing market remain stretched.
+The outlook for household spending is broadly unchanged from the October Report, although there is a slight dampening impact from the less-favour- able terms of trade and associated income and wealth effects. The Bank’s outlook for growth in household spending continues to include some ongoing restraint by Canadian households related to high levels of debt.
+Consumption is expected to grow at a moderate rate, somewhat below that
+ 
+
+Table 3: Summary of the base-case projection for Canadaa
+
+	2011	2012	2013	2014
+	Q4	Q1	Q2	Q3	Q4	Q1	Q2	Q3	Q4	Q1	Q2	Q3	Q4
+Real GDP (quarter-over-quarter	2.1	1.7	1.7	0.6	1.0	2.3	2.7	2.9	2.9	2.8	2.8	2.5	2.3
+percentage change at annual rates)	(2.1)	(1.8)	(1.9)	(1.0)	(2.5)	(2.6)	(2.6)	(2.6)	(2.5)	(2.3)	(2.2)	(2.2)	(2.2)
+Real GDP (year-over-year percentage	2.4	2.2	2.8	1.5	1.2	1.4	1.6	2.2	2.7	2.8	2.8	2.7	2.6
+change)	(2.4)	(2.2)	(2.9)	(1.7)	(1.8)	(2.0)	(2.2)	(2.5)	(2.5)	(2.5)	(2.4)	(2.3)	(2.2)
+Core inflation (year-over-year	2.1	2.1	2.0	1.5	1.3	1.4	1.4	1.7	1.9	1.9	1.9	2.0	2.0
+percentage change)	(2.1)	(2.1)	(2.0)	(1.5)	(1.6)	(1.7)	(1.8)	(2.1)	(2.1)	(2.1)	(2.0)	(2.0)	(2.0)
+Total CPI (year-over-year percentage	2.6	2.4	1.6	1.2	1.1	0.9	1.1	1.5	1.8	1.8	1.9	2.0	2.0
+change)	(2.6)	(2.4)	(1.6)	(1.2)	(1.5)	(1.4)	(1.4)	(1.7)	(2.0)	(2.0)	(2.0)	(2.0)	(2.0)
+Total CPI excluding the effect of the HST	2.5	2.2	1.4	1.1	1.0	0.9	1.2	1.6	1.9	1.9	1.9	2.0	2.0
+and changes in other indirect taxes (year-over-year percentage change)	(2.5)	(2.2)	(1.4)	(1.1)	(1.4)	(1.4)	(1.5)	(1.8)	(2.1)	(2.1)	(2.0)	(2.0)	(2.0)
+WTIb (level)	94	103	93	92	88	94	95	95	95	94	93	92	92
+	(94)	(103)	(93)	(92)	(92)	(93)	(94)	(94)	(94)	(93)	(92)	(92)	(91)
+Brentb (level)	109	118	109	109	110	111	109	108	106	104	103	102	101
+	(109)	(118)	(109)	(109)	(113)	(112)	(110)	(108)	(107)	(105)	(104)	(102)	(101)
+a.	Figures in parentheses are from the base-case projection in the October 2012 Monetary Policy Report.
+b.	Assumptions for the prices of West Texas Intermediate and Brent crude oil (US$ per barrel) are based on an average of futures contracts over the two weeks ending 18 January 2013.
+
+
+ 
+Chart 29: New construction of multiple-unit dwellings remains high despite signs of overbuilding
+Adjusted for population aged 25+ years, deviation from historical average, per 100,000 people, major metropolitan areas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1984	1988	1992	1996	2000	2004	2008	2012
+ 
+
+
+
+
+
+250
+200
+150
+100
+50
+0
+-50
+-100
+-150
+-200
+-250
+ 
+
+ 
+Singles and semi-detached units under construction
+Sources: Canada Mortgage and Housing Corporation,
+ 
+Multiples under construction
+(row houses, condominiums and other)
+ 
+Statistics Canada, and Bank of Canada calculations	Last observation: November 2012
+
+
+ 
+of disposable income (Chart 30), resulting in a further slight increase in the personal savings rate. Residential investment is projected to continue to contract, with its share of the overall economy declining gradually over the projection horizon (Chart 31).
+Growth in business fixed investment is expected to return gradually to a more solid pace through 2013 (Chart 32), following unexpected weakness in the second half of 2012, which was primarily concentrated in engineering activity related to the energy sector. The outlook for investment continues to be supported by the strong aggregate financial position of Canadian firms,
+ 
+
+
+
+
+
+Growth in business fixed investment is expected to return gradually to a more solid pace
+ 
+Canadian EConomy
+Bank of Canada  •  Monetary Policy rePort  •  January 2013
+
+Box 2
+
+Developments in the Canadian Energy Sector and Their Impact on the Economy
+ 
+Recent developments in the Canadian energy sector have been less favourable than anticipated. Lower energy prices, together
+ 
+Chart 2-A: The spreads between Canadian heavy (WCS) and global crude oil prices have widened to record levels
+ 
+with temporary disruptions in transportation and production facilities, have dampened economic activity in recent quarters through a deterioration in Canada’s terms of trade as well as lower investment, exports and production. These developments are estimated to have reduced annualized real GdP growth by
+0.4 percentage points in the second half of 2012. The return to normal production and the gradual narrowing of crude oil price spreads are projected to contribute 0.1 percentage points to real GdP growth in each of 2013 and 2014.
+Since the october Report, the combination of temporary disrup- tions and persistent transportation bottlenecks has led to record spreads between the prices received by Canadian producers
+of heavy crude—Western Canada Select (WCS)—and north
+ 
+Monthly data
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+October Report
+ 
+US$/barrel
+10
+
+0
+
+-10
+
+-20
+
+-30
+
+-40
+
+-50
+
+-60
+ 
+american crude oil benchmarks such as West Texas Intermediate
+ 
+2009	2010	2011	2012
+ 
+(WTI) (Chart 2-A).1, 2
+during the second half of 2012, crude oil transportation capacity was temporarily constrained by regulatory limits on throughput
+ 
+Western Canada Select minus West Texas Intermediate
+Sources: Bloomberg and
+ 
+West Texas Intermediate minus Brent
+ 
+Western Canada Select minus Brent
+ 
+and temporary shutdowns at the main Canada–U.S. pipelines.3 Moreover, outages at major reﬁneries in the United States reduced demand for Canadian crude, while maintenance at oil sands upgraders temporarily increased the supply of heavy crude.4 Meanwhile, both oil sands and U.S. light oil production continued to grow without corresponding increases in pipeline capacity.
+While WCS prices have declined, the price of Canada’s crude oil imports, mostly through Eastern Canada and closely linked to Brent prices, has remained elevated. This deterioration in the oil-related terms of trade reduced Canada’s real gross domestic income (GdI) and, in turn, spending on domestically produced goods and services. The deterioration in the oil-related terms of trade is estimated to have reduced Canada’s real GdI by 0.2 per cent in the second half of 2012.
+ 
+Bank of Canada calculations	Last observation: December 2012
+
+Chart 2-B: The slowdown in engineering investment is tied to a decline in drilling activity in Western Canada
+Quarterly data	%
+20
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+-15
+ 
+
+
+1	for further details on the role of Western Canada Select and other crude bench-
+ 
+
+2007	2008
+ 
+
+
+2009	2010	2011	2012
+ 
+
+-20
+ 
+marks in the Canadian economy, see Box 1 in the april 2012 Report.
+2	Prices for Canadian synthetic and other lighter crudes have generally moved in line with the West Texas Intermediate benchmark. Their impact is captured in the Bank of Canada commodity price index through WTI prices.
+3	Parts of a major Canada–U.S. pipeline system were subject to regulatory meas- ures limiting available capacity for precautionary purposes.
+4	owing to the upgrading method used at the aﬀected upgraders, a small amount of heavy crude oil is still produced during outages.
+ 
+Rig utilization in Western Canada (seasonally adjusted in first difference, 2-quarter moving average)
+Quarter-over-quarter percentage change in business engineering investment
+Sources: Canadian Association of Oilwell Drilling Contractors,
+Statistics Canada and Bank of Canada calculations	Last observation: 2012Q3
+
+(continued…)
+ 
+
+Box 2 (continued)
+
+ 
+lower prices for WcS, coupled with historically low natural gas prices and heightened uncertainty regarding the outlook for global demand, also contributed to the recent marked slowdown in engineering investment in Canada (Chart 2-B) . In Western Canada, drilling activity slowed in the second half of 2012 as ﬁrms dealt with lower cash flows and junior and intermediate producers experienced challenges accessing capital markets .
+Unplanned maintenance in the oil sands, combined with outages at oﬀshore newfoundland and labrador oil ﬁelds, also lowered Canadian production of crude oil in the third quarter of 2012 .
+Together, these disruptions subtracted an estimated 0 .9 percentage points from third-quarter real GDP growth, mainly through lower exports . The return to normal production at these facilities is expected to contribute positively to GDP growth in the fourth quarter of 2012 and the ﬁrst quarter of 2013 .
+over the next year, spreads for WCS are expected to narrow gradually as the impact of temporary disruptions dissipates, new pipeline capacity comes into service and new heavy crude
+ 
+oil reﬁning capacity is added (Chart 2-C) . However, the futures curve now points to wider spreads for WCS during 2013 and the ﬁrst quarter of 2014 than was anticipated at the time of the october Report . By themselves, these lower oil-related terms of
+trade would reduce the level of real GDI by 0 .2 per cent and that of real GDP by 0 .1 per cent in 2013, relative to expectations in the october Report .
+The less-favourable outlook for WCS suggested by the futures curve could also temper private and public investment over the projection horizon as lower cash flows and lower-than-expected royalty revenues curtail capital budgets for both producers and provincial governments . In addition, recent reports suggest that uncertainty regarding the timing of major projects to access new markets, the state of foreign demand and the impact of increased production of light oil in the United States will likely weigh on ﬁrms’ investment decisions .5
+Increased capacity from the Seaway Pipeline in early January and the completion of the TransCanada Gulf Coast Project in the
+ 
+ 		second half of 2013 are expected to provide a sevenfold increase
+ 
+Chart 2-C: The spreads between Canadian heavy (WCS) and global crude oil prices are expected to narrow
+ 
+in transportation capacity from the Cushing, oklahoma, storage hub to reﬁneries along the U .S . Gulf Coast, while the refurbish-
+ 
+Monthly data
+ 
+
+US$/barrel
+0
+ 
+ment of major reﬁneries in the U .S . Midwest will increase the
+capacity for processing heavy crude .6 This new transportation and reﬁning capacity is expected to drive the narrowing of the
+ 
+-10
+
+-20
+
+-30
+ 
+WCS spread over the medium term . Expanded rail capacity out of north Dakota and pipeline additions coming on stream in 2014 should help ease stresses on a transportation system that will likely remain under pressure from the continued growth of supply across Western north America .7
+ 
+
+-40
+
+ 
+
+
+
+
+2013	2014	2015	2016
+ 
+-50
+
+-60
+ 
+5	See, for example: CERI Commodity Report – Crude Oil, November 2012 and the Conference Board of Canada reports, Fuel for Thought: The Economic Benefits of Oil Sands Investment for Canada’s Regions; Provincial Outlook: Economic Forecast for Alberta Autumn 2012; and Provincial Outlook Autumn 2012: Economic Forecast.
+ 
+Western Canada Select minus West Texas Intermediate futures
+West Texas Intermediate minus Brent futures
+Western Canada Select minus Brent futures
+
+Sources: Bloomberg and
+ 
+West Texas Intermediate minus Brent futures (October Report) Western Canada Select minus Brent futures (October Report)
+ 
+6	In 2013, the expansion of the Seaway Pipeline and the completion of the Gulf Coast Project will increase total transportation capacity from Cushing, oklahoma, to the Gulf Coast to approximately 1 .1 million barrels per day, up from 150,000 barrels per day (as of the initial Seaway Pipeline reversal in 2012) .
+7	Combined production in Western Canada and the United States is expected to increase by over 1 million barrels per day in 2013 (Canadian Association of Petroleum Producers and Energy Information Administration forecasts) .
+ 
+Bank of Canada calculations	Last data plotted: December 2016
+ 
+
+
+ 
+Chart 30: Growth in consumption is expected to be maintained at a moderate pace
+Year-over-year percentage change, quarterly data
+
+% 10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+2007	2008	2009	2010	2011	2012	2013	2014
+
+Household disposable income	Nominal consumption
+
+Sources: Statistics Canada and Bank of Canada calculations and projections
+
+
+ 
+Chart 31: The share of residential investment in GDP is expected to decline further from its high level
+Quarterly data
+ 
+
+
+
+
+Ratio 0.08
+ 
+
+0.07
+
+0.06
+
+0.05
+
+0.04
+
+0.03
+1975	1980	1985	1990	1995	2000	2005	2010	2015
+ 
+Ratio of nominal residential investment to nominal GDP
+ 
+Average from 1975Q1 to present
+ 
+Sources: Statistics Canada and Bank of Canada calculations and projections
+
+
+favourable credit conditions, relatively high commodity prices and the strong Canadian dollar, as well as the impetus to improve productivity amid height- ened pressures to become more competitive. Expectations of a pickup in business fixed investment in coming quarters are further supported by the return to a more positive balance of opinion about spending on machinery and equipment in the Bank’s winter Business Outlook Survey, by the accel- eration in business credit, and by recent trends in industrial and commercial building permits. Nonetheless, the factors that weighed on investment growth in the second half of 2012 are expected to persist for some time.
+These include elevated uncertainty about the global economic outlook, lower energy prices received by Canadian producers and the softness in domestic demand. As a result, the projected profile for business fixed investment is lower than in the October Report.
+ 
+
+
+ 
+Chart 32: Business fixed investment is projected to grow at a slower pace than in the average cycle
+Comparison of real business fixed investment across economic cycles; quarter before the downturn in real GDP = 100, quarterly data
+Index 190
+
+170
+
+150
+
+130
+
+110
+
+90
+
+70
+-1	0	1	2	3	4	5	6
+ 
+Current cycle
+Base-case scenario
+ 
+Average of previous cycles (since 1951) Range of previous cycles (since 1951)
+ 
+Sources: Statistics Canada and Bank of Canada calculations and projections
+
+Chart 33: The contribution of government spending to real GDP growth is expected to be relatively modest
+Annual data
+Percentage points
+1.5
+
+
+1.0
+
+
+0.5
+
+
+0.0
+
+
+ 
+
+2000	2002	2004	2006	2008	2010	2012	2014
+ 
+-0.5
+ 
+
+Contribution of government expenditures to real GDP growth
+ 
+
+Base-case projection
+ 
+Sources: Statistics Canada and Bank of Canada calculations and projections
+
+
+Government spending is expected to contribute only modestly to real GDP growth over the projection horizon (Chart 33). As in October, this contribu- tion is considerably weaker than has been typical historically, in line with the plans of federal and provincial governments to consolidate spending.
+The recovery in net exports is expected to remain weak, although the Bank continues to anticipate some improvement over the projection horizon.
+Exports contracted unexpectedly in the second half of 2012, reflecting weaker-than-anticipated foreign demand as well as temporary disruptions in the energy sector. Some rebound in exports is expected in coming quarters, consistent with the projected reacceleration in the foreign activity measure. Nevertheless, the growth of exports remains more moderate than that of
+ 
+
+
+ 
+Chart 34: Despite the expected pickup, the recovery in exports remains weak
+Comparison of real exports across economic cycles; quarter before the downturn in real GDP = 100, quarterly data
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-1	0	1	2	3	4	5	6
+ 
+Index 170
+160
+
+150
+
+140
+
+130
+
+120
+
+110
+
+100
+
+90
+
+80
+ 
+
+Current cycle
+Base-case scenario
+ 
+
+Average of previous cycles (since 1951) Range of previous cycles (since 1951)
+ 
+Sources: Statistics Canada and Bank of Canada calculations and projections
+
+Chart 35: Canada’s current account deficit has widened to 4 per cent of GDP
+Quarterly data
+% 4
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
+-4
+
+-5
+2005	2006	2007	2008	2009	2010	2011	2012
+Current account balance as a percentage of nominal GDP
+
+Sources: Statistics Canada and Bank of Canada calculations	Last observation: 2012Q3
+
+
+foreign activity (Chart 16), owing to ongoing competitiveness challenges, including the persistent strength of the Canadian dollar, which is being influ- enced by safe-haven flows and spillovers from global monetary policy. As a result, the level of Canada’s exports is not forecast to regain its pre-reces- sion peak until the second half of 2014 (Chart 34).
+The profile for imports has also been revised down, owing to the weaker outlook for business investment and exports. In contrast to exports, the level of imports had already returned to its pre-recession peak by the first quarter of 2011. Partly as a result, Canada’s current account balance has declined from a surplus position before the recession to a deficit of
+around 4 per cent of GDP (Chart 35). This sizable current account deficit is projected to diminish gradually over the forecast horizon owing to modest improvements in the real trade balance and the terms of trade.
+ 
+
+Given the above projection for real GDP, the Canadian economy is expected to reach full capacity in the second half of 2014, later than anticipated in the October Report.
+
+Inflation
+Core CPI inflation moderated to an average of 1.3 per cent in October and November from an average of 1.5 per cent in the third quarter and
+2.0 per cent in the first half of 2012. Alternative measures of core inflation have also trended down (Chart 36). The decline in core CPI inflation has been larger than anticipated and reflects softer prices across a wide range of goods and services, consistent with the unexpected increase in excess capacity in the Canadian economy, as well as heightened competitive pres- sures among retailers. The greater-than-expected softness in core inflation has also reflected a number of idiosyncratic developments. Reported auto prices have been weaker in recent months than the typical seasonal pattern would suggest, reflecting in part a methodological change implemented by Statistics Canada.8  In addition, increases in regulated prices (such as auto insurance) have slowed more significantly than anticipated. The declines in inflation in food and clothing prices in response to the waning effects of prior increases in agricultural prices have also been larger than projected.
+Total CPI inflation has also continued to ease in recent months, in contrast to the Bank’s expectations in the October Report. This easing is due to softer core inflation, as well as weaker-than-expected gasoline prices, which in turn reflect both lower world prices for crude oil and lower margins (Chart 37).
+
+
+Chart 36: Alternative measures of core inflation have fallen well below 2 per cent
+Year-over-year percentage change, monthly data
+% 4.0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+ 
+
+
+2007	2008	2009	2010	2011	2012
+ 
+
+0.0
+ 
+Core CPIa
+CPI excluding food, energy and the effect of changes in indirect taxes
+ 
+MEANSTDb CPIWc
+Weighted mediand
+ 
+a.	Excludes eight of the most volatile components and the effect of changes in indirect taxes on the remaining components
+b.	Weighted average of the cross-sectional distribution of price changes that has been trimmed to exclude values further than 1.5 standard deviations from the average and the effect of changes in indirect taxes
+c.	Adjusts each CPI basket weight by a factor that is inversely proportional to the component’s variability and is adjusted to exclude the effect of changes in indirect taxes
+d.	Percentage change in the CPI component at the midpoint of the cross-sectional distribution of weighted price variations, adjusted to exclude the effect of changes in indirect taxes
+Sources: Statistics Canada and Bank of Canada	Last observation: November 2012
+
+8	The introduction of new-model-year automobiles into Statistics Canada’s CPI sample, which was previ- ously concentrated in the month of November, is now more spread out over time, reflecting the evolving practices of the automotive industry.
+ 
+
+
+ 
+Chart 37: Total CPI inflation is projected to remain below 2 per cent until the second half of 2014
+Year-over-year percentage change, quarterly data
+% 4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+2007	2008	2009	2010	2011	2012	2013	2014
+Total CPI	Core CPIa             Target	Control range
+a. CPI excluding eight of the most volatile components and the effect of changes in indirect taxes on the remaining components
+Sources: Statistics Canada and Bank of Canada calculations and projections
+
+
+Inflation expectations remain well anchored. As reported in the Bank’s winter Business Outlook Survey, almost all firms surveyed continue to expect average inflation over the next two years to remain within the 1 to
+3 per cent inflation-control range. The January Consensus Economics fore- casts for total CPI inflation were 1.8 per cent in 2013 and 2.0 per cent in 2014. Market-based measures of longer-term inflation expectations also continue to be consistent with the 2 per cent inflation-control target.
+Core inflation is expected to remain subdued in coming quarters before rising gradually to reach 2 per cent in the second half of 2014, as economic slack is gradually absorbed and inflation expectations remain well anchored (Chart 37). In addition, growth in labour compensation is expected to stay moderate, consistent with recent trends in wage growth (Chart 27). This projection for core inflation is weaker than in the October Report, owing to greater-than-anticipated excess supply in the Canadian economy over most of the projection horizon, as well as the expected persistence of recent relative price shocks in coming quarters.9
+Total CPI inflation is projected to remain around 1 per cent over the near term. With the profile for core inflation weaker and futures prices suggesting similar oil prices to those assumed at the time of the October Report, the Bank now expects total CPI inflation to stay well below the 2 per cent target over most of the coming year before returning to target in the second half of 2014.
+This projection includes a gradual reduction in monetary stimulus over the projection horizon, consistent with achieving the inflation target.
+The uncertainty surrounding the Bank’s inflation projection is illustrated using fan charts. Chart 38 and Chart 39 depict the 50 per cent and
+90 per cent confidence bands for year-over-year core inflation and total CPI inflation from the first quarter of 2013 to the end of 2014.
+
+
+9 As previously assumed, the indirect effects associated with the restoration of the provincial sales tax in British Columbia are expected to have a minor effect on core inflation over the projection horizon. See the April 2012 Monetary Policy Report.
+ 
+
+
+ 
+
+ 
+Chart 38: Projection for core CPI inflation
+Year-over-year percentage change, quarterly data
+% 4
+ 
+Chart 39: Projection for total CPI inflation
+Year-over-year percentage change, quarterly data
+% 4
+ 
+
+
+3	3
+
+
+
+2	2
+
+
+1	1
+
+
+ 
+
+0
+2011	2012	2013	2014
+ 
+2011	2012	2013	2014	0
+ 
+
+Base-case scenario	50 per cent confidence interval
+90 per cent confidence interval
+
+Source: Bank of Canada
+ 
+
+Base-case scenario	50 per cent confidence interval
+90 per cent confidence interval
+
+Source: Bank of Canada
+ 
+
+ 
+ 
+
+ 
+Risks to thE outlook
+BAnk oF CAnADA  •  Monetary Policy rePort  •  January 2013
+
+
+
+
+
+
+
+
+
+Risks to the outlook	
+While global tail risks have diminished as a result of a series of actions by European and American authorities, the inflation outlook in Canada is still subject to significant risks.
+The three main upside risks to inflation in Canada relate to the possibility of stronger-than-expected growth in the U.S. economy, higher Canadian exports and renewed momentum in Canadian residential investment.
+■	Private sector demand in the United States could be stronger than expected if the negative effects of policy uncertainty dissipate more rapidly or if household spending grows faster, given improvements in the housing market and the degree of deleveraging that has already taken place.
+■	Growth in Canadian exports could be stronger than expected if exporters improve their competitiveness more rapidly than currently assumed or
+if global growth is stronger than projected. The unexpected contraction in exports in the second half of 2012 could also give way to a sharper rebound in 2013.
+■	While residential investment in Canada has declined as expected after reaching record-high levels, it could regain momentum, adding to domestic demand for a time but reinforcing existing imbalances.
+The three main downside risks to inflation in Canada relate to the European crisis, more protracted weakness in business investment and exports in Canada, and the possibility that growth in Canadian household spending could be weaker.
+■	Although immediate risks have diminished, the policy challenges facing Europe remain considerable and a failure to contain the crisis remains the most serious risk facing the global and Canadian economies.
+■	The projected pickup in Canadian economic growth in 2013 relies heavily on an improvement in business investment and net exports. There is a risk that the recent poor performance could be extended longer than expected, particularly if external demand is weaker or if commodity prices are less supportive.
+■	Continuing high household debt levels in Canada could lead to weaker household spending. Relatedly, if there were a sudden weakening in the Canadian housing sector, it could have sizable spillover effects on other areas of the economy.
+Overall, the Bank judges that the risks to the inflation outlook in Canada are roughly balanced over the projection period.
+ 
+

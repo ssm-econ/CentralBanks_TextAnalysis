@@ -1,0 +1,576 @@
+B   A	N	K	O	F	C	A	N	A	D   A
+
+
+
+Monetary Policy Report
+– April 2020 –
+
+
+
+
+
+
+ 
+
+This Report will provide an account of our stewardship of monetary policy and will be useful for those who want to know more about monetary policy for their own decision-making.”
+—former Bank of Canada Governor Gordon Thiessen
+
+
+On March 30, 1995, Bank of Canada Governor Gordon Thiessen delivered the HERMES-Glendon Lecture, entitled “Uncertainty and the Transmission of Monetary Policy in Canada.” In it, Governor Thiessen argued, “Given its importance, uncertainty deserves much greater prominence than it typically receives.”
+He also announced that the Bank of Canada would publish a biannual Monetary Policy Report starting in May 1995. This was part of a series of efforts to “reduce one kind of uncertainty—the uncertainty that may exist about the Bank’s behaviour—with the objective of improving the operation of financial markets and of the economy more generally.”
+He stated simply, “This Report will provide an account of our stewardship of monetary policy and will be useful for those who want to know more about monetary policy for their own decision-making.”
+In the introduction of that first Monetary Policy Report, the Bank wrote, “The ultimate objective of Canadian monetary policy is to promote good overall economic performance. Monetary policy can contribute to this goal by preserving confidence in the value of money through price stability.”
+Twenty-five years later, despite the unprecedented uncertainty we are living through today, the Bank’s commitment to that objective has not wavered. And the Monetary Policy Report stays true to its simple goal, even in the most difficult of times.
+To commemorate 25 years of the Monetary Policy Report, we have repro- duced the original May 1995 cover, showing Canada’s first silver dollar, struck in 1935 and featuring the evocative design of sculptor Emanuel Hahn.
+ 
+
+
+riii'liul BANK OF CANADA
+,&, ■ ,&, BANQUE DU CANADA
+
+
+
+
+
+
+
+
+
+
+Monetary Policy
+Report
+April 2020
+ 
+
+
+
+ 
+
+ 
+Inflation targeting and the economy
+	The Bank’s mandate is to conduct monetary policy to promote the economic and financial well-being of Canadians.
+	Canada’s experience with inflation targeting since 1991 has shown that the best way to foster confidence in the value of money and to contribute to sustained economic growth,
+employment gains and improved living standards is by keeping inflation low, stable and predictable.
+	In 2016, the Government and the Bank of Canada renewed Canada’s inflation-control target for a further five-year period, ending December 31, 2021. The target, as measured by the consumer price index (CPI), remains at the 2 percent midpoint of the control range of 1 to 3 percent.
+
+The monetary policy instrument
+	The Bank carries out monetary policy through changes in the target for the overnight rate of interest.2 These changes are transmitted to the economy through their influence on market interest rates, domestic asset prices and the exchange rate, which affect total demand for Canadian goods and services. The balance between this demand and the economy’s production capacity is, over time, the primary determinant of inflation pressures in the economy.
+	Monetary policy actions take time—usually from six to eight quarters—to work their way through the economy and have their full effect on inflation. For this reason, monetary policy must be forward-looking.
+	Consistent with its commitment to clear, transparent com- munications, the Bank regularly reports its perspective on the forces at work on the economy and their implications for inflation. The Monetary Policy Report is a key element of this approach. Policy decisions are typically announced on eight
+ 
+pre-set days during the year, and full updates of the Bank’s outlook, including risks to the projection, are published four times per year in the Monetary Policy Report.
+
+Inflation targeting is symmetric and flexible
+	Canada’s inflation-targeting approach is symmetric, which means that the Bank is equally concerned about inflation rising above or falling below the 2 percent target.
+	Canada’s inflation-targeting framework is lexible. Typically,  the Bank seeks to return inflation to target over a horizon of six to eight quarters. However, the most appropriate horizon for returning inflation to target will vary depending on the nature and persistence of the shocks buffeting the economy.
+
+Monitoring inflation
+	In the short run, the prices of certain CPI components can be particularly volatile. These components, as well as changes in indirect taxes such as GST, can cause sizable fluctuations in CPI.
+	In setting monetary policy, the Bank seeks to look through such transitory movements in CPI inflation and focuses on a set of “core” inflation measures that better reflect the under- lying trend of inflation. In this sense, these measures act as an operational guide to help the Bank achieve the CPI inflation target. They are not a replacement for CPI inflation.
+	The Bank’s three preferred measures of core inflation are CPI- trim, which excludes CPI components whose rates of change in a given month are the most extreme; CPI-median, which corresponds to the price change located at the 50th percentile (in terms of basket weight) of the distribution of price changes; and CPI-common, which uses a statistical procedure to track common price changes across categories in the CPI basket.
+ 
+
+ 
+1	See Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Inflation-Control Target (October 24, 2016) and Renewal of the Inflation-Control Target: Background Information—October 2016, which are both available on the Bank’s website.
+2	When interest rates are at very low levels, the Bank has at its disposal a suite of extraordinary policy measures that could be used to provide additional monetary stimulus and/or improve credit market conditions. The Framework for Conducting Monetary Policy at Low Interest Rates, available on the Bank’s website, describes these measures and the principles guiding their use.
+
+
+
+
+The Monetary Policy Report is available on the Bank of Canada’s website at bankofcanada.ca.
+ 
+For further information, contact:
+Public Information Communications Department Bank of Canada
+234 Wellington Street Ottawa, Ontario K1A 0G9
+ 
+Telephone: 613-782-8111;
+1-800-303-1282 (toll-free in North America)
+Email: info@bankofcanada.ca Website: bankofcanada.ca
+ISSN 1201-8783 (Print)
+ISSN 1490-1234 (Online)
+© Bank of Canada 2020
+ 
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+April 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a report of the Governing Council of the Bank of Canada:
+Stephen S. Poloz, Carolyn A. Wilkins, Timothy Lane, Lawrence Schembri, Paul Beaudry and Toni Gravelle.
+
+ 
+
+
+
+
+
+
+
+
+
+Contents	
+Overview	1
+Global Economy	3
+The global economy is experiencing a sharp
+and sudden contraction	3
+Timing of the recovery will vary across regions	4
+The global financial system is under extreme stress	5
+Commodity prices have decreased sharply, especially for oil	6
+Canadian Economy	8
+COVID-19 and the collapse in oil prices are having an
+unprecedented economic impact	8
+Extreme economic and financial stress has been met
+with an exceptional policy response	12
+As restrictions are lifted, the economy will recover	14
+The outlook for Canadian economic activity is highly uncertain	15
+The weak economic outlook will weigh on inflation	18
+The current economic environment has extraordinary
+implications for monetary policy	20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+OVERVIEW
+
+
+
+
+
+
+
+
+Overview	
+
+The COVID-19 pandemic presents an extremely serious, worldwide threat to human health and well-being. It has already had tragic consequences for many thousands of people. The measures required to limit the spread of the virus mean that a large share of economic activity has been shut down or scaled back. This deep contraction has brought widespread hard- ship through losses in jobs and business incomes. Until the outbreak is contained, a substantial proportion of economic activity will be affected.
+The suddenness of these effects has created shockwaves in financial mar- kets, leading to a general flight to safety, a sharp repricing of risky assets and a breakdown in the functioning of many markets. The fall in commod- ity prices, particularly the plunge in the global price of oil, is also weighing significantly on the Canadian economy.
+In the face of these adverse economic and financial shocks, which are un- precedented in scale, the uncertainty surrounding the outlook is excep- tionally high. While the global and Canadian economies are expected to rebound once the medical emergency ends, the timing and strength of the recovery will depend heavily on how the pandemic unfolds and what measures are required to contain it. The recovery will also depend on how households and businesses behave in response. None of these can be forecast with any degree of confidence.
+In the current environment, decisive and timely policy actions, as well as clear communications, are critical. Policy-makers globally have rapidly de- ployed bold measures to mitigate the economic fallout. Governments have announced massive fiscal packages to provide resources to fight the pan- demic and help households and businesses navigate the economic down- turn. Central banks have taken measures to support the functioning of core financial markets and provide liquidity to financial institutions, includ- ing making large-scale asset purchases and sharply lowering interest rates. This support has helped address immediate liquidity problems globally.
+Still, credit conditions are likely to remain strained for some time due to heightened uncertainty and concerns about credit risk. These aggressive fiscal, monetary and financial measures, however, are laying the
+ 
+OVERVIEW
+
+
+foundation for a sustained economic recovery as the virus recedes and au- thorities relax control measures.
+Given the rapidly evolving situation and high degree of uncertainty, the Bank of Canada has departed from the usual format for the Monetary Policy Report. This special edition examines critical international develop- ments in light of the COVID-19 crisis, rather than providing a compre- hensive overview of recent economic data. The focus is on assessing the overall economic impact of the pandemic for Canada and identifying the channels through which it is likely to affect the economy. Given the un- certainty surrounding the outlook, the Bank has decided not to present a base-case projection in this Report. As a result, the standard tables the Bank normally includes to present the breakdown of the projection for global economic growth and the contributions to the growth of Canada’s annual real gross domestic product (GDP) are also omitted from this Re- port. In addition, the regular April updates of estimates of potential out- put growth and the neutral nominal policy rate are deferred to the Octo- ber 2020 Report.
+Instead, this Report presents analysis of the factors that could favour or hamper the eventual recovery. It also discusses how the recovery, when it comes, may play out and how it can be influenced by policy actions. Since the path of the virus and the length and breadth of the containment ef- forts are highly uncertain, illustrative scenarios are used to represent a range of possibilities.
+ 
+GLOBAL ECONOMY
+
+
+
+
+
+
+
+
+Global Economy	
+The global economy is experiencing a sharp and sudden contraction
+COVID-19 began disrupting global economic activity just as growth was
+stabilizing. In the months before the outbreak, the Phase One trade agree- ment between the United States and China had sparked modest optimism. Survey data suggested that growth in the manufacturing sector was im- proving in the United States and China. Supported by strong labour mar- kets, the service sector had been growing at a healthy pace worldwide.
+Measures required to control the spread of COVID-19 have caused a se- vere reduction in economic activity. The sudden closure of many busi- nesses and the sharp fall in trade have prompted major disruptions to global supply chains (Chart 1). The resulting increase in unemployment has been unprecedented and has contributed to a drop in income. This, com- bined with elevated indebtedness and the abrupt deterioration in business and household confidence, is weighing heavily on a wide range of eco- nomic activities. A sharp contraction in the global economy in the first half of the year is unavoidable.
+
+ 
+GLOBAL ECONOMY
+
+
+Timing of the recovery will vary across regions
+COVID-19 has spread over time around the world, and not all countries are at the same stage of the outbreak (Chart 2). Likewise, different regions are expected to recover at different points in time. This asynchronous pro- cess will likely make the global recovery gradual.
+
+
+In China, the first country affected by COVID-19, the spread of the virus had slowed markedly by early March due to strict measures to control it. China has since relaxed some of these measures, and economic activity is improving. The virus is still spreading in Europe, North America and many other regions. The timing of the recovery will vary across economies ac- cording to the severity of the outbreak and the measures taken to control it.
+In all economies, activity is expected to partially rebound once measures to control the virus are relaxed, but a full recovery will take time. Business will restart in stages, and people will gradually return to work. However, the loss of income and the hit to confidence are anticipated to slow the recovery. In the goods-producing sectors, production lines will likely oper- ate below capacity for some time due to disruptions in supply chains. Sim- ilarly, global trade is expected to remain weak until COVID-19 is under control around the world. The rebound in many service sectors—particu- larly travel, tourism and entertainment—could be tempered by ongoing concerns about any activity that involves large gatherings.
+ 
+GLOBAL ECONOMY
+
+
+The nascent recovery in China will serve as a case study for the expected upturn in other regions. The recent reopening of factories should lead to a rebound in China’s industrial production in the second quarter. However, while road and subway traffic is recovering on weekdays, it is well below normal levels on weekends. This suggests that households are still cau- tious about resuming normal activities.
+The actions policy-makers around the world are taking will have an im- portant influence on the pace and durability of the global recovery. Policy actions have varied across countries but have had the common goals of helping households and businesses weather the pandemic and minimizing any long-term damage to their respective domestic economies.1
+
+The global financial system is under extreme stress
+The prospect of a severe contraction in global growth has led investors to sell risky assets and purchase only the safest financial products or in- crease cash buffers. Volatility has spiked to very high levels, and there have been signs of stress in core funding markets. Investment funds have seen significant outflows, particularly those related to equities, emerg- ing-market assets and corporate bonds. Further, there is increased pres- sure on the supply of US-dollar funding in foreign markets. This has con- tributed to sharp declines in equity prices, impaired functioning of many financial markets and a widening in corporate and emerging-market credit spreads (Chart 3). While the tightening of corporate credit condi- tions is broad-based, it has been particularly pronounced in the North American energy sector given the steep decline in oil prices. Persistently tight credit conditions could significantly limit the pace of recovery for highly indebted businesses and vulnerable emerging-market economies even after COVID-19 is under control.
+The search for safer assets, primarily in US dollars, has resulted in a sharp drop in the government bond yields of many economies and an apprecia- tion of the US dollar against other currencies, including the Canadian dol- lar. The fall in commodity prices has also contributed to the depreciation of the Canadian dollar.
+To alleviate pressures in market functioning, increase liquidity in core funding markets and help maintain the flow of credit, central banks have taken actions that have been unprecedented in both their scale and speed. These include measures to ease short-term funding costs, such as in- creased repo operations against a wider set of eligible collateral, large- scale purchases of government bonds to reduce pressure on long-term funding costs, and targeted programs to purchase assets. In addition,
+
+
+1	For a full set of government policy responses around the world, see Policy Responses to COVID-19, International Monetary Fund.
+ 
+GLOBAL ECONOMY
+
+
+there has been a coordinated response from major central banks, includ- ing the Bank of Canada, to improve the provision of liquidity by expanding standing US-dollar swap arrangements.
+
+
+Commodity prices have decreased sharply, espe- cially for oil
+Commodity prices have decreased sharply as global growth prospects
+have worsened. The declines were largest for energy commodities and were significant across base metals, forestry and agriculture products (Chart 4).
+Prices of global crude oil have fallen 50 to 60 percent since the middle of January. Most of the decline in prices reflects actual or expected reduc- tions in oil consumption due to the negative effects of COVID-19 on global economic activity. Competition for market share, likely prompted by the collapse in demand, also contributed to the decline in oil prices. In early March, major oil producers had announced plans to significantly in- crease supply after members of the Organization of the Petroleum Export- ing Countries (OPEC) and some other non-OPEC oil producers failed to agree to extend production limits. At the time of writing, however, these producers had reached an agreement to reduce supply by about 10 mil- lion barrels per day in May and June relative to October 2018 production levels.
+ 
+GLOBAL ECONOMY
+
+
+
+
+Oil prices should rise as global economic activity and oil consumption nor- malize. However, the recovery in prices is expected to be gradual given that oil inventories should remain elevated for some time. In particular, prices could stay low if oil demand for air transportation purposes remains persistently below its pre-pandemic level. A large reduction in supply by producers facing financial pressures would put oil prices on a higher path.
+The price of Western Canadian Select (WCS) has also declined dramatically and is close to 90 percent lower than in January. The spread between the per-barrel prices of West Texas Intermediate and WCS narrowed to less than US$15 in March but has widened more recently. Increased pipeline capacity, along with the anticipation of weaker supply growth in the cur- rent low-price environment, should ease transportation constraints.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2	Projects to increase pipeline capacity have been completed in recent months, including the Cana- dian section of Enbridge’s Line 3 Replacement Program and the optimization of its Mainline system.
+ 
+CANADIAN ECONOMY
+
+
+
+
+
+
+
+
+Canadian Economy	
+COVID-19 and the collapse in oil prices are having an unprecedented economic impact
+Before COVID-19 struck Canada, the economy had been operating close
+to potential for nearly two years and inflation was at target (Chart 5). The labour market was healthy: unemployment was low, and the pace of wage increases was picking up. While energy-intensive regions faced challenges and household debt was elevated, economic activity overall was on rela- tively solid footing. That underlying resilience will help support the Cana- dian economy through this difficult period and the subsequent recovery.
+
+
+Canada’s economy now faces two significant and related shocks.
+First, the COVID-19 pandemic is having a dramatic effect on economic ac- tivity and employment. The near-term economic impact in Canada primar- ily reflects the measures that authorities are implementing to control the spread of the virus. As in other countries, a significant amount of eco- nomic activity in Canada has been shut down, causing sudden and sharp drops in both supply (e.g., closed businesses) and demand (e.g.,
+ 
+CANADIAN ECONOMY
+
+
+consumers at home) as well as in income for households and firms. Uncer- tainty about the duration and severity of the outbreak is affecting the spending decisions of both households and businesses. In addition, se- verely depressed foreign activity is pulling down Canadian exports and in- vestment, as well as our terms of trade, through lower commodity prices.
+Second, layered on top of the direct impacts of the COVID-19 pandemic is the plunge in global oil prices, which will weigh heavily on the Canadian economy. In particular, the recent drop in prices has dealt a major setback to the oil and gas sector. Production and investment in the sector have de- clined sharply and will remain low, and could deteriorate further if prices remain well below levels prevailing earlier in the year (Chart 6).3
+
+
+The effects of COVID-19, combined with the oil price decline, have led businesses to reduce hours and lay off workers at an unprecedented rate and to cut investment, leading to self-reinforcing cuts in household in- come and spending (Chart 7). In March, more than one million jobs were lost across Canada and over two million workers reported working fewer than usual hours or none at all. Fewer hours worked and lower productiv- ity mean that capacity in the Canadian economy will decline sharply and may recover only gradually. The effects of these two shocks and related
+
+
+
+3	Industry consultations conducted in March 2020 and summarized in the spring Business Outlook Survey indicate that investment in the oil and gas sector will decline sharply. Production and employ- ment estimates have been revised down, and many firms are experiencing tighter financing condi- tions.
+ 
+BANK OF CANADA | MONETARY POLICY REPORT | APRIL 2020
+
+
+uncertainty have led to a sharp fall in consumer and business confidence and decreased private demand (Chart 8).4
+
+
+
+
+
+4	For example, consumer-oriented firms consulted in March 2020 by the Bank’s regional offices re-
+ported a collapse in sales. For details, see the spring Business Outlook Survey.
+ 
+CANADIAN ECONOMY
+
+
+Household wealth has decreased due, in part, to the steep decline in stock markets. This is likely to prompt consumers to increase their precautionary savings and restrain their spending. The Canadian financial system remains resilient, although volatile markets and increased financial stress have put pressure on financial institutions and markets as households and busi- nesses seek to draw on their lines of credit (Chart 9). Financial institutions have introduced programs to help address the challenges related to COVID-19 that their customers are facing. These programs include com- mitments to provide increased flexibility and payment deferrals on mort- gages, credit cards and lines of credit. Moreover, the Bank of Canada’s nu- merous and timely actions to increase liquidity are aimed at helping to keep lending channels open (Table 1).
+
+
+Even with all the policy actions that have been put in place, the effects of COVID-19 on both total supply and total demand in the near term are sig- nificant and negative—and are amplified by the oil price shock. The Bank has used scenario analysis to estimate the level of real GDP to be about 1 to 3 and 15 to 30 percent lower in the first and second quarters of 2020, respectively, than in the fourth quarter of 2019. Despite a high level of un- certainty, these estimates suggest that the near-term downturn will be the sharpest on record.
+The direct and indirect effects of COVID-19 will weigh heavily on con- sumer price index (CPI) inflation in the coming months, which is expected to slump to close to 0 percent in the second quarter of 2020. Canadians will see increases in prices of some items in the near term, given upward pressure from supply-side constraints and pass-through of the
+ 
+CANADIAN ECONOMY
+
+
+depreciation of the Canadian dollar. However, the decline in gasoline prices and the effects of lower demand can be expected to dominate in the overall measure of inflation.
+
+Extreme economic and financial stress has been met with an exceptional policy response
+The severity of the current shocks has demanded a bold policy response. A
+complementary set of fiscal, monetary and financial policy measures has been put in place to help offset lost income, boost access to credit and lower debt- service costs (Table 1).5 In addition to spending for the health-care sector to combat COVID-19, federal and provincial governments have announced di- rect support for households and businesses. This includes the Canada Emer- gency Response Benefit and the Canada Emergency Wage Subsidy.6 Both levels of government have also introduced payment and tax deferrals that will leave more than $120 billion in the hands of households and businesses through this challenging period. All told, these measures are expected to re- place much of the lost income for workers in the most-affected sectors and will significantly ease cash-flow pressures.
+One important feature of the fiscal policies is that they are elastic: they are designed to adjust depending on the size of the impacts on employment and economic activity. This additional flexibility should give households greater confidence that they will continue to have the support they need to meet their day-to-day costs of living. As a result of the wage subsidy program, some businesses may be able to stay open, although with re- duced operations. In addition, those workers benefiting from the wage subsidy program will maintain relationships with their employers, which offers some comfort that they will be better able to resume work later even if they are not working their normal hours now.
+In addition, the federal government is supporting small and medium-sized enterprises through lending programs by Export Development Canada, the Business Development Bank of Canada and financial institutions. As well, initial measures taken by the Office of the Superintendent of Financial In- stitutions have freed up additional bank lending capacity by lowering the Domestic Stability Buffer by 1.25 percentage points to 1 percent of risk-
+
+
+5	The near-term objectives of economic policy are different in the context of COVID-19 than for a typ- ical economic downturn. Because much of the current reduction in activity is due to the necessary efforts to limit the spread of COVID-19, fiscal policy has focused on helping bridge the temporary loss of income that many households and businesses are facing. Other policies, including those by the Bank of Canada, are also aimed at helping ensure these households and businesses have access to low-cost credit.
+6	The Canada Emergency Wage Subsidy provides a wage subsidy of up to 75 percent for up to 12 weeks to encourage employers to rehire affected workers and prevent further job losses. For workers who have lost their income due to COVID-19, the Canada Emergency Response Benefit provides a taxable benefit of $2,000 per month for up to four months.
+ 
+BANK OF CANADA | MONETARY POLICY REPORT | APRIL 2020
+
+
+weighted assets. Lastly, the Canada Mortgage and Housing Corporation is providing an additional funding option for mortgages through the Insured Mortgage Purchase Program.
+The Bank’s actions have been aimed at preventing a disruption in credit flows to support the ability of households and businesses to access the credit they need to get through the downturn. The Bank has introduced multiple programs and facilities that support the functioning of key mar- kets and provide liquidity to financial institutions. It has also cut its key policy interest rate by 150 basis points.7 These actions to support the economy and financial system complement the measures taken by fiscal authorities to avoid a far worse economic outcome during the contain- ment period and promote the subsequent recovery.
+
+
+Table 1: Summary of key policy measures*
+Fiscal policy to support households and businesses
+Government of Canada: †
+	Increased Canada Child Benefit for the 2019–20 benefit year
+	Paid one-time enhanced goods and services tax credit
+	Introduced Canada Emergency Response Benefit and Indigenous Community Support Fund
+	Launched Canada Emergency Business Account
+	Introduced Canada Emergency Wage Subsidy
+	Extended maximum duration of Work-Sharing program
+	Established Business Credit Availability Program through the Business Development Bank of Canada and Export Development Canada
+	Increased lending capacity for Farm Credit Canada
+	Deferred business and personal income tax payments (until September 1, 2020) and sales tax remittance and customs duty payments (until June 30, 2020)
+	Reduced minimum withdrawals for registered retirement income funds
+	Implemented temporary enhancements to the Canada Summer Jobs program
+	Established a six-month interest-free moratorium on repayment of National Student Loans
+Provincial, territorial and municipal governments:
+	Implemented transfers, rebates and subsidies to businesses, households and community organizations
+	Deferred taxes and student loan payments and interest
+Financial policy to support lending
+Office of the Superintendent of Financial Institutions: ‡
+	Lowered the Domestic Stability Buffer by 1.25 percentage points to 1.00 percent of risk-weighted assets
+	Introduced additional measures of regulatory flexibility for federally regulated financial institutions
+Government of Canada:
+	Launched Insured Mortgage Purchase Program through the Canada Mortgage and Housing Corporation
+
+
+
+
+
+
+
+7	A description of the various actions the Bank has taken in response to COVID-19 is available on its website.
+ 
+CANADIAN ECONOMY
+
+
+
+Bank of Canada actions to support the economy and financial system§
+Monetary policy:
+	Lowered the target for the overnight rate by a cumulative 150 basis points to the effective lower bound of 0.25 percent
+Support for the functioning of key financial markets:
+	Launched Bankers’ Acceptance Purchase Facility
+	Introduced program to purchase Canada Mortgage Bonds in the secondary market
+	Introduced Provincial Money Market Purchase program
+	Introduced Commercial Paper Purchase Program
+	Launched program to purchase Government of Canada securities in the secondary market (minimum of $5 billion per week, across the yield curve)
+	Enhanced term repo operations
+	Activated Contingent Term Repo Facility
+Liquidity support for individual financial institutions:
+	Coordinated with international policy-makers for US-dollar liquidity and announced that a US-dollar term repo facility would be made available on a contingency basis (should the need arise)
+	Launched Standing Term Liquidity Facility
+*	This table includes key policy measures up to, and including, April 13, 2020.
+†	For more details on the Government of Canada’s COVID-19 economic response, see Canada’s COVID-19 Economic Response Plan.
+‡	For more information, see the Office of the Superintendent of Financial Institutions’ measures to support the resilience of financial institutions.
+§	For more details on the Bank of Canada’s response, see COVID-19: Actions to Support the Economy and Financial System.
+
+
+As restrictions are lifted, the economy will recover
+Canada’s economy will begin to recover as the health impacts of COVID- 19 fade, businesses begin to reopen and gradually resume their opera- tions, and people start returning to their normal lives.
+The recovery will be supported through several channels. As measures to control the spread of COVID-19 are eased, non-essential businesses will reopen and will recall workers at a brisk pace.8 The government’s wage subsidy will have supported this process by keeping some workers at- tached to their employers, making job matching less costly and time-con- suming than otherwise. More generally, fiscal policies should help prevent a long-lasting decline in business and consumer confidence. Nevertheless, while there may be a rebound in growth, output is likely to remain below pre-pandemic levels for some time.
+Business confidence is expected to strengthen as demand picks up and many firms reactivate their investment and hiring plans. In turn, rising em- ployment and improving consumer confidence will propel consumer spending, particularly given pent-up demand from the efforts to control COVID-19. The housing market will benefit from a rebound in household income and low borrowing costs.
+
+
+
+
+8	Measured growth will temporarily increase sharply because economic activity was very low during the containment period. Such rapid increases are mechanical and say little about the underlying rate of growth.
+ 
+CANADIAN ECONOMY
+
+
+The rebound will be supported by the ongoing access to credit provided to Canadian firms and households by a resilient Canadian financial sys- tem—including its banks, financial market infrastructures and non-bank fi- nancial intermediation. That resilience is periodically assessed through the Bank’s top-down stress-testing exercises. While the COVID-19 shock has some significant differences from our past scenarios, these stress tests in- dicate that Canada’s large lenders are well positioned to weather a severe economic and financial downturn.9 In addition, in the current context, fi- nancial institutions’ continued ability to provide credit is being strongly supported by robust policy measures that address market functioning and funding liquidity issues.
+The economy may also see some positive innovations in the way services are delivered and work is organized, accelerating ongoing structural changes. For example, online sales and the digital economy could benefit from a sustained boost as consumers adopt new services that minimize disruptions to their daily lives. Increased teleworking could reduce some of the geographic barriers workers face, making the labour market more dy- namic and flexible.
+Finally, although oil prices are expected to remain low, a recovery in global economic activity should cause a gradual improvement in prices. This would benefit activity in the oil and gas sector. As well, a rebound in for- eign demand and the weaker Canadian dollar will support non-commodity exports. However, due to the different timing of the recovery across coun- tries, this rebound could be uneven.
+
+The outlook for Canadian economic activity is highly uncertain
+Considerable uncertainty surrounds the timing and evolution of the recov-
+ery. Its speed will depend heavily on how the pandemic and the efforts to control it unfold as well as on developments in global oil markets. In addi- tion, several forces will influence the dynamic of economic activity after the downturn. Policy stimulus will support the recovery. However, the un- certainty and scarring effects of the recession on confidence and produc- tion capacity could prolong the recovery substantially (Figure 1).
+
+
+
+
+
+
+
+
+
+
+9	For more details, see C. Gaa, X. Liu, C. MacDonald and X. Shen, “Assessing the Resilience of the Ca- nadian Banking System,” Bank of Canada Staff Analytical Note No. 2019-16 (May 2019).
+ 
+CANADIAN ECONOMY
+
+
+
+
+ 
+Slower recovery
+ 
+Faster recovery
+ 
+
+ 
+
+
+
+
+
+
+
+Under such elevated uncertainty, it is more appropriate to consider a range of possible outcomes, rather than one base-case projection. In this Report, we illustrate possible outcomes based on different, yet plausible, assumptions about the length of the downturn and speed of the recovery.
+First, we consider a scenario where the containment measures are relaxed soon and policy measures successfully limit any potential structural dam- age to the economy, in both Canada and our major trading partners. In such a scenario, foreign demand would come back relatively quickly, and global supply chains would be up and running in short order. Consumer and business confidence would also recover, providing an additional boost to growth. Moreover, many of the most affected industries tend to have higher job turnover, reflecting that they typically employ younger and more mobile workers (Chart 10). This could help limit skill mismatches and search costs during the recovery.
+ 
+CANADIAN ECONOMY
+
+
+
+
+Overall, in this less severe and less persistent scenario, the decline in eco- nomic activity is abrupt and deep but relatively short-lived. The recession would be rapidly followed by a strong rebound in activity, particularly if the price of oil also bounced back quickly, in line with foreign demand.
+While many economic activities are expected to recover, adverse effects in some sectors of the economy could be more severe and persistent than in the first scenario. This would be the case if the impact of the pandemic and low oil prices were to cause long-lasting damage to the productive capacity of the Canadian economy, with scarring effects from persistent unemployment and firm destruction.
+In the second scenario, we therefore consider that the impact on house- holds and businesses could be more severe and much more persistent. For example, if control measures are required for a longer period, the impact of the pandemic would be greater. This could, in turn, lead a significant number of businesses to permanently close their doors during the down- turn, resulting in some permanent costs through the bankruptcy process. The productive value of the plant and equipment of these firms as well as that of the firm-specific human and knowledge capital could be largely gone. For example, Canada lost many exporters in the aftermath of the 2008–09 recession, which weighed on exports well into the recovery.
+Moreover, workers who are let go may need to move to different indus- tries or relocate, implying potentially longer spells of unemployment and an erosion of their skills and knowledge. Together, these effects could cause structural damage to the economy that might not be undone for several years, if ever.
+ 
+CANADIAN ECONOMY
+
+
+The recovery of foreign demand could be much slower if the global impact of the pandemic is larger and prolonged, which would further weigh on oil prices. Should prices remain weak for an extended period, businesses would face heightened liquidity issues, some businesses would likely shut down, and the contraction in activity could be substantial.
+A more prolonged downturn would also mean that households, busi- nesses and governments could be more indebted by the time the recovery takes hold. A rebound in net wealth as well as a recovery in consumer con- fidence and spending could take time. It is also possible that credit mar- kets may be impaired and slow to recover, despite central bank support.
+Under this second scenario, future growth would be severely dampened, with economic activity remaining below its pre-pandemic level for an ex- tended period.
+Many paths for the economic recovery are possible. Chart 11 shows a range of plausible paths based on the two scenarios described above, illustrating the high degree of uncertainty that households, businesses and policy-makers currently face.
+
+
+The weak economic outlook will weigh on inflation
+Because of the severe and adverse effects of the pandemic, there is con- siderable uncertainty around the outlook for inflation. Determining the im- pact of the economic contraction on future inflation is difficult because both supply and demand are falling. There will also likely be technical challenges to measuring inflation during the containment period.
+ 
+CANADIAN ECONOMY
+
+
+CPI inflation is measured using fixed weights, so it will not capture changes to consumer spending patterns. For example, consumers are likely to buy less gasoline and book fewer flights, making price declines in these catego- ries less relevant to them. However, consumers also are likely to spend more on medical products and food in stores. Given the increased demand for these products, they could see larger price increases. Core inflation measures will be helpful to look through some of this volatility.
+Overall, the direct and indirect effects of COVID-19 will weigh heavily on near-term CPI inflation. Inflation is expected to be close to 0 percent in the second quarter of 2020, primarily reflecting the sharp drop in gasoline prices and, to a lesser extent, travel services such as hotels and travel tours. The impact on inflation will be partially mitigated by the lower Ca- nadian dollar, which can be expected to result in higher import prices. Un- der the first, more favourable scenario, inflation would increase gradually as the effects of past oil price declines dissipate, the economy strengthens and excess supply is absorbed. The gradual return to target would be facil- itated by well-anchored inflation expectations. How quickly inflation re- turns to target will depend on the timing and strength of the recovery.
+The various paths for the recovery illustrated in Chart 11 imply a range of inflation projections (Chart 12). This range understates the uncertainty in the outlook for inflation because there are both upside and downside risks to each of these projections. Moreover, uncertainty is greater than usual.10
+
+
+10	For reference, a statistical analysis of the Bank’s forecast errors in the January 2020 Report sug- gests that a 50 percent confidence interval around the base-case projection widens from ±0.2 per- centage points in the current quarter to ±0.6 percentage points by the end of the projection hori- zon. Over the same period, a 90 percent confidence band widens from ±0.6 to ±1.4 percentage points. Currently, uncertainty would be considerably greater than these calculations suggest.
+ 
+CANADIAN ECONOMY
+
+
+
+
+
+On the downside, there is the risk that supply recovers more quickly than demand. This would be the case if businesses reopen quickly but consum- ers remain cautious for longer, perhaps because of uncertainty over COVID-19 or economic concerns. A shift in consumer preferences could also weigh on some sectors, like travel and restaurants, that have been se- verely affected by the pandemic. A slower, more protracted recovery, as in the second scenario, could also lead to prolonged weakness in inflation through persistent excess supply.
+While the downside risks to inflation are likely larger, there are upside risks. If demand were to rebound faster than supply after the control measures are lifted, there would be a boost to inflation due to the release of pent-up demand and the effects of substantial fiscal and monetary stimulus. Disruptions to supply chains and the labour market could also put upward pressure on prices for specific goods and services, for exam- ple, if fewer temporary foreign workers led to less agricultural production.
+
+The current economic environment has extraordinary implications for monetary policy
+The combination of the COVID-19 pandemic and oil price collapse poses
+unique challenges for the conduct of monetary policy and achieving the Bank’s 2 percent inflation target. The pandemic and the resulting control measures are having profound effects on both demand and supply as well as causing extraordinary financial market stress. This stress is disrupting the flow of credit and impairing the transmission of monetary policy.
+The Bank lowered the target for the overnight rate in recent weeks by
+150 basis points to the effective lower bound of 25 basis points.11 This re- duction reinforced other actions taken to help ensure affordable credit is available to households and firms. This access is critical during the con- tainment period to facilitate the borrowing needed to bridge temporary shortfalls in income. Lower interest rates will help lower the cost of bor- rowing, thereby supporting demand. These actions complement the sub- stantial fiscal stimulus recently put in place by the federal and provincial governments to sustain jobs, income and businesses in Canada.
+The Bank has taken other measures to maintain access to credit by sup- porting the functioning of key financial markets, including those for gov- ernment debt, and by providing more access to liquidity to financial
+
+
+11	For information on the conduct of monetary policy at the effective lower bound, consult Frame- work for Conducting Monetary Policy at Low Interest Rates, Bank of Canada (December 2015), and in
+S. S. Poloz, “Prudent Preparation: The Evolution of Unconventional Monetary Policies” (speech to
+The Empire Club of Canada, Toronto, December 8, 2015).
+ 
+CANADIAN ECONOMY
+
+
+institutions (Table 1). As a result, the Bank’s settlement balances have pas- sively increased as the Bank’s asset purchases grew.12
+As the pandemic recedes and measures constraining the supply of goods and services are relaxed, the prevailing low interest rates and other measures to maintain access to credit will boost demand and strengthen the recovery.
+The Bank will closely monitor the effectiveness of its actions, as well as the fiscal and other policy actions taken, and will assess whether output and inflation are on self-sustaining paths toward the full employment level and the 2 percent inflation target, respectively.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12	Given the existence of excess settlement balances, a floor, rather than a corridor, system is being used to implement monetary policy at the effective lower bound. Under a floor system, the target for the overnight rate is equal to the deposit rate, which is normally set 25 basis points below the target rate under the corridor system. For further information, consult Framework for Market Opera- tions and Liquidity Provision.

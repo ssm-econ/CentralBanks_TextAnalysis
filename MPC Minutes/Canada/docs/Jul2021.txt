@@ -1,0 +1,1554 @@
+
+
+
+
+ruiuii'I BANK OF CANADA
+-&- 1 -&- BANQUE DU CANADA
+
+
+
+
+
+
+
+
+
+Monetary Policy
+Report
+July 2021
+
+
+
+Canada’s inflation-control strategy1
+
+Inflation targeting and the economy
+▪	The Bank’s mandate is to conduct monetary policy to promote the economic and financial well-being of Canadians.
+▪	Canada’s experience with inflation targeting since 1991 has shown that the best way to foster confidence in the value of money and to contribute to sustained economic growth, employment gains and improved living standards is by keeping inflation low, stable and predictable.
+▪	In 2016, the Government and the Bank of Canada renewed Canada’s inflation-control target for a further five-year period, ending December 31, 2021. The target, as measured by the rate of inflation of the consumer price index (CPI), remains at the 2 percent midpoint of the control range of 1 to 3 percent.
+
+Monetary policy tools
+▪	Monetary policy actions take time—usually from six to eight quarters—to work their way through the economy and have their full effect on inflation. For this reason, monetary policy must be forward-looking.
+▪	The Bank normally carries out monetary policy through changes in the target for the overnight rate of interest (the policy rate).2 The Bank also has a range of other monetary policy tools it can use when the policy rate is at very low levels. These tools consist of guidance on the future evolution of the policy rate, large-scale asset purchases (quantitative easing and credit easing), funding for credit measures, and negative policy rates. The potential use and sequencing of these additional tools would depend on the economic and financial market context.
+▪	All of the Bank’s monetary policy tools affect total demand for Canadian goods and services through their influence on market interest rates, domestic asset prices and the exchange rate. The balance between this demand and the economy’s production capacity is, over time, the main factor that determines inflation pressures in the economy.
+▪	Consistent with its commitment to clear, transparent communications, the Bank regularly reports its perspectives on the economy and inflation. Policy decisions are typically announced on eight pre-set days during the year, and full updates of the Bank’s outlook are published four times each year in the Monetary Policy Report.
+
+Inflation targeting is symmetric and flexible
+▪	Canada’s inflation-targeting approach is symmetric, which means that the Bank is equally concerned about inflation rising above or falling below the 2 percent target.
+▪	Canada’s inflation-targeting framework is ﬂexible. Typically, the Bank seeks to return inflation to target over a horizon of six to eight quarters. However, the most appropriate horizon for returning inflation to target will vary depending on the nature and persistence of the shocks buffeting the economy.
+
+Monitoring inflation
+▪	In the short run, the prices of certain CPI components can be particularly volatile. These components, as well as changes in indirect taxes such as the goods and services tax/harmonized sales tax, can cause sizable fluctuations in CPI inflation.
+▪	In setting monetary policy, the Bank seeks to look through such transitory movements in CPI inflation and focuses on a set of “core” inflation measures that better reflect the underlying trend of inflation. In this sense, these measures act as an operational guide to help the Bank achieve the CPI inflation target. They are not a replacement for CPI inflation.
+▪	The Bank’s three preferred measures of core inflation are CPI-trim, which excludes CPI components whose rates of change in a given month are the most extreme; CPI-median, which corresponds to the price change located at the 50th percentile (in terms of basket
+weight) of the distribution of price changes; and CPI-common, which uses a statistical procedure to track common price changes across categories in the CPI basket.
+
+
+
+1	See Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Inﬂation-Control Target (October 24, 2016) and Renewal of the Inﬂation-Control Target: Background Information—October 2016, which are both available on the Bank’s website.
+2	The Framework for Conducting Monetary Policy at Low Interest Rates, available on the Bank’s website, describes these measures and the principles guiding their use.
+
+
+
+The Monetary Policy Report is available on the Bank of Canada’s website at bankofcanada.ca.
+For further information, contact:
+Public Information Communications Department Bank of Canada
+234 Wellington Street Ottawa, Ontario K1A 0G9
+Telephone: 613-782-8111;
+1-800-303-1282 (toll-free in North America)
+Email: info@bankofcanada.ca Website: bankofcanada.ca
+ISSN 1201-8783 (Print)
+ISSN 1490-1234 (Online)
+© Bank of Canada 2021
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monetary Policy Report	
+July 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a report of the Governing Council of the Bank of Canada:
+Tiff Macklem, Timothy Lane, Lawrence Schembri, Paul Beaudry and Toni Gravelle.
+
+
+
+
+
+
+
+
+
+
+Contents	
+Overview	1
+Key messages	2
+Box 1: Key inputs to the projection	3
+Global economy	4
+Box 2: Changes to the economic projection since the April Report	6
+Accommodative global financial conditions	7
+Rapid growth in the United States	7
+Growth resuming in the euro area	8
+Growth to rebound in China after a slow start in 2021	8
+Growth restrained in emerging-market economies	9
+Higher oil prices	9
+Canadian economy	11
+Economic activity to rebound with reopening	12
+Significant labour market slack	15
+CPI inflation boosted by temporary factors	16
+Solid growth after a strong rebound in 2021	18
+Consumption to underpin the recovery	18
+Foreign demand to support export recovery	19
+Business investment to strengthen	20
+CPI inflation to ease as temporary factors fade	21
+Evolution of the Bank’s balance sheet	23
+Risks to the inflation outlook	25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview	
+The economic recovery in Canada and other major economies has progressed despite recent waves of COVID-19. The recovery is expected to strengthen as the pandemic and related restrictions ease. The rollout of vaccinations is proceeding rapidly in many regions, increasing confidence in the durability of the recovery (Chart 1, Box 1). Widespread immunity will, however, take longer to achieve in emerging-market economies (EMEs).
+Against this backdrop, the health and economic implications of variants are an important and growing source of uncertainty for the global economy.
+
+Chart 1: COVID-19 cases are low in most advanced economies, and vaccination coverage is rising
+
+a.	Daily new cases per million people, 7-day moving average
+
+
+Number of cases
+1,000
+
+
+800
+
+
+600
+
+
+400
+
+
+200
+
+
+0
+
+b.	Percentage of population that has received at least one dose of a COVID-19 vaccine
+
+Canada United Kingdom
+Germany United States
+France Brazil Japan Mexico India Russia South Africa
+Jan	Apr	Jul	Oct	Jan	Apr	Jul	0
+2020	2021
+10	20	30
+40	50	60	70	80 %
+Canada United States Euro area
+Japan
+United Kingdom Mexico
+India Russia China
+South Africa Brazil
+Before April Report	After April Report
+
+Sources: World Health Organization, national sources via Our World in Data,
+United Nations via Haver Analytics and Bank of Canada calculations	Last observations: panel a, July 9, 2021; panel b, July 8–9, 2021
+
+
+Key messages
+■	In Canada, although economic growth in the first half of this year was weaker than estimated, it should pick up strongly in the third quarter as the economy reopens. Consumption is expected to lead the rebound with increases in spending on transportation, recreation, and food and accommodation services. The economic recovery is expected to become more broad-based and self-sustaining over the projection horizon.
+■	The impact of the pandemic remains uneven, and achieving a full and inclusive recovery will take time. Fiscal and monetary policy are providing a strong foundation to support the ongoing economic recuperation.
+■	Many sources of uncertainty surround the medium-term outlook for gross domestic product (GDP) and potential output. As a result, estimates of when the output gap will close are particularly uncertain. In the projection, economic slack is absorbed in the second half of 2022.
+■	Consumer price index (CPI) inflation is expected to remain elevated throughout the rest of 2021 due to temporary factors related to the pandemic. As these effects dissipate later this year and in 2022, inflation is forecast to ease to about 2 percent. Inflation is then projected to rise to slightly above 2 percent before returning toward target in 2024.
+
+Box 1
+
+Key inputs to the projection
+The Bank of Canada’s projection is always conditional on several key assumptions, and changes to them will affect the outlook for the Canadian economy. The Bank regularly reviews these assumptions and assesses the sensitivity of the economic projection to them. The key inputs into the Bank’s projection are as follows:
+■	The global vaccination rollout is progressing in many regions, albeit at a slightly slower pace in the United States than had been anticipated. Broad immunity is assumed to be achieved in the third quarter of 2021 in Canada; later in 2021 in the United States, most other advanced economies and China; and in 2022 in other emerging-market economies.
+■	Most public health restrictions in Canada, apart from some border restrictions, are assumed to be eased by the end of the third quarter of 2021. As in the April Report, the Bank assumes consumers will become somewhat less cautious over the latter part of the year. Nonetheless, the Bank assumes some caution among consumers will remain over the rest of the projection horizon.
+■	The projection incorporates $108 billion in federal fiscal stimulus, in line with the 2021 federal budget.
+■	Oil prices are assumed to remain near recent levels. The per-barrel prices in US dollars are assumed to be $75 for Brent, $70 for West Texas Intermediate and $60 for Western Canadian Select, each about
+$10 higher than assumed in the April Report.
+■	By convention, the Bank does not forecast the exchange rate in the Monetary Policy Report. The Canadian dollar is assumed to remain at 81 cents US over the projection horizon, close to its recent average and only slightly above the 80 cents US assumed in April.
+■	The pandemic and related containment measures have both persistent and temporary negative effects on the supply side of the Canadian economy.1
+ The Bank’s assessment of the growth of potential output, a longer-term concept, looks through the short-lived effects of containment
+
+
+
+
+measures. Potential output growth is assumed to average about 1.8 percent per year over 2021–23, approximately 0.2 percentage points higher than estimated in April. This change reflects stronger expected investment and less labour market scarring. As a result, the level of potential output in 2023 is projected to be about
+0.4	percent below the pre-pandemic estimate.2
+ Containment measures have been causing important short-term effects on the supply of goods and services. In particular, supply fell sharply in early 2020 when some businesses were forced to temporarily suspend or reduce operations, but it has since largely recovered. The projection assumes that containment measures have no effects on supply starting in the third quarter of 2021.
+ Estimates of supply can be obtained by combining the estimates of the temporary effects of the containment measures with the assessment of potential output.
+■	The Bank estimates that the output gap—the difference between gross domestic product and supply—was about -3.0 to -2.0 percent in the second quarter of 2021, unchanged from the range reported for the first quarter in the April Report.
+■	The neutral nominal policy rate is defined as the real rate consistent with output remaining sustainably
+at its potential and with inflation at target, on an ongoing basis, plus 2 percent for inflation. It is a medium- to long-term equilibrium concept. For Canada, the economic projection is based on an assumption that the neutral rate is at the midpoint of the estimated range of 1.75 to 2.75 percent. This range was last reassessed in the April Report.
+
+
+1	As in the previous four reports, the Bank makes the distinction between supply and potential output in the near term to account for the relatively short-lived nature of some of the decrease in supply caused by containment measures.
+2	Estimates of the level of potential output in 2023 were not constructed as part of the January 2020 projection. The pre-pandemic estimate referred to in
+the text is calculated by extending the January 2020 projection for potential output by two years, i.e., through 2023, using the estimate for potential growth in 2021 that was provided in the January 2020 Report.
+
+
+
+
+
+
+
+
+
+
+Global economy	
+After some weakness in the first quarter, the global economic recovery from the COVID-19 pandemic is strengthening. The recovery, however, will likely continue to be uneven across countries and sectors. In advanced economies, recoveries are on a more solid footing than they are in EMEs, reflecting elevated vaccination rates and greater policy support. Growth is
+particularly strong in the United States, where substantial fiscal stimulus was implemented in the first half of 2021 and the economy is more advanced in its reopening phase than economies of other countries.
+Demand for goods—which has bolstered manufacturing and trade— continues to support global growth. Meanwhile, the easing of containment measures in advanced economies is leading to improved spending on services (Chart 2). However, supply shortages and bottlenecks have contributed to rising input costs and have restrained manufacturing production in recent months (Chart 3).
+
+Chart 2: Activity in the service sectors in advanced economies is strengthening
+Monthly data
+a.	Manufacturing PMI
+
+Index 65
+b.	Services PMI
+
+Index 80
+
+60	70
+
+55	60
+
+50	50
+
+45	40
+
+40	30
+
+35	20
+
+30
+2017	2018	2019	2020	2021
+United States	Euro area	China	World
+10
+2017	2018	2019	2020	2021
+
+Note: The purchasing managers’ index (PMI) is a diffusion index of business conditions. A reading above (below) 50 indicates an improvement (a deterioration) in overall business conditions compared with the previous month.
+Source: IHS Markit via Haver Analytics	Last observation: June 2021
+
+
+
+
+Chart 3: Supply constraints are increasing delivery times and causing input prices to rise
+Monthly data
+a.	PMI: Manufacturing suppliers’ delivery times index
+
+Index
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+b.	PMI: Manufacturing input prices index
+
+Index
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+70
+2017	2018	2019	2020	2021
+United States	Euro area	China	World
+30
+2017	2018	2019	2020	2021
+
+Note: The purchasing managers’ index (PMI) is a diffusion index of business conditions. For suppliers’ delivery times, an inverted index is used to show that a reading less than (greater than) 50 indicates an increase (decrease) in delivery times compared with the previous month. For input prices, a reading above (below) 50 indicates an increase (decrease) in input prices compared with the previous month.
+Sources: IHS Markit via Haver Analytics	Last observation: June 2021
+
+
+Table 1: Projection for global economic growth
+
+Share of real global GDP* (percent)
+Projected growth† (percent)
+2020
+2021
+2022
+2023
+United States
+16
+-3.5 (-3.5)
+6.6 (7.0)
+5.1 (4.1)
+1.8 (1.3)
+Euro area
+12
+-6.7 (-6.8)
+4.8 (4.5)
+4.7 (4.5)
+1.9 (2.3)
+Japan
+4
+-4.7 (-4.9)
+2.7 (3.0)
+2.6 (1.3)
+0.4 (0.8)
+China
+17
+2.3 (2.3)
+8.9 (9.5)
+5.6 (5.3)
+5.5 (5.3)
+Oil-importing EMEs‡
+34
+-2.5 (-2.6)
+8.0 (7.5)
+3.9 (4.3)
+3.8 (4.0)
+Rest of the world§
+17
+-3.6 (-3.8)
+4.7 (3.7)
+3.8 (3.1)
+2.3 (3.0)
+World
+100
+-2.4 (-2.4)
+6.9 (6.8)
+4.4 (4.1)
+3.2 (3.3)
+GDP shares are based on International Monetary Fund (IMF) estimates of the purchasing-power-parity valuation of country GDPs for 2019 from the IMF’s October 2020 World Economic Outlook.
+† Numbers in parentheses are projections used in the previous Report.
+‡ The oil-importing emerging-market economies (EMEs) grouping excludes China. It is composed of large EMEs from Asia, Latin America, the Middle East, emerging Europe and Africa (such as India, Brazil and South Africa) as well as newly industrialized economies (such as South Korea).
+§ “Rest of the world” is a grouping of all other economies not included in the first five regions. It is composed of oil-exporting EMEs (such as Russia, Nigeria and Saudi Arabia) and other advanced economies (such as Canada, the United Kingdom and Australia).
+Source: Bank of Canada
+
+After a contraction of 2.4 percent in 2020, global growth is expected to surge to about 7 percent in 2021, reflecting less drag from pandemic-related restrictions and support from both monetary and fiscal policy (Table 1).
+Following the initial rebound of the economy, global growth is expected to moderate in 2022 and 2023 as effects of policy stimulus on growth fade. The outlook for global GDP growth has been revised up modestly relative to the April Report (Box 2). However, the emergence of new variants of the COVID-19 virus continues to add uncertainty into the outlook.
+
+Inflation has been rising in most regions and exceeded targeted rates in some countries, including the United States. Transitory factors are largely driving this increase. Surging demand amid supply constraints has pushed up some input costs. Most notably, commodity prices have increased, raising energy prices and other costs. The prices of some goods and services that fell at the beginning of the pandemic have started rising in some regions, contributing to
+the increase in global inflation. Nevertheless, inflation expectations remain well anchored in advanced economies and many EMEs.
+
+Box 2
+
+Changes to the economic projection since the April Report
+Global GDP outlook
+The global outlook for gross domestic product (GDP) has been revised up since April. The level of global GDP is expected to be 0.3 percent higher by the end of 2023. Two factors explain most of this revision:
+■	The Bank now assumes that, over the projection horizon, households in advanced economies will spend some of the excess savings that they accumulated during the pandemic.
+■	The base-case scenario incorporates about US$1.5 trillion in new US government spending over eight years starting in 2022. This accounts for the recent Bipartisan Infrastructure Framework
+agreement and for additional spending on research and development. US government spending could be higher if other spending proposals are also approved.
+
+Canadian GDP outlook
+While GDP in Canada has been revised down over 2021, it subsequently rises to above that projected in the April Report (Chart 2-A). GDP growth has been revised down by about half a percentage point in 2021, to around 6 percent. It has been revised up by about 1 percentage point in 2022 and remains roughly unchanged in 2023 (Table 2). As a result, the level of real GDP is about ¾ percent higher by the end of both 2022 and 2023.
+■	The forecast for GDP growth in the third quarter has been revised up slightly. Consumption is expected to be stronger, reflecting increased consumer confidence as the reopening of the economy takes hold.
+■	Two key factors contribute to higher projected domestic demand over 2022 and 2023:
+ Households are now assumed to spend 20 percent of the extra savings they have accumulated during the pandemic on consumption (in the outlook in the
+Chart 2-A: The forecast for Canadian GDP is stronger in 2022 and 2023 than forecast in the April Report
+Seasonally adjusted at annual rates, chained 2012 dollars, quarterly data
+Can$ billions
+2,400
+
+2,300
+
+2,200
+
+2,100
+
+2,000
+
+1,900
+
+1,800
+2018	2019	2020	2021	2022	2023
+GDP	GDP projection from the April Report	GDP at 2019Q4 Sources: Statistics Canada and Bank of Canada calculations and projections
+April Report, none of these extra savings went to consumption). This change was made in response to new survey data, including the Canadian Survey of Consumer Expectations for the second quarter of 2021, where consumers report planning to spend some of these savings over the next two years.
+ With improved business confidence and the higher terms of trade, the projections for investment and consumption have been revised up compared with the April forecast.
+
+Canadian CPI inflation outlook
+Consumer price index (CPI) inflation is expected to be higher than projected in April. CPI inflation has been revised up by 0.7 percentage points in 2021 and by
+0.5	percentage points in 2022. These positive revisions largely reflect the effects of higher gasoline prices, stronger expected effects of supply disruptions for prices of some goods, and a faster partial recovery in prices for hard-to-distance services.
+
+Accommodative global financial conditions
+In advanced economies, financial conditions continue to support economic activity, and financial markets have modestly pulled forward their expectations of when monetary policy will be tightened. Yields on 10-year government bonds have declined by about 20 basis points since the April Report and are low by historical standards. In addition, corporate bond spreads remain tight, and equity price indexes are generally higher than at the time of the April Report.
+Financial conditions also remain accommodative in many EMEs, as indicated by narrow spreads on the emerging-market bond index. The unevenness
+of the recovery could, however, pose significant financial challenges to vulnerable EMEs when advanced economies begin to withdraw monetary stimulus.
+Since the April Report, higher energy prices have contributed to a modest appreciation of the Canadian dollar against most currencies other than the US dollar (Chart 4). The broad US dollar index also appreciated in recent weeks.
+
+Chart 4: The Canadian dollar appreciated against most currencies except the US dollar
+Daily data
+Index 130
+US$ 0.88
+
+
+125	0.83
+
+
+120	0.78
+
+
+115	0.73
+
+
+110
+
+
+
+CEER (left scale)
+CEER, excluding United States (left scale)
+0.68
+
+
+Canada–United States exchange rate (right scale)
+
+Note: CEER is the Canadian Effective Exchange Rate index—a weighted average of bilateral exchange rates for the Canadian dollar against the currencies of Canada’s major trading partners.
+Source: Bank of Canada	Last observation: July 9, 2021
+
+
+Rapid growth in the United States
+In the United States, growth of both GDP and employment are estimated to have been strong in the first half of 2021. Industrial production remained
+resilient despite bottlenecks at ports and global shortages of semiconductors. The Bank estimates that GDP surpassed its pre-pandemic level in the second quarter, though about 7 million jobs remain to be recovered.1
+
+
+
+1	Given population growth, roughly 8 million jobs would be needed to reach the pre-pandemic employment rate.
+
+GDP growth is projected to surge to 6½ percent in 2021, supported by strong consumer spending. Substantial transfers to households have helped push consumption of goods well above pre-pandemic levels. As the economy reopens, consumption should shift back toward services. In addition, some of the extra savings accumulated during the pandemic are now assumed
+to boost consumption, starting near the end of the year. Moreover, strong demand should support solid growth in business investment. After growing at a robust pace through the first quarter of 2021, residential investment is expected to contract modestly mid-year. The inventory of homes to sell is limited, and high material costs are holding back new housing construction.
+The projection assumes approval of new government spending totalling about US$1.5 trillion over eight years starting in 2022 (Box 2). Despite these new expenditures, GDP growth is expected to slow in 2022 and 2023 as the effects of other recently adopted stimulus packages wane.
+Both core and total inflation as measured by personal consumption expenditure price indexes rose above 3 percent in recent months. The increase in core inflation largely reflects a surge in demand due to strong fiscal support and supply shortages that caused temporary production shortfalls for certain goods, such as motor vehicles. The reopening of the economy also led to a recovery in prices in some hard-to-distance service sectors, where containment measures had previously led to price reductions. Rising energy prices also boosted total inflation. Inflation is expected to decrease over the next year as the effects of these factors dissipate, but it is forecast to remain above 2 percent over the projection horizon.
+
+Growth resuming in the euro area
+GDP growth is estimated to have turned positive in the euro area in the second quarter as businesses started to reopen. Growth is expected to accelerate further in the second half of the year and to remain strong in 2022 with the broadening of the reopening phase. Growth should slow in 2023 as the effects of fiscal stimulus begin to fade.
+Total inflation in the euro area has increased in recent months, due largely to transitory factors, and is expected to peak in the second half of 2021.
+Core inflation, however, remains below target as the euro area continues to operate well below its capacity. Over the projection horizon, core inflation should gradually increase as economic activity recovers.
+
+Growth to rebound in China after a slow start in 2021
+Growth in China slowed in the first quarter in response to COVID-19 containment measures. Manufacturing production and exports continue to underpin economic activity. Household spending and growth in
+services remain modest. Policy is adjusting as conditions evolve. Ongoing vaccinations should facilitate a gradual increase in demand for services over the remainder of the year. As conditions improve, policy support is expected to be gradually withdrawn, leading to slowing growth over the projection horizon. While producer prices for some goods have risen sharply, consumer price inflation remains low.
+
+Growth restrained in emerging-market economies
+The emergence of new variants of the COVID-19 virus has led to new outbreaks and high daily case numbers in many oil-importing EMEs since March. This prompted new restrictions that likely impeded growth in the second quarter, particularly in India. As case numbers fall and restrictions are eased, a recovery is expected in the second half of the year, though the spread of new variants is a risk. Growth is then projected to slow in 2022 and 2023, when the initial rebound effects will have faded. The
+slow vaccination rollout is nevertheless expected to restrain the recovery through 2023, given the elevated risks of additional outbreaks and renewed restrictions.
+In the rest-of-world group, growth is projected to be strong, reflecting robust vaccination rollouts—particularly in the advanced economies—and the associated easing of restrictions on mobility. The increase in oil prices since the start of the year has also supported economic activity in the oil-exporting members of this group.
+
+Higher oil prices
+Demand for oil has outpaced supply in recent months, pushing oil inventories down to typical pre-pandemic levels (Chart 5). The prices of Brent, West Texas Intermediate and Western Canadian Select oil have risen and are assumed to be US$75, US$70 and US$60, respectively, each US$10 higher than in the April Report (Box 1).
+The Organization of the Petroleum Exporting Countries (OPEC) and some non-OPEC oil producers (OPEC+) expanded production modestly from May to July. The group has discussed further quota increases but has not yet reached an agreement. Even with some expansion of OPEC+ production,
+
+Chart 5: Oil demand has outpaced supply, leading to a rise in prices
+
+a.	Oil consumption, production and stocks, monthly data
+Million barrels per day	Million barrels
+
+b.	Oil prices, daily data
+
+
+US$ per barrel
+105	300	80
+
+100
+200
+60
+
+95	100
+40
+90	0
+
+20
+85	-100
+
+80
+2019	2020	2021
+-200
+0
+2019	2020	2021
+Global oil production (left scale) Global oil consumption (left scale)
+OECD industry stocks, deviation from 2015–19 average (right scale)
+Western Canadian Select	West Texas Intermediate	Brent
+
+Note: Oil price data for April 20, 2020, are excluded because disruptions in the oil futures market led to negative values of around -US$48 for West Texas Intermediate and -US$38 for Western Canadian Select on that day. Price data for all other days in the date range are included. OECD is the Organisation for Economic Co-operation and Development.
+Sources: IEA, US Energy Information Administration,	Last observations: panel a—OECD industry stocks, April 2021; Bloomberg Finance L.P. and Bank of Canada calculations		others, June 2021; panel b, July 9, 2021
+
+
+the ongoing reopening of major economies could lift prices above assumed levels in the near term. Subsequently, a large rise in OPEC+ production or a greater-than-expected increase in US production could more than reverse such gains.
+The Bank’s non-energy commodity price index is close to its level at the time of the April Report and higher than it was before the pandemic. Prices for base metals and agricultural products have moved up modestly since the April Report. While lumber prices increased sharply between late April and mid-May, they have since returned to below their level at the time of the
+April Report because housing-related pressures eased. Markets expect non- energy commodity prices to remain elevated over the projection horizon due to strong global demand.
+
+
+
+
+
+
+
+
+
+
+Canadian economy	
+In Canada, the rapid rollout of vaccinations is improving prospects for a sustainable recovery. The third wave of COVID-19 slowed economic growth and led to reductions in employment in April and May 2021. However, these negative effects are waning, and the downside risks associated with the pandemic have significantly diminished. Broader immunity, fewer COVID-19 cases and the resulting easing of restrictions are expected to lead to a strong pickup in GDP growth over the second half of 2021.
+Achieving a full and inclusive economic recovery will, however, take time. Hard-to-distance service sectors face an uncertain reopening process. They may encounter difficulties rehiring workers quickly as well as supply chain issues. And they may experience uncertainty about the strength of demand as well as concerns about the possibility of future restrictions. Over the coming months, the labour market should continue to see a strong rebound in employment. However, the process of matching workers and jobs could be challenging and cause delays. As well, structural changes to the economy may mean that some people face long spells of unemployment.
+While this adjustment process could be lengthy and uneven, broader
+COVID-19 immunity should reduce uncertainty and cautiousness. In turn, this will boost consumption and business investment. Similar developments in our trading partners’ economies should underpin the recovery in exports. While fiscal and monetary policies are supporting economic activity, the recovery is expected to become broader and more self-sustaining over time.
+Economic activity in the first half of 2021 has been somewhat less robust than anticipated because a combination of softer housing activity, supply chain issues and the impact of containment weighed more on growth than expected. However, throughout the rest of the projection horizon, economic growth is expected to be stronger than noted in the April Report (Box 2). The economy is projected to grow at a robust pace of around 6 percent in 2021. Growth then moderates to about 4½ and 3¼ percent—still solid paces—in 2022 and 2023, respectively (Table 2).
+Many sources of uncertainty surround the medium-term outlook for GDP and potential output. These include the difficult adjustments in the labour market, the productivity benefits of digital investments and the persistence of changes in consumer behaviour. Because these factors are relevant for both demand and supply, estimates of when the output gap will close are particularly uncertain.
+CPI inflation will likely remain at or above 3 percent through the rest of 2021 due to temporary factors related to the pandemic. As the effects of these factors dissipate later this year and in 2022, inflation is expected to ease to about 2 percent. Inflation is then projected to rise temporarily—to modestly above 2 percent in 2023—before returning toward target in 2024.
+
+Table 2: Contributions to average annual real GDP growth
+Percentage points*†
+
+2020
+2021
+2022
+2023
+Consumption
+-3.4 (-3.5)
+2.9 (2.3)
+3.6 (2.8)
+2.3 (2.2)
+Housing
+0.3 (0.3)
+1.6 (1.9)
+-0.5 (-0.4)
+-0.1 (-0.1)
+Government
+0.1 (-0.1)
+1.7 (1.5)
+0.7 (0.9)
+0.3 (0.7)
+Business ﬁxed investment
+-1.3 (-1.3)
+0.5 (0.5)
+1.1 (0.7)
+0.7 (0.7)
+Subtotal: final domestic demand
+-4.3 (-4.5)
+6.7 (6.2)
+4.9 (4.0)
+3.2 (3.5)
+Exports
+-3.2 (-3.1)
+1.2 (1.7)
+1.8 (2.0)
+1.6 (1.3)
+Imports
+3.8 (3.8)
+-2.7 (-2.3)
+-2.5 (-2.5)
+-1.7 (-1.6)
+Subtotal: net exports
+0.7 (0.7)
+-1.5 (-0.6)
+-0.7 (-0.5)
+-0.1 (-0.3)
+Inventories
+-1.6 (-1.6)
+0.8 (0.9)
+0.4 (0.2)
+0.2 (0.0)
+GDP
+-5.3 (-5.4)
+6.0 (6.5)
+4.6 (3.7)
+3.3 (3.2)
+Memo items (percentage change):
+Range for potential output
+
+0.8–2.0
+(0.8–2.0)
+
+0.8–2.2
+(0.8–2.2)
+
+0.4–2.2
+(0.4–2.2)
+
+1.0–3.0
+(1.0–3.0)
+Real gross domestic income (GDI)
+-6.3 (-6.4)
+9.4 (8.6)
+3.8 (3.8)
+3.1 (3.2)
+CPI inflation
+0.7 (0.7)
+3.0 (2.3)
+2.4 (1.9)
+2.2 (2.3)
+* Numbers in parentheses are from the projection in the previous Report.
+† Numbers may not add to total because of rounding.
+
+Economic activity to rebound with reopening
+Economic growth should pick up strongly in the third quarter of 2021 (Chart 6, Table 3). Consumer confidence has returned to pre-pandemic levels, and a high share of the eligible population is vaccinated. As the economy reopens, consumption is expected to lead the rebound with an
+increase in spending on services such as transportation, recreation, and food and accommodation (Chart 7).
+
+Chart 6: Growth is expected to pick up strongly in the third quarter
+Contribution to real GDP growth, quarterly data
+%	Percentage points
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20	20
+
+15	15
+
+10	10
+
+5	5
+
+0	0
+
+-5	-5
+
+-10
+
+2020Q4	2021Q1	2021Q2	2021Q3
+-10
+GDP growth, quarterly,
+at annual rates (left scale) GDP growth estimate in April Report, quarterly,
+at annual rates (left scale)
+Business fixed investment (right scale) Exports (right scale)
+Consumption (right scale) Housing (right scale)
+Inventories, imports, government spending and residual (right scale)
+
+Sources: Statistics Canada and Bank of Canada estimates and calculations	Last data plotted: 2021Q3
+
+
+Table 3: Summary of the quarterly projection for Canada*
+
+
+2020
+2021
+
+2020
+2021
+2022
+2023
+Q4
+Q1
+Q2
+Q3
+
+Q4
+Q4
+Q4
+Q4
+CPI inﬂation (year- over-year percentage change)
+0.7
+(0.7)
+1.5
+(1.5)
+3.4
+(2.9)
+3.9
+
+0.7
+(0.7)
+3.5
+(2.2)
+2.0
+(2.0)
+2.4
+(2.4)
+Real GDP (year-over- year percentage change)
+-3.1
+(-3.2)
+0.3
+(0.4)
+13.6
+(14.3)
+6.0
+
+-3.1
+(-3.2)
+4.9
+(5.4)
+4.2
+(3.1)
+2.9
+(2.9)
+Real GDP (quarter-
+
+
+
+
+
+
+
+
+
+over-quarter percentage change at annual rates)†
+9.3
+(9.6)
+5.6
+(7.0)
+2.0
+(3.5)
+7.3
+Details on the key inputs to the base-case projection are provided in Box 1. Numbers in parentheses are from the projection in the previous Report.
+† Over the projection horizon, 2021Q2 and 2021Q3 are the only quarters for which some information about real GDP growth was available at the time the projection was conducted. For longer horizons, fourth- quarter-over-fourth-quarter percentage changes are presented. They show the Bank’s projected growth rates of CPI and real GDP within a given year. As such, they can differ from the growth rates of annual averages shown in Table 2.
+
+Chart 7: Spending on hard-to-distance services is expected to increase
+Balance of opinion,* percent
+% 30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+
+Education	Durables
+
+Groceries	Health and
+
+Clothing and
+
+Travel and
+0
+Restaurants,
+(cars, appliances and furniture)
+
+2021Q1	2021Q2
+personal care
+footwear
+transportation cinemas and
+social activities
+
+Respondents answering the Canadian Survey of Consumer Expectations (CSCE) question, “When the majority of Canadians have received their COVID-19 vaccine, do you expect that your spending on the following will be higher/same/lower than last year?” Balance of opinion is the percentage of respondents reporting higher spending minus the percentage reporting lower spending.
+Source: Bank of Canada	Last observation: 2021Q2
+
+
+Housing resales have moderated from historically high levels but remain elevated (Chart 8). Other areas of housing activity—such as new construction and renovation—remain strong, supported by high disposable incomes, low borrowing rates and the pandemic-related desire for more living space.
+Strong growth in foreign demand and higher commodity prices should contribute to a solid pickup in exports and business investment. Broad- based improvements in business confidence should also provide support (Chart 9). The adverse effects of the global shortage of semiconductors on motor vehicle exports are expected to ease over the second half of this year. However, supply chain disruptions and shipping issues are assumed to weigh on exports more broadly into 2022.
+
+
+
+
+Chart 8: Housing resales have moderated but remain elevated
+Monthly data
+Thousands of units 1,000
+
+
+800
+
+
+
+% 100
+
+90
+
+80
+600
+70
+400
+60
+
+200	50
+
+0
+2012	2014	2016	2018
+40
+2020
+Residential resales (left scale)	Ratio of sales to new listings (right scale) Note: Residential resales and new listings are seasonally adjusted at annualized rates.
+Source: Canadian Real Estate Association	Last observation: May 2021
+
+Chart 9: Business conﬁdence continues to improve
+Sectoral BOS indicator and contributions by sector, quarterly data
+Standardized units
+8
+
+4
+
+0
+
+-4
+
+-8
+
+
+2016	2017	2018	2019	2020	2021
+-12
+
+Construction, information, transportation and utilities Commercial, personal and business services Finance, insurance and real estate
+Manufacturing
+Primary*
+Wholesale and retail trade BOS sectoral indicator†
+* The primary sector includes agriculture, forestry, fishing, hunting, mining, quarrying, and oil and gas extraction.
+† This indicator may differ from the overall Business Outlook Survey (BOS) indicator because the common
+variations are extracted from more variables. These variables are more volatile because they are based on responses from smaller samples of firms.
+Note: For more details on the BOS data by sector, see the Bank of Canada’s website.
+Source: Bank of Canada	Last observation: 2021Q2
+
+
+Significant labour market slack
+Despite a sizable recuperation of jobs in June, the employment rate remains
+1.7 percentage points below where it was in February 2020. Given population growth, roughly 550,000 people would need to be hired just to reach the
+pre-pandemic employment rate. Moreover, the total amount of hours worked in June was roughly 4 percent below the pre-pandemic level. Job gains in June were particularly strong for women and young people. Nevertheless, for some groups of workers, employment rates are still much lower than their pre-pandemic levels (Chart 10). In particular, employment of low-wage workers is far from fully recovered.
+The share of those unemployed for 52 weeks or longer is at the highest level since the series began. In the past, lengthier spells of unemployment
+increased the risk that workers would leave the labour force or see their skills erode. However, the uniqueness of the pandemic may mean that the length of time unemployed is a less reliable indicator of scarring risks. The workers most affected by the pandemic—namely, young people and workers with fewer skills—may face less risk of skills erosion. In addition, young people may be able to adjust more easily by obtaining further education or training.2
+Large increases in jobs are expected to continue over the summer months. This should help further reduce employment gaps across job types and worker groups. However, it could take businesses some time to find workers with the right skills to fill jobs. In addition, firms with large hiring needs may have trouble bringing new workers on board quickly. Meanwhile, many workers may face challenges shifting to growing sectors and retraining to acquire new skills.
+
+Chart 10: Recovery of employment remains uneven
+Percentage of the employment rate recovered since April 2020, by demographic group, seasonally adjusted
+Recovered to 2019 employment rate
+
+University Male, 15−24
+Female, 25−54
+
+Female, 15−24
+Male, 25−54 Non-university
+
+0	10	20	30	40	50	60	70	80	90	100	110 %
+
+Note: This chart illustrates how much employment rates have recovered, where the current value of the employment rate is compared with both its trough during the crisis (April 2020) and a pre-pandemic benchmark value (2019 monthly average). A value of 50 percent implies that the employment rate has recovered half of the distance between the trough and the benchmark. “University” includes everyone with a bachelor’s degree or above. “Non-university” includes all those older than 15 without a university degree.
+Sources: Statistics Canada and Bank of Canada calculations	Last observation: June 2021
+
+
+
+
+2	For instance, Labour Force Survey (LFS) data for June 2021 show that young women are choosing to go to school at higher rates than two years ago. LFS data also show that a larger share of laid-off workers in the hardest-hit sectors transitioned to school during the pandemic than during the previous decade.
+
+
+
+Chart 11: Measures of wage inﬂation remain subdued
+Month-over-month percentage change in hourly wages, annualized, 6-month moving
+average, seasonally adjusted	%
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+2014	2016	2018	2020
+Variable-weight measure	Fixed-weight measure
+
+Note: The variable-weight measure is the average hourly wages of employees, as reported in Statistics Canada’s Labour Force Survey (LFS). The fixed-weight measure, also based on the LFS, is constructed using 2019 employment weights for wages based on employees’ job status (full or part time), job permanency (permanent or temporary), industry of employment and occupation.
+Sources: Statistics Canada and Bank of Canada calculations	Last observation: June 2021
+
+
+Indicators from the summer 2021 Business Outlook Survey continue to suggest that slack is uneven across sectors. Businesses facing strong demand, such as those tied to consumer goods, housing or e-commerce, frequently point to tighter labour market conditions.
+Measures of wage inflation remain subdued (Chart 11). Swings in the number of workers in low-paying jobs during the pandemic have been making these measures volatile. Variable-weight measures have fluctuated the most, with high rates of wage growth when employment in low-wage jobs dropped.
+Wage measures that are less influenced by such composition effects, including fixed-weight measures, have been more stable.
+For the economy as a whole, excess supply remains prevalent. The Bank estimates that the output gap was between -3.0 and -2.0 percent in the second quarter (Box 1). A range for the output gap of one percentage point has been reported in the Monetary Policy Report for some time. This range may understate overall uncertainty surrounding the output gap, and this
+is particularly true now because of the exceptional circumstances of the pandemic.
+
+CPI inflation boosted by temporary factors
+CPI inflation has increased in recent months and is expected to remain at or above 3 percent for the remainder of 2021. Three sets of factors are leading to this temporary strength (Chart 12). First, gasoline prices have risen from very low levels a year ago and are above their pre-pandemic levels, lifting inflation. Second, other prices that had fallen last year with plummeting demand are now recovering with the reopening of the economy and the release of pent-up demand. Third, supply constraints, including shipping bottlenecks and the global shortage of semiconductors, are pushing up the prices of goods such as motor vehicles.3
+
+3	Respondents to the summer 2021 Business Outlook Survey reported cost pressures associated with supply chain issues, notably rising shipping and freight fees. They expect these cost pressures to be temporary.
+
+Core measures of inflation have picked up in recent months, likely reflecting some of the same temporary issues driving movements in CPI inflation.
+CPI-common remains below 2 percent, while CPI-median and CPI-trim have moved above 2 percent. Despite recent increases in inflation, long-term inflation expectations have remained stable (Chart 13).
+
+Chart 12: Temporary factors are boosting near-term CPI inﬂation
+Contribution to CPI inflation, in percentage points, monthly data
+%	Percentage points
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5	5
+
+4	4
+
+3	3
+
+2	2
+
+1	1
+
+0	0
+
+-1	-1
+
+-2
+Jan
+
+Apr		Jul	Oct 2020
+-2
+Jan	Apr		Jul 2021
+Total CPI
+(year-over-year percentage change, left scale)
+Components subject to supply constraints (right scale) Energy (right scale)
+Components where demand is expected to rebound (right scale) Other components (right scale)
+
+Note: “Components subject to supply constraints” includes motor vehicles, durable goods, and home repair and replacement costs. “Components where demand is expected to rebound” includes hard-to-distance services, transportation and travel-related services, food in restaurants, rented accommodation, and semi-durable goods.
+Sources: Statistics Canada and Bank of Canada calculations and estimates	Last data plotted: September 2021
+
+Chart 13: Inﬂation has increased substantially in recent months, but inﬂation expectations remain stable
+Year-over-year percentage change
+a. CPI inflation, monthly data	b. 10-year Canadian break-even inflation rate (weekly average of daily data)
+and inflation expectations (quarterly data)
+%	%
+4	4
+
+3	3
+
+2	2
+
+1	1
+
+0	0
+
+-1
+2018	2019	2020	2021
+-1
+2010	2012	2014	2016	2018	2020
+Total CPI CPI-common
+CPI-trim CPI-median
+Target
+10-year break-even inflation rate
+Consensus Economics, 6–10 year inflation expectations
+
+Note: The 10-year Canadian break-even inflation rate is the difference between the yields of a nominal bond and a real return bond of the same maturity, both issued by the Government of Canada. Break-even inflation rates provide a signal about the expected path of inflation as perceived by market participants, but they are also affected by fluctuations in risk and liquidity premiums.
+Sources: Statistics Canada, Bloomberg Finance L.P., Consensus Economics	Last observations: CPI, May 2021; Consensus Economics, April 2021; and Bank of Canada calculations		break-even inflation rate, July 9, 2021
+
+
+Solid growth after a strong rebound in 2021
+Following a strong recovery led by household spending in 2021, economic growth is projected to ease over 2022 and 2023 while remaining higher than potential output growth (Table 2). In the projection, the output gap closes and labour market slack is absorbed in the second half of 2022. This forecast is sensitive to the uncertain evolution of demand and difficulties related to supply, including those associated with reopening as well as with long-term structural adjustments.
+The recovery in demand is expected to become more broad-based and self- sustaining over time. The level of residential investment is anticipated to decline from historical highs, and the growth of government spending should slow. Meanwhile, business investment and export growth will likely pick up. Robust business investment and higher immigration should help strengthen potential output growth over the projection horizon.
+
+Consumption to underpin the recovery
+With households expected to be less cautious and assumed to spend 20 percent of the extra savings they accumulated during the pandemic,
+consumption growth is projected to be strong. As the labour market recovers, growth in labour income should pick up even as government transfers gradually decline.
+A degree of cautiousness is nonetheless anticipated to persist. Some consumers may be slower to resume normal activities because of lingering fears of contracting COVID-19. Other households, particularly those with low incomes, are expected to hold extra savings because of economic concerns (Chart 14).
+
+Chart 14: Accumulated savings should boost consumption growth, but some cautiousness will likely persist
+
+a.	Nominal quarterly data; index: 2019Q4 = 100 for consumption and income
+
+b.	Average share of intended use of extra savings among CSCE respondents,† by household income
+Index
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+120
+
+
+
+110
+
+
+
+100
+%
+30
+
+More than
+$100,000
+
+20
+
+$40,000 to
+$100,000
+
+10
+90
+Less than
+$40,000
+
+80
+2019
+
+2020
+
+2021
+
+2022
+0
+2023
+
+0	10	20	30	40	50	60	70	80	90    100 %
+Household consumption (left scale) Household consumption assuming
+extra savings not spent* (left scale)
+Disposable income (left scale)
+Savings rate (right scale) Savings rate assuming extra
+savings not spent* (right scale)
+Average savings rate (2000–19, right scale)
+Spend in 2021–22
+Use savings for a down payment Use savings to pay down debt Keep savings as a precaution
+
+These are the level of household consumption and the savings rate assuming households do not use their extra savings accumulated during the pandemic on consumption. This compares with the assumption embedded in the base-case projection that households are expected to spend 20 percent of these extra savings.
+† Respondents who reported having accumulated extra savings during the pandemic (representing 40 percent of survey participants) and who answered the Canadian Survey of Consumer Expectations (CSCE) question, “How do you plan to use your extra savings?” by allocating shares among the categories shown in the chart.
+Sources: Statistics Canada, Bank of Canada and Bank of Canada calculations and projections	Last observation: CSCE, 2021Q2
+
+
+Housing activity is anticipated to remain higher than it was before the pandemic even as it declines from its recent record-high levels. The recovery in employment, increasing population growth and elevated savings support the projection for housing demand. The boost from the pandemic-induced increase in demand for larger homes should ease gradually over the projection horizon.
+Strong housing demand amid limited supply has contributed to rising house prices over the past year. However, a rebalancing of supply and demand is expected to lead to a moderation in house price growth over the projection horizon.4 As the recovery progresses, new construction will add to the supply of houses, particularly in high-demand areas outside of city centres.5 And with high vaccination rates, households may be more comfortable showing their homes to potential buyers. The resulting increases in supply, along with some softening of demand, should improve the balance in housing markets.
+
+Foreign demand to support export recovery
+The strong US recovery is expected to support robust export growth over the projection horizon (Chart 15). The growth of goods exports should benefit from strengthening foreign demand and higher prices for a wide range of commodities. However, motor vehicle exports will likely remain below pre- pandemic levels as some manufacturers adjust their production in response to changes in US consumer preferences and the industry movement toward producing more electric and hybrid vehicles.
+
+Chart 15: Foreign demand drives a strong, broad-based recovery in exports
+Contribution to the deviation of real total exports from the 2019Q4 level, in percentage points, quarterly data
+%	Percentage points
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10	10
+
+5	5
+
+0	0
+
+-5	-5
+
+-10	-10
+
+-15	-15
+
+-20	-20
+
+-25
+
+2019	2020
+
+Total exports (percentage
+
+2021	2022	2023
+
+Commodity exports (right scale)
+-25
+change since 2019Q4, left scale)
+Non-commodity goods exports (right scale) Services exports (right scale)
+
+Sources: Statistics Canada and Bank of Canada calculations and projections
+
+
+
+
+
+4	Revisions to Guideline B-20 issued by the Office of the Superintendent of Financial Institutions introduced a fixed floor to the minimum qualifying rate for uninsured mortgages. This should help prevent homebuyers from overstretching and, in turn, contribute to a moderation in house price growth.
+5	For an analysis of supply-side housing market developments during the pandemic, including estimates of supply elasticities for Canadian cities, see N. Paixao, “Canadian Housing Supply Elasticities,” Bank of Canada Staff Analytical Note (forthcoming).
+
+Services exports should rebound from weak levels as travel restrictions are gradually lifted. A full recovery will take time given weakness in components such as business travel.
+The relatively high level of oil prices is expected to support growth in energy exports over the projection horizon. Existing pipeline and rail transportation capacity, as well as forthcoming pipeline expansions, should provide sufficient capacity for export volumes to expand over the next few years.
+Imports are projected to grow in line with strong domestic demand. Retailers should contribute to the strength of imports in upcoming quarters as they replenish their inventories. The relatively high level of the Canadian dollar makes imports more affordable and Canadian products less competitive in both domestic and export markets.
+
+Business investment to strengthen
+As domestic and foreign demand increase and business confidence improves, investment outside the oil and gas sector is expected to pick up in 2021. It should keep strengthening over 2022 and 2023 (Chart 16). The summer 2021 Business Outlook Survey revealed broad-based strength in investment intentions. Moreover, widespread adoption of digitalization and information technologies—often accelerated in response to the pandemic— should continue to boost hiring and investment (Chart 17). While increased remote work and online shopping are reducing demand for office and
+retail space, the trend toward e-commerce should strengthen investment in logistics and warehouses. Measures in the latest federal budget should further boost public and private investment.
+
+Chart 16: Business conﬁdence has continued to improve, and investment is expected to strengthen
+Quarterly data
+a.	Business investment and BOS indicator
+b.	Contribution to the deviation of real total business investment from the 2019Q4 level, in percentage points
+%	Standardized units	%	Percentage points
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30	6	20	20
+
+20
+
+10
+
+0
+
+-10
+
+-20
+
+4
+
+2	10	10
+0
+
+-2	0	0
+-4
+
+-30
+
+-6	-10
+
+-10
+
+-40	-8
+
+-50
+
+2008	2010	2012	2014	2016	2018	2020
+
+-10
+
+-20
+
+2019	2020
+
+2021
+
+2022
+
+2023
+
+-20
+Business investment (year-over- year percentage change, left scale)
+BOS indicator* (right scale)
+Total business investment (percentage change since 2019Q4, left scale)
+Oil and gas investment (right scale) Non-oil and gas investment (right scale)
+
+* This measure is a summary of the responses to the main questions in the Business Outlook Survey (BOS). Sources: Statistics Canada, Bank of Canada and
+
+
+Last observation: BOS indicator, 2021Q2
+Bank of Canada calculations and projections	Last data plotted in panel (a): business investment, 2021Q2
+
+Chart 17: Firms’ demand for digital skills is growing rapidly
+Year-over-year percentage change* in the 7-day moving average of total job postings on Indeed, daily data
+% 80
+
+60
+
+40
+
+20
+
+0
+
+-20
+
+-40
+
+
+2020
+Digital-oriented jobs	All other jobs
+
+2021
+-60
+
+To avoid base-year effects, the year-over-year percentage change calculations for March 2021 onward use 2019 as the reference year.
+Note: Digital-oriented jobs are linked to the production of digital technologies. Examples include software development, electrical engineering and information technology operations. These jobs represent around 7 percent of total online job postings collected by Indeed Canada Corp. Further details can be found in
+A. Bellatin and G. Galassi, “Canadian Job Postings in Digital Sectors During COVID-19,” Bank of Canada Staff Analytical Note (forthcoming).
+Sources: Indeed and Bank of Canada calculations	Last observation: June 23, 2021
+
+
+Investment in the oil and gas sector is expected to remain below its pre- pandemic level throughout the projection horizon. Capital spending plans are relatively modest despite the recent rise in prices for oil and natural gas. Businesses may be hesitant to increase investment in an environment where long-term transportation capacity is uncertain and may be limited. Moreover, the desire to reduce leverage, uncertainty about future demand for oil and a heightened focus on climate change will continue to challenge the sector.
+Inventory investment is projected to rise and contribute to real GDP growth throughout the projection as businesses rebuild their low inventories after unprecedented drawdowns in 2020.
+
+CPI inflation to ease as temporary factors fade
+Over 2020 and 2021, inflation dynamics are heavily influenced by imbalances in supply and demand across certain goods and hard-to-distance services. Because reopening and structural change are complex processes, the implications for imbalances between supply and demand are hard to predict.
+CPI inflation is expected to ease by the start of 2022 as the temporary factors related to the pandemic fade (Chart 18). Economic slack becomes the primary factor influencing the projection for inflation dynamics thereafter.
+The uncertainty around the outlook for the output gap and inflation remains high. Because of this, the estimated timing for when slack is absorbed is highly imprecise. In the projection, this occurs sometime in the second half of 2022.
+After declining to 2 percent during 2022, inflation is expected to rise modestly in 2023 as the economy moves into excess demand. The excess demand and resultant increase in inflation to above target are expected to be
+Chart 18: CPI inﬂation to ease as temporary factors fade
+Contribution to the deviation of inflation from 2 percent, quarterly data
+%	Percentage points
+6	4
+
+5	3
+
+4	2
+
+3	1
+
+2	0
+
+1	-1
+
+0	-2
+
+-1	-3
+2019	2020	2021	2022	2023
+
+CPI inflation (year-over-year
+percentage change, left scale)
+
+Output gap (right scale)
+Exchange rate pass-through (ERPT) (right scale) Commodity prices, excluding ERPT (right scale) Carbon pollution charge (right scale)
+Other factors (right scale)
+
+Note: Numbers may not add to total because of rounding.
+Sources: Statistics Canada and Bank of Canada estimates, calculations and projections
+
+
+temporary. They are a consequence of Governing Council’s commitment to keep the policy interest rate at the effective lower bound until economic slack is absorbed so that the 2 percent inflation target is sustainably achieved.
+Inflation is expected to return toward the target in 2024.
+The projection is consistent with medium- and long-term inflation expectations remaining well-anchored at the 2 percent target. Both businesses and consumers view price pressures as elevated in the near term. A large majority of respondents to the summer 2021 Business Outlook Survey now expect inflation to be above 2 percent on average over the next two years. Nonetheless, firms view higher commodity prices, supply chain bottlenecks, policy stimulus and the release of pent-up demand as largely temporary factors boosting inflation higher in the near term.
+The Canadian Survey of Consumer Expectations for the second quarter of 2021 reported that short-term inflation expectations have risen as well, in line with recent increases in prices. However, respondents’ long-term inflation expectations have not increased. The April 2021 Consensus Economics forecast for long-term inflation expectations shows an average of 2 percent through 2031. In addition, the 10-year Canadian break-even inflation rate, which provides a signal about the expected long-term path of inflation, has remained close to 2 percent in recent months (Chart 13).
+
+
+
+
+
+
+
+
+
+
+Evolution of the Bank’s
+balance sheet	
+Several of the balance sheet tools used by the Bank at the onset of the pandemic to support market liquidity were wound down or allowed to expire on schedule once market functioning had improved. The remaining liquidity support and market functioning programs have ended since the April Report.6 However, the Government of Canada Bond Purchase Program (GBPP)—the Bank’s quantitative easing (QE) program—continues to provide monetary policy stimulus to support the economic recovery. In April 2021, given the progress of the recovery, the Bank adjusted the pace of weekly GBPP purchases from a minimum of $4 billion to a target of $3 billion.7
+The GBPP targets a weekly value of gross bond purchases. The target does not vary with the value of bonds maturing in any given week. To date, around
+$18 billion of Government of Canada (GoC) bonds purchased under the QE program have matured and rolled off the Bank’s balance sheet (Chart 19). Because the value of maturities has been relatively low so far, the average
+
+Chart 19: Around $18 billion in bond purchases have matured since the GBPP began
+Weekly GBPP purchases and maturities
+Can$ billions
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+
+2020
+Weekly purchases	Maturing bonds
+-4
+2021
+
+Note: GBPP is the Bank of Canada’s Government of Canada Bond Purchase Program.
+Source: Bank of Canada	Last observation: July 5, 2021
+
+6	See “Bank of Canada Publishes Transaction-Level Data for Its Discontinued Asset Purchase Programs” for more information about the Bank’s holdings from some of these programs.
+7	A target pace allows the Bank to retain operational flexibility to manage weekly purchases.
+
+difference between total weekly purchases (i.e., gross purchases) and weekly purchases minus maturities (i.e., net purchases) has been small. But the value of maturing bonds will pick up. This is important to note because the GBPP adds monetary policy stimulus through its net purchases.
+In this context, the composition and size of the Bank’s balance sheet have continued to evolve (Chart 20). The total stock of GoC bonds on the Bank’s balance sheet is around $400 billion, or more than 80 percent of total assets.8 The Bank’s total ownership of GoC bonds outstanding has
+increased to 44 percent of the overall amount outstanding, from 42 percent in April. However, the impact of this increase on the size of the balance sheet was more than offset by the maturing of a sizable amount of shorter-term assets—notably extended term repurchase agreements. After peaking at
+$575 billion in mid-March 2021, the value of total assets has decreased to just under $485 billion. As the total value of assets declined, so did the level of settlement balances, which now sits at roughly $260 billion.
+
+Chart 20: The Bank’s balance sheet continues to evolve
+Bank of Canada total assets,* weekly data
+Can$ billions
+700
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+Securities purchased under	Treasury bills
+Government of Canada bonds	All other assets
+
+Government of Canada (GoC) bonds purchased in primary markets are measured at amortized cost. All other bonds, including GoC bonds purchased in secondary markets, are measured at fair value. “All other assets” includes Canada mortgage bonds, real return bonds, corporate bonds and commercial paper. A full list of assets can be found on the Bank of Canada’s website.
+Source: Bank of Canada	Last observation: July 7, 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8	These figures include GoC bonds purchased directly in primary markets and through the GBPP in secondary markets.
+
+
+
+
+
+
+
+
+
+
+Risks to the inflation outlook	
+Uncertainty around the projection remains unusually high. The outlook still depends on the evolution of the pandemic, including the spread of COVID-19 variants. However, in Canada, downside tail risks have diminished with
+high rates of vaccination. The reopening of the economy will be a complex process, and the responses of consumers to new spending options will be difficult to predict. As a result, the size and persistence of any imbalances between supply and demand as well as the effects of these imbalances on inflation are particularly uncertain.
+Some of the risks identified in previous reports have been partially incorporated into the projection. The base-case scenario now includes additional US fiscal stimulus, more robust consumption in Canada and other advanced economies, stronger potential output in Canada and greater cost pressures.
+The outlook for inflation remains subject to several upside and downside risks. Drawing from a larger set of risks that were considered, this section presents a selection of risks identified as the most important ones for the projected path of inflation. The Bank views these risks as roughly balanced.
+
+(i)	Another wave of infections (↓)
+The base-case projection assumes continued low-level transmission of the virus along with possible flare-ups. However, the spread of more contagious variants could trigger a stronger resurgence of infections. This in turn could lead to the reimposition of containment measures, dampen consumer and business confidence, and delay the rebound in hard-to-distance service sectors.
+
+(ii)	Stronger household spending in Canada (↑)
+Progress in vaccinations and reduced pandemic-related uncertainty could boost confidence by more than expected. As a result, households could spend more of their accumulated savings or increase their spending faster than assumed in the base-case projection.
+Consumption and residential investment would then be stronger than projected and contribute to greater inflationary pressures.
+
+(iii)	More persistent supply bottlenecks and cost pressures (↑)
+Businesses are facing higher costs for shipping and for inputs affected by delivery delays, as well as higher commodity prices. Disruptions
+to business operations brought about by the pandemic could also increase costs, as could adjustments during the reopening of the economy. The potential impacts on inflation are highly uncertain.
+
+Some goods that were highly sought after during the pandemic could see a softening in demand, leading to a better balance with supply over time. Some services meanwhile may face a burst of pent-up demand that could increase imbalances if the return of supply is slow while firms rehire and bring back capacity. In an environment of strong demand, businesses could find that they are able to raise prices. While estimates of these effects have been incorporated into the inflation projection, the effects could be stronger or more persistent than estimated.
+
+(iv)	Weaker exports (↓)
+Canadian exports could be weaker than in the base-case projection. This could be the case if the consequences of supply disruptions that constrain exports or competitiveness challenges associated with a strong Canadian dollar are greater than in the base case. At the same time, new tariffs or Buy American provisions could mute the benefit to Canadian exporters of strong US demand.
+
+(v)	A more pronounced slowing of the Canadian housing market (↓)
+The base-case projection includes a gradual moderation in housing market activity. There is a risk that adjustment could be faster or more pronounced. Strong housing demand in some regions has been motivated in part by preferences to live in larger homes and to move
+out of cities. However, preferences could shift again as the pandemic’s effects wane, especially if employers expect their employees to return to the office. A rapid adjustment in the housing market could also have adverse effects on consumption, and these could be made even worse if house prices were to decline.
+
+(vi)	Sharp tightening of global financial conditions (↓)
+Financial vulnerabilities remain important in many countries because of elevated debt levels and asset prices. If the global recovery were to stall, there could be a sharp pullback in risk appetite, constraining
+access to credit for higher-risk borrowers. Alternatively, if inflation were to be persistently higher, policy rates could rise faster than markets currently expect, and financial conditions could tighten. Either of these scenarios could trigger financial stress for vulnerable EMEs or other highly indebted borrowers, dampening global demand.

@@ -1,0 +1,2272 @@
+   
+
+
+
+
+
+
+
+
+
+
+
+
+Monetary Policy Report
+April 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+CAnAdA’s InflAtIon-ContRol stRAtegy*
+
+Inflation control and the economy
+•	Inflation control is not an end in itself; it is the means whereby monetary policy contributes to solid economic performance.
+•	Low, stable, and predictable inflation allows the economy to function more effectively. This contributes to better economic growth over time and works to moderate cyclical fluctuations in output and employment.
+
+The monetary policy instrument
+•	Announcements regarding the Bank’s policy instrument—the target overnight interest rate—take place, under normal circumstances, on eight pre-specified dates during the year.
+•	In setting a target for the overnight rate, the Bank of Canada influences short-term interest rates to achieve a rate of monetary expansion consistent with the inflation-control target. The trans- mission mechanism is complex and involves long and variable lags—the impact on inflation from changes in policy rates is usually spread over six to eight quarters.
+
+The targets
+•	In February 1991, the federal government and the Bank of Canada jointly agreed on a series of targets for reducing total CPI inflation to the midpoint of a range of 1 to 3 per cent by the end of 1995. The inflation target has been extended a number of times. In November 2006, the agree- ment was renewed for a period of five years to the end of 2011. Under this agreement, the Bank will continue to conduct monetary policy aimed at keeping total CPI inflation at 2 per cent, with a control range of 1 to 3 per cent around the target.
+
+Monitoring inflation
+•	In the short run, a good deal of movement in the CPI is caused by transitory fluctuations in the prices of such volatile components as fruit and gasoline, as well as by changes in indirect taxes. For this reason, the Bank uses a core measure of CPI inflation as an indicator of the underlying trend in inflation. This core measure excludes eight of the most volatile components of the CPI and adjusts the remaining components to remove the effect of changes in indirect taxes.
+
+
+
+
+* See “Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Inflation-Control Target” and background information. Reprinted in the Bank of Canada Review (Winter 2006–2007): 45–59.
+
+
+
+
+Bank of Canada	ISSN 1201-8783 (Print)
+234 Wellington Street	ISSN 1490-1234 (Online)
+Ottawa, Ontario K1A 0G9	Printed in Canada on recycled paper
+ 
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monetary Policy Report
+
+April 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a report of the Governing Council of the BAnk of CAnAdA: Mark carney, Paul Jenkins, Pierre duguay, david Longworth,  John Murray, and Timothy Lane.
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+There is a plan to restore confidence and growth, we are implementing it, and it will work. The impact of these policies will build over time and will be signifi- cant. For maximum effect, it is critical that measures be grounded in robust and principled frameworks: the objectives should be transparent; indicators of suc- cess clear; and entry and exit criteria well articulated. Citizens must be able to hold their policy-makers accountable. Policy-makers must rise to the occasion.
+
+
+
+Mark Carney
+
+
+
+
+Governor, Bank  of  Canada 1 April 2009
+ 
+
+
+Contents
+
+1	Overview
+3	The Global Economy
+3	Recent Developments
+5	Developments in Global Financial Markets
+6	Outlook for the Global Economy
+9	The Canadian Economy
+9	Recent Developments
+9	aggregate demand and supply
+13	estimated pressures on capacity
+13	inflation and the 2 per cent target
+14	canadian credit conditions
+18	exchange rate
+18	policy response
+19	Outlook for the Canadian Economy
+19	aggregate demand and supply
+21	the projection for inflation
+23	Risks to the Outlook
+25	Annex: Framework for Conducting Monetary Policy at Low Interest Rates
+References Technical Boxes
+12	Revisions to Potential Output
+24	Fan Charts for Inflation
+ 
+
+ 
+
+
+Overview
+
+
+in an environment of continued high uncertainty, the global recession has intensified and become more synchronous since the Bank’s January Monetary Policy Report Update, with weaker-than-expected activity in all
+major economies. deteriorating credit conditions have spread quickly through trade, financial, and confidence channels. while more aggressive monetary and fiscal policy actions are under way across the g-20, measures to sta- bilize the global financial system have taken longer than expected to enact. as a result, the recession in canada will be deeper than anticipated, with
+the economy projected to contract by 3.0 per cent in 2009. the Bank now expects the recovery to be delayed until the fourth quarter and to be more gradual. the economy is projected to grow by 2.5 per cent in 2010 and 4.7 per cent in 2011, and to reach its production capacity in the third quarter of 2011. given significant restructuring in a number of sectors, potential growth has been revised down. the recovery will be importantly supported by the Bank’s accommodative monetary stance.
+the Bank expects core inflation to diminish through 2009, gradually returning to the 2 per cent target in the third quarter of 2011 as aggregate supply and demand return to balance. total cpi inflation is expected to trough at -0.8 per cent in the third quarter of 2009 and return to target in the third quarter of 2011.
+global developments continue to pose significant risks to the Bank’s inflation projection for canada, on both the upside and the downside. on the upside, confidence may return more rapidly than anticipated if convincing action is taken more quickly than assumed to address financial system weaknesses in major economies. this could result in a stronger-than-projected recovery in the global economy as the aggressive and coordinated macroeconomic policy actions already being implemented take effect. on the downside, the global recession could be deeper and more protracted than envisaged if the resolution of these financial system problems is delayed further. more gener-
+ally, there are risks around the resolution of global imbalances. the underlying macroeconomic risks are roughly balanced.
+when monetary policy is conducted at the effective lower bound, the uncer- tainty regarding the effects of unconventional monetary policies in the event that the recession turns out to be more protracted than expected, and the resulting need for prudence in the use of these instruments, imply that
+the overall risks to the Bank’s inflation projection are tilted slightly to the downside.
+on 21 april, the Bank lowered its target for the overnight rate by one-quarter of a percentage point to 1/4 per cent, which the Bank judges to be the
+
+ 
+This report includes information received up to the fixed announcement date on 21 April 2009.
+ 
+
+
+
+
+overview Bank of canada     monetary policy report     april 2009
+ 
+effective lower bound for that rate. conditional on the outlook for inflation, the target overnight rate can be expected to remain at its current level until the end of the second quarter of 2010 in order to achieve the inflation target. the Bank will continue to provide guidance in its scheduled interest rate announcements as long as the overnight rate is at the effective lower bound.
+to reinforce its conditional commitment to maintain the overnight rate at 1/4 per cent, the Bank will roll over a portion of its existing stock of 1- and
+3-month term purchase and resale agreements (pras) into 6- and 12-month terms at minimum and maximum bid rates that correspond to the target rate and the Bank rate, respectively.
+the 21 april decision brings the cumulative monetary policy easing to 425 basis points since december 2007. it is the Bank’s judgment that this cumulative easing, together with the conditional commitment, is the appropriate policy stance to move the economy back to full production capacity and to achieve the 2 per cent inflation target.
+the Bank retains considerable flexibility in the conduct of monetary policy at low interest rates. the annex to this report describes the Bank of canada’s approach to conducting monetary policy when the overnight interest rate is at the effective lower bound. additional stimulus could be provided, if needed, through quantitative and/or credit easing. definitions of these actions and the principles guiding their possible use can be found in the annex.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+overview
+Bank of canada     monetary policy report     april 2009
+ 
+
+
+The Global Economy
+
+
+
+ 
+Recent Developments
+while the global recession has intensified since the January Update and become more synchronous, the broad profile of the Bank’s outlook remains consistent with the projection at that time. a deepening financial crisis in the united states and europe triggered a severe recession in the global economy at the end of 2008, as deteriorating conditions in the advanced economies spread quickly around the world through trade, financial, and confidence channels. concerted policy measures across the g-20 provide the neces- sary and appropriate support for global recovery, although the recovery will be delayed by slower progress in stabilizing the global financial system than previously anticipated.
+heightened uncertainty surrounding the global outlook, together with declining wealth and tighter credit conditions, has adversely affected confidence levels, causing households and firms to cut back spending sharply. the knock-on effect on global trade has been much larger than expected, reflecting both a sudden collapse in trade credit and an abrupt inventory correction in the auto and electronics sectors. export-oriented countries in asia and europe have experienced sharp declines in industrial production (Chart 1).
+ 
+
+
+
+While the global recession has intensi- fied and become more synchronous, the broad profile of the Bank’s outlook remains consistent with the January update.
+ 
+
+
+ 
+Chart 1: Industrial production in major economies down sharply
+year-over-year percentage change
+
+% 10
+
+0
+
+
+-10
+
+
+-20
+
+
+-30
+
+ 
+
+
+2005
+
+United States
+
+Source: Bank of Canada
+ 
+
+
+2006
+ 
+
+
+2007
+
+Germany
+ 
+
+
+2008
+ 
+
+
+
+Japan
+ 
+
+
+2009
+ 
+-40
+ 
+
+ 
+
+
+the gloBal economy Bank of canada     monetary policy report     april 2009
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Economic activity in the United States contracted sharply in the fourth quarter of 2008, and recent indicators suggest a similar contraction in the first quarter of 2009.
+ 
+the pervasive and intense nature of the economic downturn has exacerbated strains on banks’ balance sheets and further constrained the availability
+of credit to businesses and households, leading to additional weakness in demand. as a result of this adverse feedback loop, global gdp growth has hit post–world war ii lows in recent quarters.
+policy-makers in the major economies have responded to the global crisis with bold policy actions. the g-20 countries have committed to do whatever is necessary to restore growth and stability in their economies. monetary authorities have lowered policy rates aggressively (Chart 2), and several cen- tral banks have adopted unconventional monetary policy measures, including quantitative and credit easing. fiscal authorities have introduced substantial stimulus packages to help offset the drop in domestic and foreign demand. the fact that these fiscal initiatives are being undertaken simultaneously in several countries will augment their impact. the effects of these policies will be increasingly felt over time and should reach full force in 2010.
+timely and credible action is required to address the impaired assets on bank balance sheets and to restore the normal flow of credit—a precondi- tion for sustained economic recovery. progress on these measures has been slower than expected in the united states and other major financial centres. however, comprehensive programs have recently been outlined to provide additional liquidity, guarantee bank balance sheets, dispose of bad assets, and recapitalize as appropriate. the challenge now is to ensure their rapid and effective implementation.
+as anticipated in the January Update, economic activity in the united states contracted sharply in the fourth quarter of 2008, and recent indicators sug- gest a similar contraction in the first quarter of 2009. the weakness was most evident in sectors that are particularly important for canadian exports, mag- nifying the effects of the u.s. downturn on the canadian economy. u.s. resi- dential construction has remained very weak, with a large overhang of unsold houses continuing to put downward pressure on house prices and building activity. motor vehicle sales and production have also experienced a sharp cyclical and structural correction, as manufacturers cut output in response
+ 
+
+
+ 
+Chart 2: Monetary authorities have lowered policy rates aggressively
+daily data
+
+% 6
+
+5
+
+
+4
+
+
+3
+
+
+2
+
+
+1
+
+ 
+
+2005
+ 
+
+2006
+ 
+
+2007
+ 
+
+2008
+ 
+0
+2009
+ 
+
+ 
+Canada
+United Kingdom
+ 
+United States
+ 
+Euro zone
+ 
+
+4	the gloBal economy
+ 
+
+Sources: Bank of Canada, U.S. Federal Reserve, Bank of England, and European Central Bank
+
+
+
+ 
+to sagging demand, mounting losses, and limited access to auto financing. there are, nevertheless, early signs that activity levels in both the housing and auto sectors may be starting to stabilize in response to the sizable adjust- ments that have taken place.
+in europe and Japan, the decline in output has been more acute than expected over the recent period, as falling external demand and mounting internal strains spilled over into the domestic economy. deteriorating condi- tions in housing markets, falling consumer and business confidence, and continuing difficulties in the financial sectors of many overseas countries have added to these external pressures. Japan and germany have been particularly affected by the collapse in global demand for autos and it-related goods, as well as by the past appreciations of their currencies. output growth in china has moderated, but has nevertheless remained much stronger than that in most other emerging-market economies. aggressive fiscal stimulus measures and monetary easing have boosted domestic demand and partly offset the fall in exports.
+
+
+Chart 3: Commodity prices have recently stabilized
+Bank of canada commodity price index (1982–90=100)
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+ 
+
+2005
+
+Energy (Can$)
+ 
+
+2006
+ 
+
+2007
+
+Energy (US$)
+ 
+
+2008
+ 
+0
+2009
+ 
+Non-energy (Can$)	Non-energy (US$)
+
+Source : Bank of Canada
+
+
+
+ 
+following a sharp decline in the second half of 2008, commodity prices appear to have levelled off (Chart 3). production cuts by opec have out- paced the fall in global demand, contributing to a modest recovery in oil prices. while the price of natural gas has continued to decline, prices of other, non-energy, commodities have recently increased.
+Developments in Global Financial Markets
+as highlighted in the January Update, stabilization of the global financial system remains a precondition for economic recovery. despite some recent signs of improvement, market conditions are mixed, and the outlook remains uncertain. on the positive side, there are indications that the aggressive actions taken by central banks and governments are beginning to gain trac- tion, and volatility has fallen in a number of financial markets. in addition,
+ 
+
+
+
+
+
+
+
+
+
+Despite some recent signs of improve- ment, market conditions are mixed, and the outlook remains uncertain.
+ 
+
+
+ 
+the gloBal economy Bank of canada     monetary policy report     april 2009
+ 
+ 
+Chart 4: Short-term funding markets have improved*
+difference between 3-month interbank offered rates and their respective overnight index swaps
+
+Basis points
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+ 
+
+2007
+ 
+
+2008
+ 
+0
+2009
+ 
+
+Canada	United States
+United Kingdom	Euro zone
+
+* For the United States and the United Kingdom, LIBOR; for the euro zone, EURIBOR; and for Canada, CDOR. Source: Bloomberg
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Global economic growth for 2009 has been revised down in the Bank’s latest projection.
+ 
+stock markets, after reaching multi-year lows earlier this year, have started to price in a more positive outlook. global credit markets, in contrast, are still fragile, with improvements largely confined to short-term funding markets (Chart 4), while longer-term spreads remain elevated. the cost of funds for business borrowers—especially lower-quality credit risks—also remains high, and surveys of senior loan officers indicate that lending standards for con- sumers continue to tighten, albeit at a slower pace.
+conditions in global financial markets over the next few quarters will be shaped by two main developments. the first concerns the weaker current state of the real economy and the additional credit-related losses that this might entail for financial institutions, as delinquencies and loan losses begin to rise. the second development relates to remedial efforts directed at the illiquid legacy assets on banks’ balance sheets. stress tests designed to pro- vide a credible and comprehensive assessment of the true situation, together with capital injections and guarantees, should facilitate price discovery, reduce concerns about counterparty risk, and boost liquidity. although the normalization of financial conditions is likely to be delayed by the increased drag coming from the real economy and from the delayed implementation
+of remedial measures in the banking sector, on balance, more widespread improvements should become evident by mid-2010.
+Outlook for the Global Economy
+global economic growth for 2009 has been revised down in the Bank’s latest projection, reflecting the recent sharp decline in economic activity. the growth profile also incorporates a delayed and slightly more protracted recovery compared with that in the January Update. as a result, output growth is now projected to remain negative for most of 2009 and to begin to absorb excess production capacity only towards the middle of 2010. the return to potential will be postponed by the self-reinforcing nature of the adverse feedback loop
+ 
+
+ 
+the gloBal economy
+Bank of canada     monetary policy report     april 2009
+ 
+that has developed, and by the additional drag exerted by a financial system that will take longer to stabilize. inflation rates are consequently expected to be lower than previously projected, and to dip below zero in some countries.
+global output is now projected to fall by 0.8 per cent in 2009, and to increase by a more modest 2.2 per cent in 2010—well below the rate of growth of global potential output (Table 1). three important factors will help support  the gradual recovery. first, economic activity in all major regions should be boosted by the strong and simultaneous monetary and fiscal policy actions that have been undertaken, which will raise aggregate demand and help to
+restore consumer and business confidence. second, as measures to stabilize the financial system begin to take hold, businesses and households should become less credit-constrained. third, the drag exerted by the housing market correction in the united states and several other industrial countries should diminish, leading to a pickup in construction activity.
+
+
+Table 1: Projection for Global Economic Growth
+
+	Share of real	Projected growth (per cent)b
+	global GDPa	
+		2008	2009	2010	2011
+	(per cent)				
+United States	22	1.1 (1.2)	-2.4 (-1.7)	1.2 (2.6)	2.9
+European Union	20	0.7 (0.9)	-3.6 (-1.0)	-0.2 (2.1)	1.8
+Japan	7	-0.7 (0)	-6.2 (-1.7)	0.1 (2.0)	2.5
+China and Asian NIEsc	14	7.1 (7.5)	3.5 (5.6)	6.0 (6.9)	7.3
+Others	37	4.9 (5.0)	1.0 (2.7)	3.0 (4.3)	4.0
+World	100	3.2 (3.4)	-0.8 (1.1)	2.2 (3.7)	3.7
+a.	GDP shares are based on IMF estimates of the purchasing-power-parity (PPP) valuation of country GDPs for 2006. Source: IMF, WEO Update, October 2008
+b.	Numbers in parentheses are projections from the January 2009 Monetary Policy Report Update.
+c.	NIEs are newly industrialized economies. These include Hong Kong (Special Administrative Region), South Korea, Taiwan (Province of China), and Singapore.
+Source: Bank of Canada
+
+
+
+as anticipated in the January Update, the recovery in the united states will be much more muted than normal. sustained positive growth will likely be deferred by one quarter compared with the Bank’s earlier projection, owing to the delayed implementation of stabilization measures in the banking sector. annual gdp growth in the united states is projected to average -2.4 per cent in 2009 and 1.2 per cent in 2010, as diminished wealth, a weak labour market, tight credit conditions, and reduced confidence restrain growth in consump- tion and business investment. activity is expected to stabilize in the second half of 2009 and to begin rising in early 2010, exceeding the growth rate of potential output and starting to take up excess capacity. sales and produc- tion of motor vehicles, which are currently well below replacement rates, are projected to rebound in the second half of 2009 but to levels significantly lower than their pre-crisis levels, as the auto sector continues to restructure. the housing sector, which has acted as a major drag on growth, should also finally stabilize in the second half of 2009 and contribute to the recovery.
+the recovery in other industrial economies will be more delayed and more gradual than in the united states, owing to the less-ambitious policy actions undertaken so far and to ongoing difficulties in their banking systems. completion of the inventory cycle in motor vehicles will lead to a gradual pickup in asian and european auto production, while accelerating u.s.
+
+the gloBal economy Bank of canada     monetary policy report     april 2009
+ 
+growth will stimulate global economic activity through improved trade and financial flows, as well as rising confidence. economic growth in china, in contrast, is expected to remain relatively robust, assisted by the introduc- tion of additional fiscal and monetary stimulus measures to boost domestic demand and reduce the country’s reliance on exports. economic conditions in other emerging-market economies are projected to improve gradually over this period, producing a synchronous boost in global demand and providing some support for commodity prices over the medium term. energy prices are assumed to move in line with current futures prices (Chart 5), while non- energy prices are expected to strengthen gradually as economic activity recovers.
+
+
+Chart 5: Futures curves suggest rising prices for crude oil and natural gas
+monthly data
+
+ 
+US$/Million Btu 28
+ 
+US$/Barrel
+
+150
+ 
+
+24	130
+
+20	110
+
+16	90
+
+12	70
+
+8	50
+
+4	30
+
+ 
+0
+2007
+ 
+
+2008
+ 
+
+2009
+ 
+
+2010
+ 
+10
+2011
+ 
+
+Crude oil price (right scale) Crude oil futures price
+
+* Spot price for crude oil (17 April 2009)
+•	Spot price for natural gas (17 April 2009)
+ 
+
+Natural gas price (left scale) Natural gas futures price
+ 
+ Based on an average of futures contracts over the two weeks ending 17 April 2009 Source: NYMEX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the gloBal economy
+Bank of canada     monetary policy report     april 2009
+ 
+
+
+The Canadian Economy
+
+
+
+ 
+
+in the January Update, the Bank projected a sharp recession in canada, fol- lowed by a relatively muted recovery starting in the third quarter of this year. as a result of the more severe, synchronized nature of the global downturn, the recession in canada is even deeper than anticipated. as well, the Bank now expects the recovery to be delayed until the fourth quarter of 2009 and to be more gradual than projected in January. nonetheless, the Bank is still pro- jecting a rebound to above-potential growth in 2010, albeit with a lower esti- mate of potential output growth. as explained in January, the recovery should be supported by a number of factors, including the timeliness and scale of
+the Bank’s monetary policy response; our relatively well-functioning financial system and the gradual improvement in financial conditions in canada; the past depreciation of the canadian dollar; stimulative fiscal policy measures; the gradual rebound in external demand; the strength of canadian household, business, and bank balance sheets; and the end of the stock adjustments in canadian and u.s. residential housing.
+Recent Developments
+Aggregate Demand and Supply
+as a result of the sharper contraction in the global economy, economic growth in canada has been much weaker than anticipated in the January Update. export volumes fell sharply in the fourth quarter of 2008, led by dramatic declines in exports of motor vehicles and construction-related products to the united states. the terms of trade also plunged, causing real gross domestic income to register its largest quarterly decline on record (Chart 6). canadian households reduced their spending by more than anticipated in response
+to the decline in their net worth and an elevated level of economic uncer- tainty (Charts 7a and 7b). in total, the volume of final sales of goods declined by about 11 per cent (at annual rates) in the final quarter of 2008 (Chart 8).1 given the surprising speed and magnitude of this decline, firms were slow to adjust production and therefore accumulated unwanted inventories. the stock-to-sales ratio rose to its highest level in more than a decade. although
+this mitigated the decline in real gdp in the quarter, the 3.4 per cent (at annual rates) fall that was recorded was larger than the 2.3 per cent projected in the January Update. an inventory correction will therefore be needed, which will put additional downward pressure on growth this year.
+the economic contraction in canada intensified significantly in the first quarter of 2009. exports of automotive products, forest products, and industrial materials posted further substantial declines. firms have started to address their inventory problems, with widespread shutdowns in the
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Economic growth in Canada has been much weaker than anticipated in the January update.
+ 
+
+ 
+1  Final sales of goods are defined as the sum of final domestic demand (excluding consumption of services) and goods exports.
+
+
+the canadian economy Bank of canada     monetary policy report     april 2009
+ 
+ 
+Chart 6: Real domestic income has dropped sharply
+Quarter-over-quarter percentage change at annual rates
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+-15
+
+ 
+
+2004
+ 
+
+2005
+ 
+
+2006
+ 
+
+2007
+ 
+
+2008
+ 
+-20
+ 
+
+Real gross domestic income* Real gross domestic product
+ 
+
+Real final domestic demand
+ 
+* Real gross domestic income is current-dollar gross domestic product deflated by the price index for final domestic demand.
+Source: Bank of Canada calculations, based on Statistics Canada information
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Given significant restructuring, assumptions for future growth of potential output have been lowered.
+ 
+automotive sector in particular. Business investment is expected to register another steep decline in response to rising unused capacity and weak terms of trade.
+economy-wide, firms cut about 270,000 jobs in the first quarter and reduced the average work week. deteriorating labour market conditions, combined with an additional decline in household net worth, are expected to cause further weakness in household spending. government spending is the only component of demand expected to show positive growth in the quarter. overall, real gdp is projected to drop at an annual rate of 7.3 per cent in the first quarter—the largest quarterly decline on record since 1961.
+recent developments are also adversely affecting the growth rate of poten- tial output. restructuring, especially in the automotive and forest products sectors, is expected to render some of the existing capital stock obsolete. the weaker profile for investment in this projection, relative to previous ones, should also contribute to dampening the growth of trend labour productivity. in light of these factors, the Bank has revised down its assumptions for the growth rate of potential output to 1.2 per cent in 2009, 1.5 per cent in 2010, and 1.9 per cent in 2011 (Technical Box 1).2
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+2 In the October 2008 Monetary Policy Report, the Bank had assumed the growth of potential output to be 2.4 per cent in 2009 and 2.5 per cent in 2010 and 2011.
+
+
+the canadian economy
+Bank of canada     monetary policy report     april 2009
+ 
+ 
+Chart 7a: Wealth shock smaller in Canada than in the United States …
+canadian and u.s. household net worth over personal disposable income
+
+% 700
+
+
+
+600
+
+
+
+500
+
+
+
+ 
+
+2004
+
+Canada
+ 
+
+2005
+ 
+
+2006
+
+United States
+ 
+
+2007
+ 
+
+2008
+ 
+400
+ 
+
+Sources: Statistics Canada and U.S. Federal Reserve
+
+
+
+Chart 7b: … but savings response similar
+personal savings rate
+
+% 8
+
+6
+
+
+4
+
+
+2
+
+
+0
+
+ 
+
+
+2004
+
+Canada
+ 
+
+
+2005
+ 
+
+
+2006
+
+United States
+ 
+
+
+2007
+ 
+
+-2
+2008
+ 
+Sources: Statistics Canada and U.S. Bureau of Economic Analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the canadian economy Bank of canada     monetary policy report     april 2009
+ 
+Technical Box 1
+Revisions to Potential Output
+potential output is the level of goods and services that the economy can produce on a sustainable basis without adding to inflation pressures. the Bank’s measure of potential output is the product of trend labour productivity and trend labour supply. trend labour productivity is related mainly to the amount of capital per worker and the pace of technological change.
+significant structural changes are under way in the canadian economy. these changes are most apparent in the automotive and forestry sectors but are occurring in other sectors as well.1 owing to their scale and abruptness, these changes will have an important effect on the current level of potential output and on its short-term growth rate. the closing of plants and other establishments will render a significant proportion of the capital stock obso- lete. there will also be adjustment costs as labour is gradually redeployed to other activities. it is estimated that these developments will reduce the level of average labour productivity in the first half of 2009 and, hence, the level of potential output, 1.0 percentage point below what they would otherwise have been.2
+in addition, a significant downturn in investment, particularly for purchases of machinery and equipment, will moderate the increase in capital intensity and the adoption of new technology. this, in turn, will slow the growth of average labour productivity over the horizon in this report relative to the Bank’s previous assumptions.
+overall, potential output growth is expected to slow to 1.2 per cent in 2009 and then pick up gradually to 1.5 per cent in 2010 and to 1.9 per cent in 2011. previously, potential output had been expected to increase by 2.4 per cent in 2009 and by 2.5 per cent in both 2010 and 2011.
+the Bank will next review its estimates of potential output growth in its october 2009 Monetary Policy Report.
+
+
+1	The automotive and forestry sectors account for roughly 5.0 per cent of total output.
+2	While it is still too early to estimate the magnitude of these structural changes with precision, it is necessary to make an informed judgment, based on historical experience and currently available information, given the key role that potential output plays in the evolution of real economic activity and inflation pressures.
+
+
+
+Chart 8: Sales plunged, and inventories grew
+
+ 
+% (Quarterly growth at annual rates) 12
+ 
+Ratio 0.74
+ 
+9	0.72
+
+6	0.70
+
+3	0.68
+
+0	0.66
+
+-3	0.64
+
+-6	0.62
+
+-9	0.60
+
+ 
+12
+2004
+ 
+
+2005
+ 
+
+2006
+ 
+
+2007
+ 
+
+2008
+ 
+0.58
+ 
+
+Total sales of goods (left scale)* Domestic sales of goods (left scale)
+ 
+
+Stock-to-sales ratio (right scale)
+ 
+
+* Total sales of goods is final domestic demand less consumption of services plus exports of goods, all in constant dollars.
+Sources: Statistics Canada and Bank of Canada calculations
+
+
+
+
+the canadian economy
+Bank of canada     monetary policy report     april 2009
+ 
+Estimated Pressures on Capacity
+excess supply in the canadian economy emerged at the end of 2008 and has expanded rapidly. the Bank’s conventional measure of the output gap suggests that the economy was operating about 3.5 per cent below its pro- duction potential in the first quarter of 2009 (Chart 9). in the Bank’s spring Business Outlook Survey, the percentage of firms reporting that they would have difficulty meeting an unanticipated increase in demand fell to an excep- tionally low level. labour market indicators have started to reflect the down- turn in the product market. this is particularly evident in the escalation of
+the unemployment rate between december and march to its highest level in seven years. the percentage of firms reporting labour shortages in the Bank’s spring survey fell to the lowest level in 10 years. in contrast, the 12-month change in the average hourly earnings of permanent workers, reported by statistics canada in the Labour Force Survey, has shown surprising strength since last autumn.
+after reviewing all the indicators of capacity pressures, the governing council judges that the economy was operating about 3 per cent below its production capacity in the first quarter of 2009.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The degree of excess supply increased markedly in the first quarter of 2009.
+ 
+
+
+
+ 
+Chart 9: Economy operating well below potential
+
+%	%
+
+60	4
+
+
+50	2
+
+
+40	0
+
+
+30	-2
+
+
+ 
+20
+2005
+ 
+
+2006
+ 
+
+2007
+ 
+
+2008
+ 
+-4
+2009
+ 
+
+Output gap* (right scale)
+ 
+
+Some and significant difficulty** (left scale)
+ 
+*   Difference between actual output and estimated potential output. The estimate for the first quarter of 2009 is based on a projected decrease in output of 7.3 per cent (at annual rates) for the quarter.
+** Response to Business Outlook Survey question on capacity pressures. Percentage of firms indicating that they would have either some or significant difficulty meeting an unanticipated increase in demand/sales
+Source: Bank of Canada
+
+
+ 
+Inflation and the 2 Per Cent Target
+total cpi inflation has evolved largely as projected in the January Update with a slightly faster deceleration in the core rate of inflation being offset by a smaller decline in energy prices. the latter reflects larger-than-expected increases in the spreads between crude oil prices and gasoline prices. in
+march, the 12-month rate of increase in total cpi was 1.2 per cent, down from
+2.0 per cent in november (Chart 10).
+ 
+
+
+
+Total CPI inflation fell to 1.2 per cent in March while the core rate reached
+2.0 per cent.
+ 
+
+
+ 
+the canadian economy Bank of canada     monetary policy report     april 2009
+ 
+ 
+Chart 10: Inflation has diminished as expected
+year-over-year percentage change
+
+5
+
+4
+
+3
+
+2
+
+1
+
+ 
+
+2005
+ 
+
+2006
+ 
+
+2007
+ 
+
+2008
+ 
+0
+2009
+ 
+
+ 
+Total CPI Target
+ 
+Core CPI*
+Total CPI excluding the effect of changes in indirect taxes
+ 
+Control range
+ 
+
+* CPI excluding eight of the most volatile components and the effect of changes in indirect taxes on the remaining components
+Source: Bank of Canada
+
+
+
+ 
+
+ 
+Medium-term inflation expectations remain close to the 2 per cent target.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Financial conditions in Canada remain more favourable than in other advanced economies, but are noticeably tighter than normal.
+
+
+
+
+
+
+ 
+The reduction in bank funding costs has, to a significant extent, been passed on to households.
+ 
+the core rate of inflation reached 2.0 per cent in march, owing largely to a faster-than-expected deceleration in auto prices, which have been unusually volatile in recent months. core food prices have continued to rise steeply, but this is not expected to persist, given the sharp drop in the prices of agricul- tural commodities over the past year. with the rise in food prices decelerating and the substantial excess supply gap that has developed, both core and total inflation are poised to slow further over the next few months.
+reflecting the weakness in the economy and past declines in energy prices, measures of near-term inflation expectations have continued to fall in recent months. the latest consensus economics forecast for total cpi inflation is
+0.2 per cent for 2009. the forecast moves back up to 1.8 per cent for 2010, indicating that medium-term inflation expectations remain well anchored to the 2 per cent inflation target.
+Canadian Credit Conditions
+financial conditions in canada remain more favourable than in other advanced economies. the underlying strength of the balance sheets of canadian financial institutions, corporations, and households has made the canadian financial system better able to weather global storms. nonetheless, conditions are noticeably tighter than normal, since the global crisis and its associated macroeconomic consequences have led to a widening of lending spreads in many markets and, in particular, a tightening of credit condi-
+tions for corporations. recently, there have been some signs of improve- ment, although it is too soon to conclude that conditions will return quickly to normal.
+Borrowing costs for banks decreased by about 95 basis points from mid- January through mid-april, owing to the 100-basis-point reduction in the policy interest rate over that period (Chart 11). the reduction in bank funding costs has, to a significant extent, been passed on to households. the
+ 
+
+
+ 
+the canadian economy
+Bank of canada     monetary policy report     april 2009
+ 
+ 
+Chart 11: Funding costs for Canadian banks have been falling
+
+% 6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+ 
+
+2007
+ 
+
+2008
+ 
+0
+2009
+ 
+
+ 
+3-month Canadian-dollar offered rate
+5-year debt swapped into 3-month floating-rate debt
+ 
+3-month overnight index swap rate
+ 
+Note: The last data point for these weekly series is Friday, 17 April 2009.
+Sources: Bloomberg, Canadian commercial banks, and Bank of Canada calculations
+
+
+
+ 
+effective average nominal interest rate on household borrowing has eased further since January to well below its level at the start of the financial turbu- lence; it is also low by historical standards (Table 2). the growth of house- hold credit remains surprisingly strong in light of the weakness of household spending; however, it has decelerated over the past six months (Chart 12), led by slower growth in residential mortgage credit, and is likely to slow further in the period ahead.
+canadian businesses are facing more difficult financing conditions. the pricing and availability of business credit, as reported in the Bank’s latest Senior Loan Officer Survey and Business Outlook Survey, tightened fur- ther over the past three months (Chart 13). credit spreads for both finan- cial and non-financial issuers remain near record levels but have begun to
+narrow recently; with the continued decline in government yields, the level of borrowing rates has held relatively steady. issuance by non-financial corpora- tions is running at a higher level than in the same period last year, as investors have been attracted by the high spreads available on corporate bonds issued by good-quality borrowers, while corporations have taken advantage of the improved access to capital markets to lock in longer-term funding.
+the combined effects of various financial factors impinging on real economic activity are summarized in the financial conditions index (fci), which weights a set of financial variables in proportion to their impact on real gdp. such
+an index needs to be interpreted with caution, given the inherent difficulty of quantifying the effects of changes in financial variables on the real economy and the short span of some of the data used. for this reason, changes in  the fci are likely to be more informative than its level. the index shows the marked deterioration of canadian financial conditions in the final quarter of 2008 to their tightest point in the past 10 years (Chart 14), as corporate bond rates and spreads rose in response to declining investor appetite for riskier assets. since January, financial conditions have improved somewhat, as stock market gains and a lower overnight rate have partially offset continued
+ 
+
+
+
+
+
+
+
+
+The pricing and availability of business credit tightened further over the past three months.
+ 
+
+
+ 
+the canadian economy Bank of canada     monetary policy report     april 2009
+ 
+ 
+Table 2: Interest Rate Declines Reflect Monetary Easing
+Per cent
+
+
+
+
+Date	
+
+Overnight rate	
+
+Prime rate	Estimated effective variable mortgage rate	
+Posted 5-year
+mortgage rate	
+
+3-month bankers’ acceptances	
+
+Long-term corporate bond rate
+31 July 2007
+18 Oct. 2007
+6 Dec. 2007
+24 Jan. 2008
+24 April 2008
+17 July 2008
+23 Oct. 2008
+11 Dec. 2008
+22 Jan. 2009
+5 March 2009
+15 April 2009	4.50	6.25	5.35	7.24	4.75	5.42
+	4.50	6.25	5.65	7.43	4.85	5.41
+	4.25	6.00	5.40	7.37	4.70	5.36
+	4.00	5.75	5.25	7.39	4.06	5.30
+	3.00	4.75	4.15	6.99	3.23	5.32
+	3.00	4.75	4.20	7.09	3.29	5.48
+	2.25	4.00	5.00	7.20	2.68	5.99
+	1.50	3.50	4.50	6.73	1.77	6.04
+	1.00	3.00	3.80	5.90	1.06	5.90
+	0.50	2.50	3.30	5.74	0.69	5.86
+	0.50	2.50	3.25	5.43	0.66	5.53
+Sources: Long-term corporate bond rate, Bloomberg. All other series, Bank of Canada
+
+
+Chart 12: Credit growth slowing
+year-over-year percentage change
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+ 
+
+2005
+ 
+
+2006
+ 
+
+2007
+ 
+
+2008
+ 
+0
+2009
+ 
+
+Total business credit Historical average of business credit from 1992 to present
+ 
+
+Total household credit
+Historical average of household credit from 1992 to present
+ 
+
+Source: Bank of Canada
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the canadian economy
+Bank of canada     monetary policy report     april 2009
+ 
+higher yields on corporate bonds. nonetheless, financial conditions remain tight. further information on a range of indicators used by the Bank to monitor credit conditions is presented on the new credit conditions web page at <http://credit.bankofcanada.ca>.
+monetary aggregates continued to grow strongly, despite tight- ening financial conditions and declining nominal gdp growth. this reflects an increase in money demand associated with low interest rates and portfolio shifts into more liquid assets. in the three months to february, the narrow aggregate m1+ grew at an annual rate of
+14.2 per cent, while m2++ grew by 9.9 per cent. it is difficult, though,
+ 
+ 
+Chart 13: Borrowing costs remain high for businesses
+price and non-price lending conditions: Balance of opinion from Senior Loan Officer Survey*
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1999
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2000
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2001
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2002
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2003
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2004
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2005
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2006
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2007
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2008
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2009
+ 
+% 90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+-10
+-20
+-30
+-40
+-50
+ 
+
+Non-price	Price
+
+Note: Each series is the simple average of the balances of opinion for the small business, commercial, and corporate sectors.
+* The balance of opinion is calculated as the weighted percentage of surveyed financial institutions reporting tightened credit conditions minus the weighted percentage reporting eased credit conditions.
+Source: Bank of Canada
+
+
+Chart 14: Financial conditions are tight but have stopped deteriorating
+financial conditions index (fci), monthly data*
+
+Standard deviation from the mean
+2
+
+
+0
+
+
+-2
+
+
+-4
+
+
+ 
+
+2000
+ 
+
+2001
+ 
+
+2002
+ 
+
+2003
+ 
+
+2004
+ 
+
+2005
+ 
+
+2006
+ 
+
+2007
+ 
+
+2008
+ 
+-6
+2009
+ 
+* The FCI aggregates the following variables: credit conditions (as measured by the Senior Loan Officer Survey: overall business-lending conditions balance of opinion); corporate bond spread (difference between the yield on a weighted corporate bond and 5-year-and-over Government of Canada bonds); short-term interest rate (overnight rate); long-term interest rate (yield on 10-year-and-over Government of Canada bonds); real exchange rate; stock prices (ratio of the
+TSX index to GDP); and New Housing Price Index divided by the CPI. For information on the construction and interpretation of the FCI, see <http://credit.bankofcanada.ca>.
+Source: Bank of Canada calculations
+
+
+
+
+
+the canadian economy Bank of canada     monetary policy report     april 2009
+ 
+to draw the implications of this monetary expansion for economic activity, particularly since the demand for money is likely to shift even more than usual at low interest rates.
+Exchange Rate
+since the January Update, the canadian dollar has traded in a range of 77 to 83 cents u.s., averaging about 80 cents u.s. (Chart 15). recent support from strengthening oil prices has been largely offset by the weakening economy, leaving the canadian dollar largely unchanged since the January Update.
+
+
+
+Chart 15: The Canadian dollar has averaged about 80 cents U.S. since the January Update
+daily data
+
+US$
+
+140	1.10
+
+130	1.00
+
+120	0.90
+
+110	0.80
+
+100	0.70
+
+ 
+90
+2007
+ 
+
+2008
+ 
+
+2009
+ 
+0.60
+ 
+Closing spot exchange rate for Canadian dollar vis-à-vis U.S. dollar (right scale) CERI: Canadian-dollar trade-weighted index (against U.S. dollar, euro, yen,
+U.K. pound, Mexican peso, and Chinese renminbi) (left scale, 1992=100) CERI excluding U.S. dollar (left scale, 1997=100)
+
+Note: A rise in the index indicates an appreciation in the Canadian dollar. Source: Bank of Canada
+
+
+ 
+
+
+
+Canadian fiscal and monetary poli- cies have been eased substantially in response to the deteriorating macro- economic situation, as part of the coordinated global response.
+ 
+
+Policy Response
+canadian fiscal and monetary policies have been eased substantially in response to the deteriorating macroeconomic situation, as part of the coordi- nated global response. significant additional fiscal and monetary stimulus has been provided since the January Update.
+the federal budget announced on 27 January will deliver substantial fiscal stimulus over the 2009–10 period, and further stimulus is being provided by provincial budgets. the effects of this fiscal expansion will begin to be felt in the second half of 2009 and will build through next year.
+monetary policy was also eased significantly over this period, bringing the cumulative easing to 425 basis points since december 2007. the Bank of canada lowered its target for the overnight interest rate by 50 basis points on 3 march and by a further 25 basis points on 21 april. the Bank judges the resulting level of the overnight rate, 25 basis points, to be the effective lower bound for that rate. conditional on the inflation outlook, the Bank committed
+ 
+
+
+ 
+the canadian economy
+Bank of canada     monetary policy report     april 2009
+ 
+to hold the target overnight rate at that level until the second quarter of 2010. it is the Bank’s judgment that this cumulative easing, together with the con- ditional commitment, is the appropriate policy stance to move the economy back to full capacity and to achieve the 2 per cent inflation target.
+Outlook for the Canadian Economy
+the Bank’s base-case projection incorporates the following key assumptions: a canada/u.s. exchange rate averaging 80 cents u.s.; energy prices in line with recent futures prices; prices for non-energy commodities increasing pro- gressively as the global economy recovers; and tight global credit conditions persisting through mid-2010, before improving gradually.
+Aggregate Demand and Supply
+The Bank’s base-case projection now sees the Canadian economy contracting through to the third quarter of 2009 (one quarter longer than in the January Update), with real gdp dropping by 3.0 per cent this year on an annual average basis (Table 3). this is much weaker than anticipated in January, reflecting two main factors: foreign weakness propagating through trade, financial, and confidence channels, which has been more intense than previ- ously projected; and delays in the implementation of policies (especially in the united states) to stabilize and recapitalize the global financial system, which have weighed on both financial conditions and confidence.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canada’s real GDP is projected to fall by 3.0 per cent in 2009.
+ 
+
+
+ 
+Table 3: Contributions to Average Annual Real GDP Growth
+Percentage pointsa
+
+
+Consumption Housing Government
+Business fixed investment	2008	2009	2010	2011
+	1.6 (1.8)	-0.8 (0.4)	1.0 (2.0)	2.0
+	-0.2 (-0.2)	-1.1 (-1.0)	0.2 (0)	0.7
+	0.8 (0.9)	1.1 (0.9)	1.3 (1.3)	-0.4
+	0.2 (0.4)	-1.6 (-0.6)	-0.3 (0)	1.1
+Subtotal: Final domestic demand	2.4 (2.9)	-2.4 (-0.3)	2.2 (3.3)	3.4
+Exports
+Imports	-1.6 (-1.8)	-4.6 (-2.6)	1.6 (2.1)	2.4
+	-0.2 (-0.1)	5.5 (2.4)	-2.0 (-2.1)	-3.0
+Subtotal: Net exports	-1.8 (-1.9)	0.9 (-0.2)	-0.4 (0)	-0.6
+Inventories
+GDP	-0.1 (-0.3)
+0.5 (0.7)	-1.5 (-0.7)
+-3.0 (-1.2)	0.7 (0.5)
+2.5 (3.8)	1.9
+4.7
+Memo items:
+Potential output
+Real Gross Domestic Income (GDI)	
+2.0 (2.3)	
+1.2 (2.4)	
+1.5 (2.5)	
+1.9 (2.5)
+	2.0 (2.3)	-6.4 (-3.6)	2.5 (4.1)	6.3
+a. Figures in parentheses are from the base-case projection in the January Monetary Policy Report Update. Those for potential output are from Technical Box 1 in the October 2008 Monetary Policy Report.
+
+
+
+export volumes are projected to fall significantly in the first half of 2009, reflecting the continued weakness in foreign demand for canadian motor vehicles, industrial goods, and commodities.
+final domestic demand is expected to contract until the third quarter of 2009, owing to persistent weakness in private domestic demand. the weakness in household spending is mainly due to lower expected real incomes, stemming from the deterioration in labour market conditions, weaker terms of trade,
+
+the canadian economy Bank of canada     monetary policy report     april 2009
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canada’s real GDP is projected to grow by 2.5 per cent in 2010 and 4.7 per cent in 2011.
+ 
+and lower growth in potential output. households have also experienced an erosion in their wealth because of declines in equity and house prices. these factors, combined with heightened uncertainty about future incomes
+and asset prices, have led consumers to increase their desired savings rate. resale activity in the housing market has slowed significantly, reflecting these developments. investment in housing is expected to post outright decreases until late 2009.
+Business fixed investment is expected to contract sharply in 2009, reflecting a drop in corporate profits, tight credit conditions, weak commodity prices, and the uncertain economic outlook. the pro- jected decline in investment spending is consistent with the results of the Bank’s recent Business Outlook Survey and statistics canada’s
+Survey of Private and Public Investment Intentions. firms also need to draw down their inventories, following the sharp buildup in recent months. inventory decumulation is projected to subtract significantly from gdp growth during the first three quarters of this year.
+weak domestic demand in canada is expected to lead to a large drop in import volumes in 2009, which more than offsets the weakness in sales abroad.
+as in January, real gdp growth is projected to rebound to rates above that of potential output in the final quarter of 2009 (Chart 16). on an average annual basis, the economy is projected to grow by 2.5 per cent in 2010 and by
+4.7 per cent in 2011. a large part of the downward revision to growth in 2010 is due to the lower assumed growth rate of potential output, relative to the January Update.
+the anticipated normalization of financial conditions, together with the stimulus coming from monetary and fiscal policies, should restore consumer and business confidence and boost spending in 2010. as well, housing starts should gradually pick up, supported by historically low mortgage rates and demographic requirements of about 175,000 units per year. exports
+ 
+
+
+ 
+Chart 16: Growth in real GDP expected to rebound in 2010
+
+% 8
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+ 
+
+2007
+ 
+
+2008
+ 
+
+2009
+ 
+
+2010
+ 
+-8
+2011
+ 
+
+ 
+Quarter-over-quarter percentage change in real GDP, at annual rates
+Base-case projection
+ 
+Year-over-year percentage change in real GDP
+Base-case projection
+ 
+
+Sources: Statistics Canada and Bank of Canada calculations
+
+
+
+the canadian economy
+Bank of canada     monetary policy report     april 2009
+ 
+are expected to recover in response to the gradual improvement in external demand and the past depreciation of the canadian dollar.
+the canadian economy is projected to grow more rapidly than the u.s. economy in 2010 and 2011 for a number of reasons. the need for house- holds to repair their balance sheets is smaller in canada than in the united states, since wealth losses have been smaller (Chart 7a). the housing market correction is expected to be much less severe in canada than in the united states. as well, canadian exporters will benefit disproportionately from the recovery in the u.s. housing and automotive sectors, which will push the growth rate of u.s. demand for canadian goods above the projected rate of growth of u.s. real gdp (Chart 17).
+
+
+
+Chart 17: Composition of U.S. demand should be more favourable to Canadian exports
+Quarterly growth at annual rates
+
+20
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+-15
+
+-20
+
+-25
+ 
+
+
+2007
+ 
+
+
+2008
+ 
+
+
+2009
+ 
+
+
+2010
+ 
+
+
+2011
+ 
+
+-30
+ 
+
+U.S. GDP	U.S. trade-weighted activity*
+Base-case projection	Base-case projection
+
+* The U.S. activity measure captures growth in sectors of the U.S. economy that are key for Canadian exporters, such as (but not limited to) motor vehicle sales and residential construction.
+Sources: U.S. Bureau of Economic Analysis and Bank of Canada calculations
+
+
+
+ 
+owing to the near-term weakness in the growth of aggregate demand, excess supply in the canadian economy continues to build, expanding in the second half of 2009 to about 4.5 per cent, roughly 0.75 percentage points larger
+than projected in the January Update. as the economy picks up in the fourth quarter and accelerates in 2010–11, excess supply is gradually absorbed, and the economy is expected to reach its productive capacity in the third quarter of 2011.
+The Projection for Inflation
+the development of substantial excess supply, together with a noticeable deceleration in food prices and modest decreases in house prices, should cause the core rate of inflation to diminish through 2009, reaching a trough of
+0.9 per cent in the fourth quarter (Table 4). this is slightly lower than expected in January, reflecting the wider output gap. with excess supply being absorbed gradually, and with inflation expectations well anchored, the core rate is projected to return to 2 per cent in the third quarter of 2011.
+ 
+
+
+
+
+
+
+
+
+
+
+Both core and total CPI inflation are projected to return to 2 per cent in the third quarter of 2011.
+ 
+
+ 
+the canadian economy Bank of canada     monetary policy report     april 2009
+ 
+ 
+Table 4: Summary of the Base-Case Projectiona
+
+	2008	2009	2010	2011
+	Q4	Q1	Q2	Q3	Q4	H1	H2	H1	H2
+Real GDP
+(quarter-over-quarter percentage change)b	-3.4
+(-2.3)	-7.3
+(-4.8)	-3.5
+(-1.0)	-1.0
+(2.0)	2.4
+(3.5)	3.5
+(4.7)	4.6
+(4.9)	5.0	4.5
+Real GDP
+(year-over-year per- centage change)	-0.7
+(-0.3)	-2.4
+(-1.3)	-3.4
+(-1.7)	-3.8
+(-1.6)	-2.4
+(-0.1)	1.2
+(3.0)	3.7
+(4.6)	4.6	4.8
+Core inflation
+(year-over-year per- centage change)	2.2
+(2.2)	1.9
+(2.1)	1.6
+(1.5)	1.3
+(1.2)	0.9
+(1.1)	1.1
+(1.3)	1.4
+(1.8)	1.8	2.0
+Total CPI
+(year-over-year per- centage change)	2.0
+(2.0)	1.2
+(1.2)	-0.1
+(-0.6)	-0.8
+(-1.0)	1.0
+(1.1)	1.6
+(1.6)	1.7
+(1.8)	1.9	2.0
+WTIc
+(level)	58
+(58)	43
+(43)	51
+(52)	57
+(56)	60
+(58)	63
+(62)	67
+(64)	69	71
+a.	Figures in parentheses are from the base-case projection in the January Monetary Policy Report Update.
+b.	For half years, the number reported is the average of the respective quarter-to-quarter percentage growth at annual rates.
+c.	Assumption for the price of West Texas Intermediate crude oil (US$ per barrel), based on an average of futures contracts over the two weeks ending 17 April 2009.
+
+
+
+as in January, total cpi inflation is expected to fall much more rapidly, dipping below zero in the second and third quarters of 2009, reflecting year-on-year drops in energy prices. the weaker profile for core inflation notwithstanding, the trough for total cpi inflation is not quite as low as in the January Update, reflecting the Bank’s assumption that recent margins between crude oil prices and gasoline prices will be maintained over the projection horizon. total cpi inflation is also expected to return to the Bank’s 2 per cent target in the third quarter of 2011.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the canadian economy
+Bank of canada     monetary policy report     april 2009
+ 
+
+
+Risks to the Outlook
+
+
+global developments continue to pose significant risks to the Bank’s inflation projection for canada, on both the upside and the downside. on the upside, confidence may return more rapidly than envisaged, if convincing action is taken more quickly than assumed to address financial system weaknesses in major economies. this could result in a stronger-than-projected recovery in the global economy as the aggressive and coordinated macroeconomic policy actions already being implemented take effect. on the downside, the global recession could be deeper and more protracted than envisaged if the resolution of these financial system problems is delayed further. more gener- ally, there are risks around the resolution of global imbalances. while cyclical developments appear to be contributing to a narrowing of large current account imbalances, a lasting and orderly resolution will require policies to
+promote a rebalancing of domestic demand across major economic areas. in addition to these global risks, important uncertainties are associated with the difficult adjustments under way in certain sectors of the canadian economy, notably energy and automotive.
+the uncertainty regarding the effects of unconventional monetary policies, in the event that the recession turns out to be more protracted than expected, and the resulting need for prudence in the use of these instruments, imply that the risks to the Bank’s inflation projection are tilted slightly to the downside.
+the Bank has attempted to quantify the uncertainties surrounding the inflation projection by using fan charts. charts a and B in technical Box 2 show the uncertainty around the projection for core and total cpi inflation. they show, in particular, the slight downward tilt to the confidence bands that results from monetary policy operating at the effective lower bound.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+risks to the outlook Bank of canada     monetary policy report     april 2009
+ 
+Technical Box 2
+Fan Charts for Inflation
+economic projections are subject to considerable uncertainty. this can arise from different sources: the state of the economy, the nature of economic relationships, and the magnitude and persistence of ongoing shocks (Jenkins and longworth 2002).
+confidence intervals presented as “fan charts” are an intuitive way of illustrating the uncertainty associated with an economic projection at various horizons. charts a and B show 50 and 90 per cent confidence intervals for year-over-year core and total cpi inflation from the second quarter of 2009 to the end of 2011. the width of the confidence bands conveys the Bank’s best estimate of the uncertainty associated with the state of the economy and the magnitude and persistence of ongoing shocks.1
+the darkest region of chart a at the end of 2009 ranges from 0.6 per cent  to 1.1 per cent for core cpi inflation and is referred to as a 50 per cent confidence interval. this means that the Bank projects a 50 per cent chance that year-over-year core cpi inflation will be between 0.6 per cent and 1.1 per cent. in addition, there is a 25 per cent chance (or probability) that the true value will be greater than 1.1 per cent, and a 25 per cent chance that it will be less than 0.6 per cent. the same principle applies to the lighter region, except that now the range is wider and, hence, our level of confidence is greater: 90 per cent. in this case, we can say that there is a 90 per cent chance that core cpi inflation will be between 0.2 per cent and 1.5 per cent at the end of 2009. in addition, we can say that we are 95 per cent certain that core inflation will be greater than 0.1 per cent in the second quarter of 2010.2 consequently, the Bank judges that the possibility of a period of sustained deflation in the canadian economy remains remote.
+
+
+Chart A: Projection for core CPI inflation	Chart B: Projection for total CPI inflation
+
+%	%
+4	4
+
+3	3
+
+2	2
+
+1	1
+
+0	0
+
+-1	-1
+
+ 
+
+2009
+ 
+
+2010
+ 
+-2
+2011
+ 
+
+2009
+ 
+
+2010
+ 
+-2
+2011
+ 
+Base-case scenario
+ 
+50 per cent confidence interval	 	  Base-case scenario 90 per cent confidence interval
+ 
+50 per cent confidence interval 90 per cent confidence interval
+ 
+
+
+additional technical details on the construction of the fan charts are available at
+<http://www.bankofcanada.ca/en/mpr/pdf/backgrounder_fancharts.pdf>.
+
+1	More specifically, the width of the confidence bands over the first two quarters of the projection is based on the historical errors in the Bank’s projection over the 1995Q1 and 2008Q3 period. The confidence bands beyond the first two quarters are based on the forecast errors from ToTEM, the Bank’s projection model (Murchison and Rennison 2006). The uncertainty associated with the outlook for Canada’s main trading partners, which also influences the confidence intervals, is estimated using the forecast errors from a small model based on MUSE, the Bank’s model of the U.S. economy (Gosselin and Lalonde 2005).
+2	The second quarter of 2010 corresponds to the trough of the 90 per cent confidence interval for core CPI inflation.
+
+
+risks to the outlook
+Bank of canada     monetary policy report     april 2009
+ 
+Annex
+Framework for Conducting Monetary Policy at Low Interest Rates
+
+
+ 
+The Objective of Monetary Policy
+low, stable, and predictable inflation is the best contribu- tion that monetary policy can make to the economic and financial welfare of canadians.
+under a joint agreement between the Bank of canada and the government of canada, the objective of mon- etary policy is to keep total cpi inflation at 2 per cent, the midpoint of a 1 to 3 per cent control range.1
+The Transmission Mechanism
+normally, the Bank conducts monetary policy by setting a target for the overnight interest rate. changes in the overnight rate influence longer-term market rates, as well as the interest rates set by financial institutions, which, in turn, affect aggregate demand and inflation.2 with infla- tion expectations well anchored at 2 per cent, the basic task is to keep the level of aggregate demand roughly in balance with the level of potential output.
+
+nominal interest rates cannot fall below zero. therefore, when the overnight rate is close to zero, the Bank needs to consider alternative instruments that will provide addi- tional stimulus to the economy, if required, to achieve
+its inflation objective. even if the overnight rate is close to zero, longer-term market rates and the lending rates set by financial institutions are still likely to be well above zero. these interest rates directly affect the spending decisions of households and businesses. in these circumstances, the aim of monetary policy would be to continue to exert downward pressure on these rates and to improve the availability of credit more generally.
+
+in principle, the Bank could lower the policy rate to zero. however, that would eliminate the incentive for lenders and borrowers to transact in markets, especially in the repo market. therefore, to preserve the effective func- tioning of markets in a low interest rate environment, the Bank is setting an effective lower bound (elB) of 25 basis
+ 
+points for the overnight rate, and pegging the deposit rate at the target overnight rate.3
+
+Alternative Instruments Available at the Effective Lower Bound
+the Bank has identified three main instruments that it would consider using to achieve its inflation objective at the elB.
+(i)	Conditional statements about the future path of policy rates. clear communication is a cornerstone of the Bank’s inflation-targeting framework and is a
+crucial factor behind its success. at the elB, there are added benefits to increasing transparency through the use of an explicit conditional policy statement tied to the inflation outlook.
+Because long-term interest rates on government securities represent averages of current and expected future short-term rates (plus term premiums), a cred- ible conditional commitment by a central bank to keep short-term rates at the elB for a longer period than previously expected by the market should lower bond yields throughout the term structure and, in turn, sup- port the prices of other financial assets, as well as aggregate demand. if market expectations are already aligned with those of the central bank, these state- ments would help to keep bond yields low. the Bank could also back up these statements with offers of longer-term purchase and resale agreements (pras) at rates consistent with its conditional commitment regarding the operating band. to ensure that market participants understand that the policy statements are conditional on the Bank’s inflation outlook and can assess the risks around the projection, such state- ments would be supplemented with the publication
+of confidence intervals around the projection. this information should help shape market expectations of future short-term interest rates.
+ 
+
+ 
+ 
+
+
+
+1	The agreement can be found at <www.bankofcanada.ca/en/press/2006/pr06-18.html>.
+
+2	For a depiction of the transmission mechanism, see
+<www.bankofcanada.ca/en/monetary_mod/index.html>.
+ 
+3	The deposit rate, i.e., the interest paid on settlement balances (deposits) held at the Bank by direct participants in the Large Value Transfer System, is the lower limit of the operating band for the overnight rate. The deposit rate will provide an effective floor on the overnight rate because institutions will not have the incentive to lend at market rates below the deposit rate when they can earn that rate on balances held at the Bank. For a description of the framework for implementing monetary policy, see Engert, Gravelle, and Howard (2008). Some changes will occur to the operating band framework at the ELB. These are described in the press re- lease of 21 April 2009 at <www.bankofcanada.ca/en/fixed-dates/2009/rate_210409.html>.
+
+annex - framework for conducting monetary policy at low interest rates Bank of canada     monetary policy report     april 2009
+ 
+the other instruments that the Bank could use are more “unconventional,” involving outright purchases of assets. these purchases operate through changes in the com- position, as well as the size, of the central bank balance sheet.
+(ii)	Quantitative easing. Quantitative easing refers to outright purchases of financial assets through the creation of excess settlement balances (that is, central bank reserves). these asset purchases will push up the price of, and reduce the yield on, the purchased assets (which could include government securities
+or private assets).4  the expansion of the amount of settlement balances available to direct participants in the large value transfer system would encourage
+them to acquire assets or increase the supply of credit to households and businesses. this would increase the supply of deposits (or monetary aggregates) and further increase the demand for other financial assets, pushing their prices up and their yields down. central bank purchases of treasury bills and short-term gov- ernment bonds would also help reinforce the impact of the conditional statements about the future policy rate.
+(iii)	Credit easing. credit easing refers to purchases of private sector assets in certain credit markets that are important to the functioning of the financial system but that are temporarily impaired. the objective of credit easing is to reduce risk premiums and improve liquidity and trading activity in these markets. this would, in turn, stimulate credit flows and aggregate demand. credit easing does not need to be financed through an expansion of settlement balances. it could, instead, be financed either by reducing holdings of other assets or by increasing government deposit liabilities, so that the monetary base remains unchanged. in other words, the impact of credit easing on the level of settlement bal- ances could be “sterilized” (figure 1).
+a number of factors will influence the relative effective- ness of these instruments. the direct impact on the yield of the purchased asset will depend importantly on the degree of substitutability between asset classes (which may not be constant over time). the effect will be greater if the degree of substitutability is low. however, in that case, the pass-through from changes in the yields on the purchased assets to those on other asset classes in the economy is also likely to be low. if assets are highly
+substitutable, it will be more difficult to substantially affect their yields, but any given impact will be transmitted more broadly across asset classes.
+
+
+ 
+4   Although quantitative easing is now referred to as an unconventional monetary policy tool, the purchase of government securities is, in fact, the conventional textbook approach to monetary policy. A central bank can alter policy by changing either the quantity or the price of liquidity supplied to the financial system. In practice, most central banks have chosen to con- duct monetary policy by targeting the price of liquidity because the relationships between the amount of liquidity provided by the central bank and monetary aggregates on the one hand, and between the monetary aggregates and aggregate demand and inflation on the other, are not very stable.
+ 
+the macroeconomic impact of alternative actions will depend importantly on the degree of pass-through to the interest rates faced by households (since household spending represents a large share of the economy), the
+extent to which the intervention helps alleviate constraints in credit markets, and the response of the exchange rate to declines in yields on domestic securities. it will also depend on the extent to which financial institutions use the additional reserves to expand their supply of credit.
+although a number of instruments are available to stimu- late aggregate demand at the elB, there is considerable uncertainty with respect to the size and timing of the economy’s response to these measures.
+
+Figure 1: Financing and Type of Asset Purchases
+
+   Quantitative Easing       Credit Easing
+
+
+
+
+Principles Guiding Potential Bank of Canada Actions
+the following principles will guide the Bank’s thinking in terms of which actions to undertake:
+■	Focus on inflation target. the Bank would undertake transactions in the amounts and types that will have the desired effect in supporting aggregate demand and achieving the inflation target.
+■	Impact. asset purchases would be concentrated in the maturity range where they are expected to have the maximum impact on the economy. when con- sidering transactions in private credit markets, the focus would be on those exhibiting a clear “market failure” (as evidenced, for example, by persistently excessive liquidity premiums) that has significant macroeconomic consequences through its impact on credit conditions and credit flows, and which central bank credit facilities or purchase programs can help alleviate.
+■	Neutrality across sectors and across similar assets. to limit potential distortions, actions should be taken in as broad and neutral a fashion as possible. markets in which purchases would occur should be defined as
+ 
+
+ 
+annex - framework for conducting monetary policy at low interest rates Bank of canada     monetary policy report     april 2009
+ 
+broadly as possible. operations should be conducted in a neutral fashion (e.g., through an auction).
+■	Prudence. the Bank would take into account invest- ment quality and would minimize operational risks.
+it would mitigate financial risks to its balance sheet, which could arise from changes in yields (valuation losses) or from the credit performance of private sector assets (credit losses).
+the Bank would coordinate with the federal government to ensure that, together, measures taken to ease credit conditions and to stimulate the economy will achieve the best outcome.
+Key Indicators
+the Bank would closely monitor a number of indicators to assess the effectiveness of its policy measures. most important will be the overall effect of any actions on the
+financing conditions faced by households and businesses and, thus, on aggregate demand and inflation.
+some indicators would be used to judge the direct impact of a particular instrument. for example, the effectiveness of conditional statements regarding the future policy rate can be judged by their observed impact on longer-term interest rates. the effectiveness of quantitative easing
+(or, alternatively, the gauge of required easing) would be judged in the first instance by the movement in the
+yield curve and more generally by movements in broader financial conditions, while that of credit easing would
+be judged by reductions in risky spreads and increased issuance activity. in assessing the effectiveness of any measures taken, the Bank would need to control for other factors that may have simultaneously affected the markets in question.
+results from the Business Outlook Survey and the Senior Loan Officer Survey would be very useful in assessing changes in the credit terms and conditions faced by firms. to provide summary indicators of financing condi- tions, the Bank has constructed aggregate measures of borrowing costs and an overall financial conditions index for the economy.5
+the Bank would also monitor the evolution of credit and monetary aggregates. however, it is difficult to draw the implications of movements in monetary aggregates for total spending in the economy, since the demand for money and, hence, its velocity, are likely to shift even more than usual at very low interest rates.
+
+the scale of the Bank’s interventions would be guided by what is prudently needed to achieve the desired improve- ment in financial conditions.
+ 
+Exit Strategy
+the exit strategy, or unwinding of the Bank’s various facilities and acquisition of assets, would be guided by the Bank’s assessment of conditions in credit markets and the inflation outlook.
+
+a number of alternatives are available, including natural runoff through the maturing of the assets, the “refi- nancing” of the acquired assets (e.g., financing in the repo market or allowing the runoff of other assets on the Bank’s balance sheet), and asset sales. in cases where assets need to be sold, the disposition of securities would be carried out at an appropriately measured pace.
+Communications
+press releases on each fixed announcement date would remain focused on the target overnight rate and on the conditional statements about the future direction of policy rates.
+the press release would also indicate any intention to carry out purchase programs and the approximate size of purchases (where relevant, given the program design) until the next announcement date or the one following. the Bank would explain the broad objectives of any purchases and how they are to be financed. detailed operational decisions (such as pricing, specific timing, and exact securities eligible) would be communicated in separate announcements.
+press releases on fixed announcement dates and Monetary Policy Reports would provide an ongoing assessment of the economy and the outlook for infla- tion, factoring in judgments regarding the effectiveness of the various policy measures. speeches and parlia- mentary appearances would provide additional venues for reporting on the details of the Bank’s conduct of monetary policy.
+the Bank reserves its right to announce policy measures in the period between fixed announcement dates in exceptional circumstances.
+ 
+
+
+
+ 
+ 
+5  These measures are included on the Bank’s Credit Conditions web page at
+<http://credit.bankofcanada.ca>.
+ 
+
+
+
+
+annex - framework for conducting monetary policy at low interest rates Bank of canada     monetary policy report     april 2009
+ 
+References
+engert, w., t. gravelle, and d. howard. 2008. “ the implementation of monetary policy in canada.” Bank of canada discussion paper no. 2008-9.
+gosselin, m.-a. and r. lalonde. 2005. “muse: the Bank of canada’s new projection model of the u.s.
+economy.” Bank of canada technical report no. 96.
+Jenkins, p. and d. longworth. 2002. “monetary policy and uncertainty.” Bank of Canada Review (summer): 3–10.
+murchison, s. and a. rennison. 2006. “totem: the Bank of canada’s new Quarterly projection model.” Bank of canada technical report no. 97.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+annex - framework for conducting monetary policy at low interest rates Bank of canada     monetary policy report     april 2009

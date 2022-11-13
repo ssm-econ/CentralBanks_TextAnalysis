@@ -1,0 +1,30 @@
+
+LDA TFIDF
+
+Score: 0.556772768497467	 
+Topic: 0.015*"august" + 0.012*"november" + 0.006*"equipment" + 0.005*"icst" + 0.004*"mature" + 0.004*"euro" + 0.004*"daily" + 0.004*"individuals" + 0.003*"respective" + 0.003*"automobile"
+
+Score: 0.39269280433654785	 
+Topic: 0.010*"november" + 0.009*"august" + 0.007*"february" + 0.007*"pandemic" + 0.007*"reform" + 0.005*"mature" + 0.005*"slack" + 0.004*"copomâ" + 0.004*"agenda" + 0.004*"daily"
+
+Score: 0.028053730726242065	 
+Topic: 0.011*"realignment" + 0.010*"occurrence" + 0.008*"concession" + 0.008*"luiz" + 0.008*"distortions" + 0.007*"composition" + 0.007*"households" + 0.006*"claim" + 0.006*"wag" + 0.006*"february"
+
+Score: 0.021582089364528656	 
+Topic: 0.032*"february" + 0.005*"november" + 0.004*"nuci" + 0.004*"euro" + 0.004*"equipment" + 0.004*"mature" + 0.004*"icst" + 0.004*"china" + 0.004*"european" + 0.003*"requirements"
+
+
+LDA Model
+
+
+Score: 0.7795277833938599	 
+Topic: 0.064*"february" + 0.014*"mature" + 0.010*"daily" + 0.009*"nuci" + 0.008*"equipment" + 0.007*"earmark" + 0.007*"individuals" + 0.007*"november" + 0.007*"corporate" + 0.006*"euro"
+
+Score: 0.14454244077205658	 
+Topic: 0.041*"november" + 0.040*"august" + 0.011*"mature" + 0.010*"daily" + 0.009*"million" + 0.008*"equipment" + 0.007*"corporate" + 0.007*"individuals" + 0.007*"earmark" + 0.006*"delinquency"
+
+Score: 0.06012279912829399	 
+Topic: 0.027*"february" + 0.016*"mature" + 0.010*"daily" + 0.010*"nuci" + 0.007*"individuals" + 0.007*"borrow" + 0.007*"basic" + 0.007*"august" + 0.006*"contraction" + 0.006*"reference"
+
+Score: 0.01470531802624464	 
+Topic: 0.023*"february" + 0.014*"august" + 0.009*"november" + 0.008*"households" + 0.007*"occurrence" + 0.007*"wag" + 0.007*"concession" + 0.007*"luiz" + 0.007*"nuci" + 0.006*"generation"

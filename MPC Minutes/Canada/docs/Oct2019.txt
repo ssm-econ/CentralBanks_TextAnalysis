@@ -1,0 +1,1241 @@
+
+
+
+riiili"'ii1 BANK OF CANADA
+,b I .J, BANQUE DU CANADA
+
+
+
+
+Monetary Policy
+Report
+October 2019
+ 
+
+
+
+ 
+
+ 
+Inflation targeting and the economy
+■	The Bank’s mandate is to conduct monetary policy to promote the economic and financial well-being of Canadians.
+■	Canada’s experience with inflation targeting since 1991 has shown that the best way to foster confidence in the value of money and to contribute to sustained economic growth,
+employment gains and improved living standards is by keeping inflation low, stable and predictable.
+■	In 2016, the Government and the Bank of Canada renewed Canada’s inflation-control target for a further five-year period, ending December 31, 2021. The target, as measured by the consumer price index (CPI), remains at the 2 percent midpoint of the control range of 1 to 3 percent.
+
+The monetary policy instrument
+■	The Bank carries out monetary policy through changes in the target for the overnight rate of interest.2 These changes are transmitted to the economy through their influence on market interest rates, domestic asset prices and the exchange rate, which affect total demand for Canadian goods and services. The balance between this demand and the economy’s production capacity is, over time, the primary determinant of inflation pressures in the economy.
+■	Monetary policy actions take time—usually from six to eight quarters—to work their way through the economy and have their full effect on inflation. For this reason, monetary policy must be forward-looking.
+■	Consistent with its commitment to clear, transparent com- munications, the Bank regularly reports its perspective on the forces at work on the economy and their implications for inflation. The Monetary Policy Report is a key element of this approach. Policy decisions are typically announced on eight
+ 
+pre-set days during the year, and full updates of the Bank’s outlook, including risks to the projection, are published four times per year in the Monetary Policy Report.
+
+Inflation targeting is symmetric and flexible
+■	Canada’s inflation-targeting approach is symmetric, which means that the Bank is equally concerned about inflation rising above or falling below the 2 percent target.
+■	Canada’s inflation-targeting framework is flexible. Typically, the Bank seeks to return inflation to target over a horizon of six to eight quarters. However, the most appropriate horizon for returning inflation to target will vary depending on the nature and persistence of the shocks buffeting the economy.
+
+Monitoring inflation
+■	In the short run, the prices of certain CPI components can be particularly volatile. These components, as well as changes in indirect taxes such as GST, can cause sizable fluctuations in CPI.
+■	In setting monetary policy, the Bank seeks to look through such transitory movements in CPI inflation and focuses on a set of “core” inflation measures that better reflect the under- lying trend of inflation. In this sense, these measures act as an operational guide to help the Bank achieve the CPI inflation target. They are not a replacement for CPI inflation.
+■	The Bank’s three preferred measures of core inflation are CPI- trim, which excludes CPI components whose rates of change in a given month are the most extreme; CPI-median, which corresponds to the price change located at the 50th percentile (in terms of basket weight) of the distribution of price changes; and CPI-common, which uses a statistical procedure to track common price changes across categories in the CPI basket.
+ 
+
+ 
+1	See Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Inflation-Control Target (October 24, 2016) and Renewal of the Inflation-Control Target: Background Information—October 2016, which are both available on the Bank’s website.
+2	When interest rates are at very low levels, the Bank has at its disposal a suite of extraordinary policy measures that could be used to provide additional monetary stimulus and/or improve credit market conditions. The Framework for Conducting Monetary Policy at Low Interest Rates, available on the Bank’s website, describes these measures and the principles guiding their use.
+
+
+
+
+The Monetary Policy Report is available on the Bank of Canada’s website at bankofcanada.ca.
+ 
+For further information, contact:
+Public Information Communications Department Bank of Canada
+234 Wellington Street Ottawa, Ontario K1A 0G9
+ 
+Telephone: 613-782-8111;
+1-800-303-1282 (toll-free in North America)
+Email: info@bankofcanada.ca ; Website: bankofcanada.ca
+ISSN 1201-8783 (Print)
+ISSN 1490-1234 (Online)
+© Bank of Canada 2019
+ 
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+October 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a report of the Governing Council of the Bank of Canada:
+Stephen S. Poloz, Carolyn A. Wilkins, Timothy Lane, Lawrence Schembri, Paul Beaudry and Toni Gravelle.
+
+ 
+
+
+
+
+
+
+
+
+
+Contents	
+Global Economy	1
+Global trade	2
+Financial conditions	3
+United States	3
+Euro area	4
+Emerging-market economies	5
+Commodity prices	5
+Canadian Economy	7
+Box 1: Key inputs to the base-case projection	8
+Recent developments	9
+Capacity pressures and inflation	10
+Economic outlook	13
+Business investment and exports	13
+Household spending	15
+Box 2: Mortgage renewals in the current interest rate environment	16
+Inflation outlook	17
+Risks to the Inflation Outlook	19
+Box 3: Scenario with more pronounced global slowdown	20
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+Trade conflicts are weakening the world economy. Global economic growth is expected to slow to below 3 percent in 2019, its weakest pace since
+the 2007–09 global economic and financial crisis (Table 1). The slowdown has been most pronounced in business investment and the manufac- turing sector and has coincided with a contraction in global trade (Chart 1).
+Despite the manufacturing slowdown, unemployment rates continue to be near historical lows in many advanced economies, as growth in employment in service sectors has remained resilient.
+The United States and China have announced additional trade actions since the July Monetary Policy Report. Although negotiations have recently shown some signs of progress, global uncertainty has been increasing. These fac- tors have contributed to a further deterioration in growth prospects and a fall in commodity prices. In response to weaker outlooks and lower inflation
+expectations, many central banks have eased monetary policy. These central bank actions have helped maintain financial conditions that support growth.
+
+Table 1: Projection for global economic growth
+	Share of real global GDP* (percent)	Projected growth† (percent)
+		2018	2019	2020	2021
+United States	15	2.9 (2.9)	2.3 (2.5)	1.9 (1.7)	1.7 (1.6)
+Euro area	11	1.9 (1.9)	1.1 (1.2)	1.0 (1.4)	1.4 (1.6)
+Japan	4	0.8 (0.8)	0.9 (0.6)	0.2 (0.2)	0.7 (0.7)
+China	19	6.6 (6.5)	6.1 (6.1)	5.9 (5.9)	5.7 (5.8)
+Oil-importing EMEs‡	33	4.3 (4.3)	3.2 (3.4)	4.0 (4.4)	4.3 (4.3)
+Rest of the world§	17	2.1 (2.1)	1.2 (1.4)	1.7 (1.8)	2.1 (2.2)
+World	100	3.7 (3.7)	2.9 (3.0)	3.1 (3.2)	3.3 (3.3)
+GDP shares are based on International Monetary Fund (IMF) estimates of the purchasing-power-parity valuation of country GDPs for 2018 from the IMF’s October 2019 World Economic Outlook. The individual shares may not add up to 100 due to rounding.
+† Numbers in parentheses are projections used in the previous Report.
+‡ The oil-importing emerging-market economies (EMEs) grouping excludes China. It is composed of large EMEs from Asia, Latin America, the Middle East and Africa (such as India, Brazil and South Africa) as well as newly industrialized economies (such as South Korea).
+§ “Rest of the world” is a grouping of all other economies not included in the first five regions. It is composed of oil-exporting EMEs (such as Russia, Nigeria and Saudi Arabia) and other advanced economies (such as Canada, the United Kingdom and Australia).
+Source: Bank of Canada
+ 
+Chart 1: Growth in global business investment, manufacturing production and trade has slowed sharply
+Year-over-year percentage change, quarterly data
+% 6
+
+
+4
+
+
+2
+
+
+0
+
+
+-2
+2014	2015	2016	2017	2018	2019
+ 
+Global trade volume
+Global gross fixed capital formation
+ 
+Global industrial production (manufacturing)
+ 
+
+Notes: Global trade volume comes from the Netherlands Bureau for Economic Policy Analysis. Global gross fixed capital formation is an aggregate of data from 47 advanced economies and emerging-market economies (EMEs), accounting for around 84 percent of global GDP by purchasing-power-parity weight.
+Global industrial production (manufacturing) is an aggregate of data from 44 advanced economies and EMEs, accounting for around 80 percent of global GDP by purchasing-power-parity weight. The most recent quarter may not include all countries for global gross fixed capital formation.
+Sources: Netherlands Bureau for Economic Policy Analysis,
+International Monetary Fund and national sources
+via Haver Analytics, and Bank of Canada calculations	Last observation: 2019Q2
+
+
+Growth is projected to strengthen modestly to around 31/4 percent by 2021, with a pickup in some emerging-market economies (EMEs) more than off- setting slower growth in the United States and China (Table 1).1
+
+Trade conflicts hurting global investment
+A slowdown in business investment and trade was expected following an unsustainably strong performance in 2017 and early 2018, but trade con- flicts have been a further drag. Tariff increases and retaliatory measures have raised firms’ costs, disrupted global supply chains, created uncertainty about future trade relationships and reduced business confidence (Chart 2).
+The Bank estimates that trade measures and related uncertainty would remove about 1.3 percent from the level of global gross domestic product (GDP) by the end of 2021 in the absence of any monetary policy actions.2 This estimate is about 0.5 percentage points larger than it was in the July Report.3
+Sector-specific developments, notably in auto and consumer electronics industries, have also contributed to the underperformance of global busi- ness investment.
+
+1	The Bank’s base-case scenario continues to assume an orderly Brexit, with modest negative effects from uncertainty. It also includes the effects of the additional tariff increases imposed by the United States and China since the July Report, which are assumed to remain in place over the projection horizon.
+2	Escalating trade measures and related uncertainty have been a drag on the global economy since 2017. The Bank estimates that about one-third of the total effect on global GDP reported above has already occurred.
+3	The upside scenario in Box 2 of the July Report can be used as an estimate of the total drag on the global economy resulting from trade policy and related uncertainty. Differences between what is reported in the current base-case scenario and what is implied in the box are due to new trade actions, additional uncertainty and rounding.
+ 
+
+
+ 
+Chart 2: Trade tensions have raised global policy uncertainty and lowered business confidence
+3-month moving average, monthly data
+ 
+Index 350
+ 
+Index 102
+ 
+
+300
+
+250	101
+
+200
+
+150	100
+
+100
+
+50	99
+2011	2012	2013	2014	2015	2016	2017	2018	2019
+Global Economic Policy Uncertainty Index (Index: 1997–2015 average = 100, left scale) Business confidence index—OECD countries (Index: long-term average = 100, right scale)
+
+Sources: Organisation for Economic Co-operation and
+Development (OECD) and policyuncertainty.com	Last observation: September 2019
+
+
+Financial markets reacting to weakening global growth
+More than 35 central banks in advanced economies and EMEs have eased monetary policy since the July Report in reaction to weakening growth pros- pects and soft inflation expectations. Markets are expecting further mon- etary policy easing in upcoming months.
+The ongoing trade war between the United States and China has raised investor appetite for high-quality assets since July. At the same time, investors continue to search for yield in the global low interest rate environ- ment. As a result, the demand for US government bonds has increased.
+US bond yields are, on balance, down but have increased from their recent lows. Yields in other major jurisdictions are about the same as in July. The higher demand for US assets has also contributed to the ongoing strength of the US dollar against other major currencies. Meanwhile, the Canadian dollar has traded in a narrow range against the US dollar while appreciating against other currencies.
+Other financial indicators, including equity prices and credit spreads, remain close to their July levels even though global growth prospects have deteri- orated. This may reflect the effects of additional monetary policy stimulus.
+Overall, financial market indicators are consistent with a modest cyclical slowing of global activity.
+
+US economy to grow at about potential
+The US economy has been growing at a moderate pace, supported by robust consumer spending, a strong labour market and healthy wage gains. In addition, after a prolonged period of weakness, the housing market is showing signs of improvement. However, rising trade protectionism has increased uncertainty in the business environment. Growth in manufacturing production, an important source of demand for Canadian exports, has decreased over the past year, and business investment has slowed sharply (Chart 3). The decline in manufacturing production has been broad-based,
+ 
+Chart 3: US investment and manufacturing production have slowed
+Quarterly data
+%	Percentage points
+8	8
+
+6	6
+
+4	4
+
+2	2
+
+0	0
+
+-2	-2
+
+-4	-4
+2015	2016	2017	2018	2019
+ 
+Real private non-residential fixed investment, year-over-year percentage change (left scale) Industrial production growth (manufacturing), year-over-year percentage change (left scale)
+ 
+Structures (right scale) Equipment (right scale) Intellectual property products (right scale)
+ 
+Note: Bars represent contribution to real investment growth. Sources: Bureau of Economic Analysis and
+Federal Reserve Board via Haver Analytics
+ 
+
+
+Last observations: industrial production, 2019Q3; others, 2019Q2
+ 
+
+ 
+
+including significant weakness in sectors that rely on Chinese imports, such as chemicals and machinery. Activity in sectors that are less affected by the trade conflict, such as services, has remained relatively resilient.
+Core personal consumption expenditure price inflation rose to 1.8 percent in August, from about 1.5 percent earlier in the year. Looking ahead, the tariff increases on Chinese imports announced in August target a larger share of consumer products than previous rounds did. These increases are therefore expected to have a greater impact on consumer prices.
+The US Federal Reserve provided additional monetary stimulus to mitigate the adverse impacts of global developments amid muted inflation expecta- tions. As well, the new US federal budget agreement raises the level of gov- ernment spending relative to what was assumed in the July Report. Overall, the outlook for GDP growth is little changed from July, with growth moder- ating toward potential over the projection horizon.
+
+Euro area losing momentum
+Recent indicators point to weaker growth in the euro area than anticipated in the July Report. Global trade developments and other geopolitical risks are weighing on business confidence and on exports. A contraction in manufac- turing output, and particularly disruptions in the auto sector, has raised the risk of a recession in Germany. So far, household spending and employment in the non-manufacturing sector have been relatively resilient, particularly in regions less dependent on exports.
+Core inflation and inflation expectations remain tepid. In response to the modest growth outlook and persistent weakness in inflation, the European Central Bank has cut its deposit facility rate and restarted asset purchases (quantitative easing). In this context, GDP growth is expected to average about 1 percent in 2019 and 2020, before rising to close to 11/2 percent in 2021.
+ 
+
+Growth to continue slowing in China
+The Chinese economy has been facing important domestic and external headwinds. Financial system vulnerabilities from high debt levels remain a concern. Regulatory efforts to address them have dampened growth. This drag has been exacerbated by the escalating trade dispute with the United States. Although policy support has provided some offset, industrial pro- duction and investment in private fixed assets have slowed over the past year. This has led to a contraction in imports of manufactured products and non-petroleum raw materials (Chart 4). The increase in tariffs since July, as well as related uncertainty, will likely have a further adverse effect on China’s economy.
+GDP growth remains subdued in other oil-importing EMEs. Economic activity in emerging Asia has been restrained by the manufacturing slowdown in China and by weak demand for electronic goods. India’s economy is being constrained by a credit crunch, and growth remains weak in Latin America. Growth in EMEs is nonetheless expected to improve modestly over the pro- jection horizon as economic activity normalizes in India and Latin America.
+In oil-exporting countries, growth is expected to pick up over the projection horizon. Oil production should stabilize following cuts implemented by some members of the Organization of the Petroleum Exporting Countries (OPEC) at the start of 2019.4
+
+Chart 4: China’s imports are falling
+Year-over-year percentage change, 3-month moving average, monthly data
+% 18
+
+12
+
+6
+
+0
+
+-6
+
+ 
+
+
+
+Total
+ 
+
+2016	2017	2018	2019
+Raw materials, excluding
+ 
+-12
+ 
+Manufactured products	petroleum products
+
+Source: General Administration of Customs China via Haver Analytics	Last observation: August 2019
+
+
+Growth concerns weighing on commodity prices
+Many commodity prices have decreased since July due to concerns over global demand (Chart 5). Changing market perceptions about the status of US–China trade talks also drove sharp fluctuations in some commodity
+prices. The recent average for the price of Brent crude oil, the global bench- mark, is US$5 per barrel lower than assumed in the July Report (Box 1, page 8). The decrease occurred despite the attacks on processing facilities
+
+4	The current OPEC production agreement is effective through March 2020. The base-case projection assumes roughly the same level of OPEC oil production in 2020 as in 2019.
+ 
+
+in Saudi Arabia, which temporarily disrupted production and increased regional tensions. Meanwhile, the price of West Texas Intermediate (WTI) oil has remained relatively unchanged, as new pipeline capacity in the United States improved access to markets.
+Uncertainty around future oil prices remains elevated. Prices could fall fur- ther if OPEC members decide to relax production cuts in 2020. However, an escalation of geopolitical tensions in the Middle East would put upward pressure on prices.
+The spread between WTI and Western Canadian Select has remained close to US$15 since July. Oil inventories in Western Canada have fallen over the past six months despite an easing in the mandatory production curtailments in Alberta. This drop is due to a pickup in shipments by rail.
+Global growth concerns have also put downward pressure on the prices of many base metals. One exception is the price of nickel, which has risen by about 40 percent since July. This change reflects more restrictive export policies from Indonesia, a key supplier.
+
+Chart 5: Concerns over global demand are weighing on many commodity prices
+Daily data
+ 
+
+Index 105
+ 
+
+US$ per barrel
+80
+ 
+
+
+
+100	70
+
+
+
+95	60
+
+
+
+ 
+90
+Jan	Feb	Mar	Apr	May	Jun	Jul
+ 
+
+Aug
+ 
+50
+Sep	Oct
+ 
+Base metals, excluding nickel (left scale)	Brent crude oil (right scale)
+
+Note: “Base metals” is the metals sub-index of the Bank of Canada commodity price index (BCPI), excluding gold and precious metals (Index: January 1, 2019 = 100).
+Source: Bank of Canada	Last observation: October 25, 2019
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+The Canadian economy grew at a moderate pace over the past year, sup- ported by a healthy labour market and the recent turnaround in housing. However, global trade conflicts and related uncertainty dampened busi- ness investment and export activities, and investment in the energy sector continued to decline. The impact on growth of both global headwinds and energy transportation constraints is expected to diminish, and the pace of economic expansion should gradually pick up in 2020 and 2021.
+The overall picture masks volatility across quarters. Growth in the second quarter was particularly strong. The Bank estimates, however, that it is being pulled down in the second half of 2019 by an outright decline in exports and business investment.
+In 2020 and 2021, Canada’s economy is anticipated to grow near potential. Consumer spending is projected to increase at a steady pace, and housing activity to continue its ongoing recovery. Overall, investment and exports are anticipated to grow moderately. In the energy sector, investment is fore- cast to stabilize, and oil exports should improve as pipeline and rail capacity gradually expands.
+Compared with the projection in the July Report, economic growth has been revised up for 2019, but revised down for 2020 and 2021 (Table 2 and Box 1). Altogether, the level of GDP is slightly lower at the end of 2021. The adjustment for 2019 reflects a surprise surge in exports in the second quarter, which resulted largely from temporary factors. In 2020 and 2021, weaker foreign demand, additional trade policy uncertainty and the lower spending profile in the new Alberta budget weigh on growth. Lower mort- gage rates and the larger working-age population provide a partial offset.
+Consistent with an economy that, outside the oil-producing regions, appears to have been operating close to potential, measures of core infla- tion have been hovering near 2 percent. Consumer price index (CPI) inflation is also expected to remain close to target over the projection horizon.
+ 
+
+Table 2: Contributions to average annual real GDP growth
+Percentage points*†
+	2018	2019	2020	2021
+Consumption	1.2 (1.2)	0.9 (1.2)	1.1 (1.1)	1.0 (1.0)
+Housing	-0.1 (-0.1)	0.0 (-0.2)	0.4 (0.2)	0.1 (0.1)
+Government	0.7 (0.7)	0.4 (0.3)	0.2 (0.2)	0.2 (0.4)
+Business fixed investment	0.2 (0.2)	-0.4 (-0.1)	0.1 (0.3)	0.4 (0.4)
+Subtotal: inal domestic demand	2.0 (2.0)	0.9 (1.2)	1.8 (1.8)	1.7 (1.9)
+Exports	1.0 (1.0)	0.6 (0.5)	0.3 (0.6)	0.7 (0.7)
+Imports	-0.9 (-0.9)	-0.1 (-0.4)	-0.2 (-0.4)	-0.6 (-0.6)
+Subtotal: net exports	0.1 (0.1)	0.5 (0.1)	0.1 (0.2)	0.1 (0.1)
+Inventories	-0.3 (-0.3)	0.1 (0.0)	-0.2 (-0.1)	0.0 (0.0)
+GDP	1.9 (1.9)	1.5 (1.3)	1.7 (1.9)	1.8 (2.0)
+Memo items (percentage change)
+Range for potential output	
+1.5–2.1
+(1.5–2.1)	
+1.5–2.1
+(1.5–2.1)	
+1.3–2.1
+(1.3–2.1)	
+1.2–2.4
+(1.2–2.4)
+Real gross domestic income (GDI)	2.0 (2.0)	1.6 (1.2)	1.5 (1.8)	1.7 (1.9)
+CPI inflation	2.3 (2.3)	2.0 (1.8)	1.8 (1.9)	2.0 (2.0)
+* Numbers in parentheses are from the projection in the previous Report.
+† Numbers may not add to total because of rounding.
+
+ 
+Box 1
+Key inputs to the base-case projection
+The Bank’s projection is always conditional on several key assumptions, and changes to them aﬀect the outlook for the Canadian economy . The Bank regularly reviews these assumptions and assesses the sensitivity of the economic projection to them . The Bank’s current assumptions are as follows:
+•	Oil prices are assumed to remain near recent average levels . The per-barrel prices in US dollars for Brent and West Texas Intermediate (WTI) have recently averaged close to $60 and $55, respectively . Brent is about $5 lower than assumed in the July Report, while WTI is about the same . The Bank’s projections for production and exports of Canadian oil are linked to transportation capacity rather than based on an assumption about the price of Western Canadian Select .
+•	By convention, the Bank does not forecast the exchange rate in its base-case projection . The Canadian dollar
+is assumed to remain at 76 cents over the projection horizon, close to its recent average and broadly in line with the 75 cents assumed in the July Report .
+ 
+
+
+
+•	The Bank estimates that the output gap was between 0 and -1 percent in the third quarter of 2019, slightly smaller than assumed for the second quarter in July .
+•	Canadian potential output growth is assumed to decrease from 1 .9 percent in 2019 to 1 .7 percent on average over 2020–22 . These assumed growth rates are close to the midpoints of the Bank’s estimated ranges (Table 2) . This proﬁle is, on average, slightly weaker than in the July scenario, mainly reflecting a weaker business investment proﬁle over the projection horizon that is only partly oﬀset by a larger working-age population . Details on the Bank’s assessment of potential output are provided in the Appendix to the April Report .
+•	The neutral nominal policy rate is deﬁned as the real rate consistent with output remaining sustainably at its poten- tial and with inflation at target, on an ongoing basis, plus 2 percent for inflation . It is a medium- to long-term equi- librium concept . For Canada, the economic projection
+is based on an assumption that the neutral rate is at the midpoint of the estimated range of 2 .25 to 3 .25 percent . This range was last reassessed in the April Report .
+ 
+
+Growth softening in the second half of 2019
+The economy grew by 3.7 percent in the second quarter of 2019, after two weak quarters. This rebound was driven by a temporary surge in both energy and some non-energy exports. In contrast, final domestic demand shrank, and the pace of inventory accumulation slowed, both subtracting significantly from growth.
+The Bank estimates that real GDP will expand by only about 11/4 percent in the second half of 2019 (Table 3 and Chart 6). The oil sector continues to face transportation challenges and production constraints. Outside this sector, weakness in foreign demand, escalating global trade conflicts and geopolitical tensions are weighing heavily on business investment and exports. Further, the strike of autoworkers in the United States and the
+scheduled end of vehicle production at the General Motors plant in Oshawa, Ontario, are suppressing activity in the auto industry.
+
+Table 3: Summary of the projection for Canada
+Year-over-year percentage change*
+	2019	2018	2019	2020	2021
+	Q1	Q2	Q3	Q4	Q4	Q4	Q4	Q4
+CPI inflation	1.6
+(1.6)	2.2
+(2.1)	1.9
+(1.6)	2.1	2.1
+(2.1)	2.1
+(2.0)	1.9
+(2.0)	2.0
+(2.0)
+Real GDP	1.4
+(1.3)	1.6
+(1.3)	1.4
+(1.1)	1.7	1.6
+(1.6)	1.7
+(1.5)	1.6
+(2.0)	1.9
+(2.0)
+Quarter-over-quarter percentage change at annual rates†	0.5
+(0.4)	3.7
+(2.3)	1.3
+(1.5)	1.3				
+Numbers in parentheses are from the projection in the previous Report. Details on the key inputs into the base-case projection are provided in Box 1.
+† Over the projection horizon, 2019Q3 and 2019Q4 are the only quarters for which some information about real GDP growth was available at the time the projection was conducted. For longer horizons, fourth- quarter-over-fourth-quarter percentage changes are presented.
+
+Chart 6: Growth is estimated to be soft in the second half of 2019
+Contribution to real GDP growth, quarterly data
+%	Percentage points
+6	6
+
+4	4
+
+2	2
+
+0	0
+
+-2	-2
+
+-4	-4
+Q3	Q4	Q1	Q2	Q3	Q4
+2018	2019
+ 
+GDP growth, quarterly, at annual rates (left scale) GDP growth estimate in July Report, quarterly,
+at annual rates (left scale)
+ 
+Business fixed investment (right scale) Consumption (right scale)
+Exports (right scale) Housing (right scale)
+Inventories, imports, government spending and residual (right scale)
+ 
+
+Sources: Statistics Canada and Bank of Canada
+estimates and calculations	Last data plotted: 2019Q4
+
+ 
+
+
+ 
+Chart 7: Housing resales have been catching up to underlying demand
+Annualized, monthly data
+Thousands
+560
+
+540
+
+520
+
+500
+
+480
+
+460
+
+440
+
+420
+2015	2016	2017	2018	2019
+
+Resales	Fundamental level*
+
+The estimated fundamental level of resales is determined by full-time employment, housing affordability and migration. For more information, see T. Webley, “Fundamental Drivers of Existing Home Sales in Canada,” Bank of Canada Staff Discussion Paper No. 2018-16 (December 2018).
+Sources: Canadian Real Estate Association via Haver Analytics
+and Bank of Canada calculations and estimates	Last data plotted: December 2019
+
+
+In contrast, employment and wage gains have been and are expected to remain resilient, supported by robust activity in the service sector.
+Consumer spending is estimated to increase by about 1¾ percent, near its average pace over the past four quarters. In addition, housing starts and resales are growing strongly as housing recovers from a period of adjust- ment to policies introduced in 2016–18 (Chart 7).
+Housing markets generally reflect regional economic conditions. Housing starts and resales have been particularly robust in Quebec and Ontario, where labour markets have been strong. These provinces will likely continue to be the main drivers of the growth in residential investment. In Alberta, where the oil industry is expected to stabilize, modest improvements in housing are expected. In British Columbia, residential investment has recovered in recent months and should remain near current levels, reflecting the creation of new households.
+
+A modest degree of excess capacity
+The Bank estimates that the Canadian output gap was between 0 and
+-1 percent in the third quarter (Box 1). Evidence of excess capacity per- sists in energy-producing regions. Elsewhere, indicators of capacity pres-
+sures and labour shortages show few signs of slack. In the autumn Business Outlook Survey, firms reported that capacity pressures were mostly labour- related and that labour markets tightened in most regions (Chart 8).
+National measures of labour market conditions continue to be healthy. The unemployment rate stands near its historical low, and the participation rate of prime-age workers is near its historical high. Job creation remains robust, especially in the service sector (Chart 9). Employment gains have been strongest for full-time jobs, particularly in mid- and high-paying positions.5 However, regional differences are evident in the Canadian labour market.
+
+5	Mid-paying positions are defined as those paying 85 percent up to 115 percent of the median full-time wage, and high-paying as 115 percent or more.
+ 
+
+
+ 
+Chart 8: Indicators of capacity pressures and labour shortages show little sign of slack outside the Prairies
+Quarterly data
+ 
+a.	Capacity pressures and output gap*
+% 2
+ 
+b.	Labour shortage intensity, contribution to balance of opinion‡
+%	%
+60	60
+ 
+1	50	45
+ 
+
+0
+40
+-1
+30
+-2
+20
+-3
+
+-4	10
+ 
+
+30
+
+15
+
+0
+
+-15
+ 
+
+ 
+-5
+2007
+ 
+
+2009
+ 
+
+2011
+ 
+
+2013
+ 
+
+2015
+ 
+
+2017
+ 
+0
+2019
+ 
+
+2015
+ 
+
+2016	2017	2018	2019
+ 
+-30
+ 
+Output gap† (left scale)
+ 
+Some difficulty (right scale)
+ 
+Significant difficulty (right scale)
+ 
+Ontario
+British Columbia
+ 
+Prairies Quebec
+ 
+Atlantic provinces Total
+ 
+* Percentage of firms responding to the Business Outlook Survey reporting some or significant difficulty meeting an unanticipated increase in demand/sales
+† The output gap is calculated as the average of the output gap using the extended multivariate filter approach and the output gap using the integrated framework
+approach. For details, see L. Pichette, P. St-Amant, B. Tomlin and K. Anoma, “Measuring Potential Output at the Bank of Canada: The Extended Multivariate Filter and the Integrated Framework,” Bank of Canada Staff Discussion Paper No. 2015-1 (January 2015).
+‡ Percentage of firms in the Business Outlook Survey reporting more intense labour shortages compared with 12 months ago minus the percentage of firms reporting less intense labour shortages
+Source: Bank of Canada	Last observation: 2019Q3
+
+Chart 9: Gains in employment have come mainly from the service sector
+Cumulative change in employment and the labour force since 2016Q4, quarterly data
+Thousands
+1,000
+
+800
+
+600
+
+400
+
+200
+
+ 
+
+2017
+ 
+
+2018
+ 
+0
+2019
+ 
+Labour force*	Goods sector employment	Service sector employment
+
+Equivalent to the variation in employment needed to keep the unemployment rate unchanged relative to 2016Q4
+Sources: Statistics Canada and Bank of Canada calculations	Last observation: 2019Q3
+
+ 
+
+For example, in Alberta, conditions have been weak—the unemployment rate remains relatively elevated, and job growth is slower than in other regions.
+In line with national labour market conditions, growth of wages has picked up. Overall, the Bank’s composite measure of wages, the wage-common, is estimated to have risen further in the third quarter to 3 percent, from
+2.3 percent in the first half of the year. In energy-producing regions, wage growth has increased recently and is now in line with the national average (Chart 10).
+Core and CPI inflation have remained near 2 percent (Chart 11). CPI infla- tion in the third quarter was 1.9 percent, higher than expected in the July Report, largely reflecting higher airfare and prices of vegetables and cell- phones (Table 3). The Bank estimates that CPI inflation will remain close to the 2 percent target in the fourth quarter.
+
+Chart 10: The recent pickup in wage growth is broad-based across all regions
+Year-over-year percentage change, quarterly data
+ 
+a.	Canadian wage-common
+ 
+b.	Provincial wage-common
+%	%
+8	8
+ 
+
+6	6
+
+4	4
+
+2	2
+
+0	0
+
+-2	-2
+
+ 
+-4
+2005	2007	2009	2011	2013	2015	2017	2019
+ 
+-4
+2005	2007	2009	2011	2013	2015	2017	2019
+ 
+Range of wage inputs*	Wage-common for Canada†
+ 
+Wage-common for Alberta, Saskatchewan, and Newfoundland and Labrador‡ Wage-common for the rest of Canada‡
+ 
+
+Note: For details, see D. Brouillette, J. Lachaine and B. Vincent, “Wages: Measurement and Key Drivers,” Bank of Canada Staff Analytical Note No. 2018-2 (January 2018); and J. Lachaine, “Applying the Wage-Common to Canadian Provinces,” Bank of Canada Staff Analytical Note No. 2018-16 (May 2018).
+Wage data for the Canadian measure are from the Labour Force Survey (LFS); the Survey of Employment, Payrolls and Hours (SEPH); the National Accounts; and the Productivity Accounts.
+† A preliminary estimate for 2019Q3 (dotted line) is based on available data from the LFS and SEPH.
+‡ Provincial wage data are from the LFS, the SEPH and the National Accounts. Given the different datasets, the provincial wage-common measures are not directly comparable with the Canadian wage-common measure. The provincial wage-common measures are weighted using LFS employment shares to calculate regional aggregate measures.
+ 
+
+
+Sources: Statistics Canada and Bank of Canada estimates and calculations
+ 
+Last data plotted: range of wage inputs, wage-common for Alberta, Saskatchewan, and Newfoundland and Labrador, and wage-common for the rest of Canada, 2019Q2; wage-common for Canada, 2019Q3
+ 
+
+ 
+ 
+
+
+ 
+
+ 
+Chart 11: Core inflation measures remain close to 2 percent
+Year-over-year percentage change, monthly data
+ 
+
+
+
+% 3.5
+ 
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+ 
+
+2007	2009	2011	2013	2015	2017	2019
+CPI-trim	CPI-median	CPI-common	Target
+ 
+0.5
+ 
+
+Sources: Statistics Canada and Bank of Canada	Last observation: September 2019
+
+
+Economic growth to increase to around potential
+The Bank anticipates that economic growth will gradually improve in 2020 and 2021 to around potential (Table 2 and Box 1). Rising incomes and the recent decline in mortgage interest rates are expected to support growth in consumer spending and housing. Businesses are anticipated to adjust to an environment of elevated uncertainty, and oil transportation
+capacity is forecast to increase. With these developments, growth in busi- ness investment and exports is expected to re-emerge at a moderate pace. Nevertheless, investment as a share of GDP should remain low.
+Trade tensions and the related uncertainty are affecting the Canadian economy both directly and indirectly. They are adding directly to the drag on investment and exports through greater uncertainty and lower business confidence in Canada. The indirect impacts are stemming from international sources, which affect the Canadian economy primarily through weaker for- eign demand for Canadian exports and lower commodity prices. The Bank
+estimates that, together, the direct and indirect impacts would remove about 2 percent from the level of Canadian GDP by the end of 2021 in the absence of any policy actions.6 This impact is about 0.4 percentage points larger than was estimated in July.
+
+Business investment and exports to grow moderately
+Both business investment and exports are expected to resume their expan- sion in 2020. The projection for business investment and exports reflects soft growth in foreign demand and is restrained by trade policy uncertainty and competitiveness challenges.
+
+6	These factors started weighing on the Canadian economy in 2017 and have been intensifying since. The Bank estimates that they have already pulled down GDP by more than half of the impact estimated for 2021. As is the case in the global section, the upside scenario in Box 2 of the July Report can be used as an estimate of the total drag on the Canadian economy resulting from trade policy and related uncertainty. Differences between what is reported in the current base-case scenario and what is implied in the box are due to new trade actions, additional uncertainty and rounding.
+ 
+
+
+ 
+Chart 12: Exports are projected to pick up
+Contribution to fourth-quarter-over-fourth-quarter real total export growth
+%	Percentage points
+5	5
+
+4	4
+
+3	3
+
+2	2
+
+1	1
+
+0	0
+
+-1	-1
+2016Q4	2017Q4	2018Q4	2019Q4	2020Q4	2021Q4
+ 
+Real total export growth (left scale)
+ 
+Non-commodity exports (right scale) Energy commodity exports (right scale)
+Non-energy commodity exports (right scale)
+ 
+
+Sources: Statistics Canada and Bank of Canada calculations and projections
+
+Chart 13: Business investment in the oil and gas sector is expected to stabilize
+Annual data
+a. Contribution to real total business investment growth	b. Share of the oil and gas sector in total business investment
+%	Percentage points	%
+8	8	30
+
+4	4
+25
+
+0	0
+20
+-4	-4
+
+15
+-8	-8
+
+ 
+-12
+ 
+
+2014	2015	2016	2017	2018	2019	2020	2021
+ 
+-12
+ 
+10
+2014	2015	2016	2017	2018	2019	2020	2021
+ 
+Real total business investment growth (left scale)
+ 
+Oil and gas sector (right scale) Other sectors (right scale)
+ 
+
+Sources: Statistics Canada and Bank of Canada calculations and projections
+
+
+In the oil and gas sector, improving transportation capacity, along with the easing of production constraints, is expected to support a rebound in pro- duction.7 Thus, energy exports are expected to pick up in 2020 and 2021 (Chart 12). Moreover, as business sentiment gradually improves in line with the expansion of transportation capacity, investment is anticipated to sta- bilize in 2020 and expand in 2021. The sector’s share in total business investment is anticipated to remain at about half of what it was in 2014, before the sharp decline in oil prices (Chart 13).
+
+7	New pipeline capacity will come from several optimization and expansion projects, starting at the end of 2019, as well as Enbridge Line 3, expected to be completed by mid-2021. Taken together, these developments are expected to increase pipeline capacity by up to 640,000 barrels per day.
+ 
+
+Outside the oil and gas sector, the drag on growth of business investment from trade policy uncertainty, as well as from delays in the delivery of the Boeing 737 MAX aircraft, is expected to dissipate.8 The strength of the ser- vice sector and the digitalization of the economy will continue to support investment. For instance, recent announcements of new direct investments suggest that Canada is attracting investments by foreign firms in knowledge- intensive fields, including software and digital services (e.g., video games, smartphone applications, web content and custom computer programming services) and related business services. In addition, the LNG Canada pro- ject will continue to boost spending in the transportation sector.
+This gradual improvement is consistent with the responses to the autumn Business Outlook Survey. Almost half the firms reported intentions to increase investment spending, often in technologies that improve produc- tivity. Nonetheless, exporters had modest investment intentions, with fewer firms than in recent surveys saying foreign demand supports their capital spending plans.
+The outlook for non-energy exports is mixed across categories. Overall growth in non-energy commodity exports is projected to remain subdued, despite a rebound in exports of steel and aluminum products following the end of the North American tariffs. Among non-commodity categories, growth of exports of services and consumer goods excluding automobiles should remain strong, while that of machinery and equipment is expected to be soft. In addition, motor vehicle production and exports are likely to decline further because Canadian motor vehicle assemblers are reducing production in response to both mandate changes and softening sales.
+After slowing in the second half of 2019, import growth should recover in 2020 and 2021, in line with the rise in business investment and exports.
+
+A resilient labour market to support household spending
+Over the projection horizon, household spending is expected to be sup- ported by solid growth of disposable income, lower rates for mortgages and a larger working-age population. With the lower mortgage rates, households renewing their mortgages are no longer facing sizable increases in interest payments (Box 2).
+However, given their high levels of debt, households are expected to be cau- tious in their spending decisions. Consumer spending is therefore projected to grow at a somewhat slower pace than disposable income. As a result, the projection includes a gradual increase in the savings rate from current low levels (Chart 14), and the ratio of household debt to disposable income is anticipated to edge down. Nonetheless, while household sector vulnerabil- ities are expected to ease, they should remain elevated over the projection horizon.
+Housing activity is anticipated to continue to recover toward a level con- sistent with solid income, low borrowing costs and a growing population. This recovery should result in strong growth of residential investment of about 5 percent in 2020. Subsequently, housing activity is expected to slow to a pace roughly in line with underlying housing demand. In 2021, residen- tial investment is expected to expand by about 1 percent.
+
+8	Canadian airlines are expected to resume their imports of Boeing 737 MAX aircraft once regulators approve the plane for service. Air Canada and WestJet have so far received roughly half and one- quarter of their total order of Boeing 737 MAX aircraft, respectively. The Bank estimates that, had the grounding not occurred, investment in machinery and equipment could have been about 3 percent higher in the fourth quarter of 2019.
+ 
+
+Box 2
+Mortgage renewals in the current interest rate environment
+ 
+Canadian ﬁxed mortgage rates have been falling throughout 2019, in line with global market interest rates . The mortgage payments of households recently renewing their mortgages are therefore unlikely to have risen by as much as indicated in the simulation described in Box 3 of the July 2018 Report .1
+Analysis of microdata reveals that the average household renewing a mortgage so far in 2019 faced a rate increase of about 35 basis points relative to the rate at origination .
+However, these increases have been diminishing throughout the year, peaking at 80 basis points in January and falling to just 10 basis points in August (Chart 2-A) .
+The magnitude of rate increases also varied with the choice of mortgage product . For instance, those renewing variable- rate mortgages faced an average rate increase of about
+65 basis points . This resulted in a noticeable shift away from variable- to ﬁxed-rate mortgages (Chart 2-B) .
+ 
+Chart 2-A: Mortgage rate increases at renewal declined over 2019
+Monthly data
+Basis points
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+Jan	Feb	Mar	Apr	May	Jun	Jul	Aug Year to
+date
+ 
+In addition to changes in mortgage rates, changes in debt- servicing costs at renewal would have depended on (1) the extent to which households paid down their mortgages faster than they were obligated to, and (2) income growth realized between origination and renewal . About 20 percent
+ 
+Sources: Regulatory filings of Canadian banks
+and Bank of Canada calculations	Last observation: August 2019
+
+
+Chart 2-B: Renewals show a shift toward fixed-rate mortgages in 2019
+ 
+of households made mortgage prepayments, which helped oﬀset the impact of higher interest rates on mortgage pay- ments .2 In addition, assuming that income between origin- ation and renewal grew in line with economy-wide income per worker, mortgage debt-service ratios of households renewing mortgages in 2019 would have fallen by 1 .2 per- centage points, on average .
+If mortgage rates were to remain near current levels, house- holds renewing mortgages in 2020 and 2021 would not face materially higher rates . For illustrative purposes, con- sider households whose ﬁve-year ﬁxed rates are coming
+up for renewal in 2020 and 2021 and who opt for another ﬁve-year ﬁxed rate . These households would face rate increases of only about 10 and 25 basis points, respectively . Of course, other renewal options are also possible, with some shorter-term ﬁxed rates potentially leading to rate
+decreases .
+ 
+
+
+
+35%
+
+
+
+
+
+
+35%
+
+
+
+
+
+
+30%
+ 
+Origination
+
+
+
+
+
+
+
+ 
+
+ 
+Renewal
+
+
+
+
+
+
+
+
+
+
+
+short-term fixed
++ 35 bps
+
+
+
+
+variable
++ 65 bps
+ 
+
+
+
+
+37%
+
+
+
+
+
+
+
+
+47%
+
+
+
+
+
+16%
+ 
+Overall, mortgage debt-service ratios at renewal are likely to continue to decline on average .
+ 
+Note: bps = basis points
+Sources: Regulatory filings of Canadian banks
+and Bank of Canada calculations	Last observation: August 2019
+ 
+
+
+1	At the time, the Bank considered the potential impact of an increase in interest rates on mortgage payments as a share of income, for households renewing their ﬁve-year ﬁxed-rate mortgages in 2019 and 2020 .
+2	Calculations are based on the assumption that households do not change their eﬀective amortization schedule upon renewal . In principle, prepayments can be used to lower the amortization period, so the required mortgage payment remains unchanged at renewal .
+ 
+
+ 
+Chart 14: The savings rate is expected to rise gradually
+Nominal annual data
+% 7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+ 
+
+2007
+ 
+
+2009
+ 
+
+2011
+ 
+
+2013
+ 
+
+2015
+ 
+
+2017
+ 
+0
+2019	2021
+ 
+Household disposable income growth (percentage change) Consumption growth (percentage change)
+ 
+Savings rate (in percent)
+ 
+
+Sources: Statistics Canada and Bank of Canada calculations and projections
+
+
+CPI inflation to remain close to 2 percent
+The Bank forecasts CPI inflation will be around the 2 percent target over the projection horizon (Table 2). Economic slack is expected to be a source of modest downward pressure on inflation that is largely offset by a small boost from the federal carbon pollution charge (Chart 15). In 2020, infla-
+tion is expected to decrease temporarily due to a renewed drag from energy prices.
+
+Chart 15: CPI inflation is expected to be close to 2 percent
+Contribution to the deviation of inflation from 2 percent, quarterly data
+ 
+%
+3.0
+ 
+Percentage points
+1.0
+ 
+
+
+2.5	0.5
+
+
+2.0	0.0
+
+
+1.5	-0.5
+
+
+ 
+1.0
+ 
+
+2018	2019	2020	2021
+ 
+-1.0
+ 
+CPI inflation (year-over-year percentage
+change, left scale)
+ 
+Output gap (right scale)
+Exchange rate pass-through (ERPT) (right scale) Commodity prices, excluding ERPT* (right scale) Carbon pollution charge (right scale)
+Other factors (right scale)
+ 
+
+Note: Numbers may not add to total because of rounding.
+This also includes the effect on inflation of the divergence from the typical relationship between gasoline and crude oil prices.
+Sources: Statistics Canada and Bank of Canada estimates, calculations and projections
+
+ 
+
+The base-case projection provides the Bank’s view of the most likely out- come for inflation, although any projection is subject to considerable uncertainty. Based on the past dispersion of private sector forecasts, a reasonable range around the projection for CPI inflation is ±0.3 percentage points. A complementary perspective is provided using statistical analysis of the Bank’s forecast errors, which suggests that a 50 percent confidence interval around the base-case projection widens from ±0.2 percentage points in the fourth quarter of 2019 to ±0.6 percentage points by the end of 2021. Over the same period, a 90 percent confidence band widens from
+±0.6 to ±1.4 percentage points.
+The projection is consistent with medium- and long-term inflation expecta- tions remaining well anchored. Almost all firms responding to the Business Outlook Survey anticipate that inflation will remain within the Bank’s target range of 1 to 3 percent over the next two years. Most respondents expect inflation to be in the bottom half of the target range. The September
+2019 Consensus Economics forecast for CPI inflation is 2.0 percent in 2019 and 2020. Responses to a quarterly question on long-term inflation expectations show an average of 1.9 percent through 2029.
+ 
+
+
+
+
+
+
+
+
+
+
+Risks to the inflation outlook	
+The outlook for inflation is subject to several upside and downside risks. The most important risk to the Canadian economy continues to be around global trade policies and related uncertainty. Because the Bank’s base-case scenario incorporates the adverse effects of announced tariffs and elevated uncertainty, the trade policy risk is two-sided but tilted to the downside.
+If current trade disputes were resolved and if increases in tariffs introduced over the past two years were reversed, economic activity and inflation would be stronger. Alternatively, trade conflicts could escalate further or become widespread, which would negatively affect Canadian GDP. The net effect of increased trade tensions on Canadian inflation would depend on a number of factors. While weaker aggregate demand would reduce inflationary pres- sures, a weaker Canadian dollar and lower productivity would push up infla- tion. Moreover, any tariff increases would also have a direct effect on import prices.9
+Protectionist trade policies work through the supply side by limiting cap- acity and pushing up prices. The recent experience of a marked slowdown in real activity and soft inflation suggests the uncertainty associated with trade conflict and unresolved negotiations are also weighing importantly on demand. This Report considers an illustrative scenario with greater global uncertainty driving additional global weakness than in the base case (Box 3). The scenario illustrates the channels through which economic activity and inflation in Canada would be affected.
+Aside from trade policy, the Bank assesses that the risks to the projected path for inflation are roughly balanced. As in past reports, the focus is on those risks identified as the most important to the projected path for infla- tion, drawing from a larger set of risks considered in the projection. Table 4 summarizes the evolution of some of the key risks since July.
+(i)	Sharp tightening of global financial conditions ()
+Risk premiums have remained tight even as growth concerns have increased. Given the growing evidence that global trade conflicts and related uncertainty are taking a toll on economic activity, market prices could adjust rapidly. A sharp increase of risk premiums and tightening of other financial conditions could also lead to capital out- flows from stressed EMEs. These developments could translate into weaker global and Canadian growth.
+
+
+
+9 Box 2 of the July 2019 Report considered two extreme risk scenarios, a positive one and a negative one, to illustrate the forces that would come into play.
+ 
+
+(ii)	Stronger consumption in Canada ()
+The base-case projection incorporates cautious behaviour on the part of consumers, with a gradual increase in the savings rate. However, the recent strength in wages and employment could boost consumer confi- dence and lead to stronger consumption over the projection horizon.
+
+(iii)	Stronger residential investment and rising household vulnerabilities in Canada ( and )
+Recent strong growth in employment and the decrease in mortgage rates could spur more demand for housing than in the base-case scenario. Stronger housing demand could put additional pressures on already elevated house prices, increase borrowing and raise house- hold vulnerabilities.
+(iv)	Weaker growth in emerging-market economies ()
+In China, implementing further policy stimulus to offset the negative effects of ongoing trade conflicts without causing a pickup in private credit growth could be challenging. Additionally, recovery in other oil-importing EMEs could be more sluggish than in the base case. In particular, the credit crunch in India and ongoing political challenges in some EMEs could have larger and more persistent effects. Such developments could put downward pressure on commodity prices.
+(v)	Global disinflation ()
+Inflation has been persistently below target in many countries. In this context, import prices may contribute to a softer outlook for Canadian inflation than in the base-case projection.
+
+
+
+Scenario with more pronounced global slowdown
+ 
+In this alternative scenario, a plausibly higher degree of global uncertainty than in the base case gives rise to a more pronounced global slowdown .1 The extra uncertainty assumed in the scenario is roughly consistent with the additional future reductions in the US federal funds rate expected by ﬁnancial markets .2 A combination of model- ling and judgment was used to capture and quantify the key channels through which this higher level of uncertainty is likely to aﬀect the Canadian economy . Throughout, the scenario assumes that monetary and ﬁscal policies in
+1	The uncertainty in question can take many forms, including geopolitical and trade policy uncertainty . However, unlike in Box 2 of the July Report, the scenario does not involve the imposition of tariﬀs above and beyond those already incorporated into the base-case projection .
+2	Speciﬁcally, an empirical model was used to estimate the increase in uncertainty needed to generate a shift in the path of the federal funds rate roughly equivalent to the diﬀerence between the path implied by futures markets as of October 21, 2019, and a proﬁle in line with the Federal Open Market Committee’s most recent Summary of Economic Projections, published on September 18, 2019 .
+ 
+Canada and the rest of the world do not respond to the additional weakness in economic outcomes . In this way, the scenario isolates the eﬀects of greater global uncer- tainty and more clearly identiﬁes the extent of the potential challenge facing policy-makers .
+The global outlook would be considerably weaker Greater uncertainty would lead to decreased business and consumer conﬁdence globally . Moreover, it would generate tighter ﬁnancial conditions, reflecting the response of ﬁnan- cial markets to greater macroeconomic risk . While ﬁnancial conditions are tighter, the scenario assumes that there
+are no ﬁnancial crises that would contribute to a further worsening of economic outcomes . Deterioration of conﬁ- dence and ﬁnancial conditions would result in lower global business investment and household spending .
+(continued…)
+ 
+
+ 
+Box 3 (continued)
+Global growth would be considerably slower than in the base-case projection in both 2020 and 2021 (Chart 3-A) . By the end of 2021, the level of global GDP would be about 2 1/4 percent lower than in the base-case projection .
+Commodity prices would be approximately 20 to 25 percent lower, reflecting the weaker global demand .
+Eﬀects on Canada could be significant
+The more pronounced global slowdown would be trans- mitted to Canada through several channels . For example, weaker global demand would lower Canada’s terms of trade and exports . Income eﬀects associated with these shifts would put downward pressure on domestic demand . This pressure would be reinforced by tighter ﬁnancial condi- tions and the weaker business and consumer conﬁdence associated with greater uncertainty . The combination of weaker domestic and foreign demand would lead to lower trajectories for employment, wages and household income . In addition, weaker demand for Canadian goods would generate a lower level of inventory investment than in the base-case projection, especially given current elevated inventory levels . A lower trajectory of household income would also contribute to lower house prices . As a result of all these changes, household spending, business investment and exports would be weaker, and real GDP would be about 41/2 percent lower by the end of 2021 relative to the base- case projection . This impact includes an ampliﬁcation eﬀect associated with elevated household indebtedness .
+Chart 3-A: Global growth is considerably slower in the alternative scenario
+ 
+
+
+The Canadian dollar would depreciate by roughly 15 percent relative to the base case . This depreciation would play a key role in facilitating the adjustment of the Canadian economy to the weaker global economic outlook . For instance, a weaker Canadian dollar would help contain the adverse eﬀects on exports and Canadian income . At the same time, the depreciation would make foreign goods and services more expensive, generating a shift in the composition of demand toward domestic goods and services . In addition, the lower Canadian dollar would put upward pressure on expected inflation, contributing to lower real interest rates for households and ﬁrms than would otherwise be the case .
+The weaker potential output associated with less business investment would have negative eﬀects on the supply side of the economy . These supply eﬀects and a lower Canadian dollar would partially mitigate the negative impact of weaker aggregate demand on inflation . Overall, CPI inflation would be 0 .7 percentage points lower than in the base case in 2021 (Chart 3-B) .
+There would be scope for a macroeconomic policy response
+A global macroeconomic policy response could greatly reduce the degree of slowdown . The policy response could consist of a combination of monetary, ﬁscal and, where appropriate, structural and macroprudential policy .
+
+Chart 3-B: Canadian CPI inflation is significantly lower in the alternative scenario
+ 
+Percentage change, annual data
+ 
+%	Percentage change, annual data 4
+ 
+% 2.0
+ 
+
+
+3	1.5
+
+
+2	1.0
+
+
+1	0.5
+
+
+ 
+
+2020
+Base-case projection
+ 
+
+2021
+Alternative scenario
+ 
+0
+2020
+Base-case projection
+ 
+
+2021
+Alternative scenario
+ 
+0.0
+ 
+
+Source: Bank of Canada	Source: Bank of Canada
+ 
+
+Table 4: Evolution of risks since the July 2019 Monetary Policy Report
+Risk	What has happened	What is being monitored
+Global trade tensions		The United States and China both implemented a new round of tariff increases on each other’s imports on September 1. They also both announced that additional tariff increases would be put in place on December 15.
+	Despite tentative signs of progress in ongoing trade negotiations between the United States and China, uncertainty remains elevated.
+	Growth of business investment and manufacturing production has slowed sharply worldwide over the past year, while trade has contracted.		Trade policy developments
+	Global trade flows
+	Manufacturing output and investment
+	Consumer prices
+Sharp tightening of global financial conditions		Yields on US long-term government bonds are lower.
+	Equity prices and credit spreads remain close to their July levels.
+	The US dollar appreciated against most major currencies.		Long-term interest rates
+	Bond term and risk premiums
+	Equity markets
+	Exchange rates
+	Capital flows
+Stronger consumption in Canada		Consumption growth slowed in 2019Q2.
+	Rising sales of new motor vehicles, along with modest retail sales data, point to moderate growth of consumer spending in 2019Q3.
+	Wage growth increased further in 2019Q3, while total hours worked were roughly flat because the decline in average hours worked offset job creation.
+	Consumer confidence fell in October to its lowest level since December 2018 but remains above the historical average.
+	International travel statistics suggest continued declines in net expenditures abroad.
+	Consumer credit growth edged up in recent months.		Motor vehicle and retail sales
+	Consumption spending
+	International travel statistics
+	Consumer sentiment
+	Household indebtedness and savings behaviour
+	Employment and income
+Stronger residential investment and rising household
+vulnerabilities in Canada		Housing activity has continued to strengthen across Canada, with most regions registering gains in resales and starts.
+	After slowing over much of the past year, year-over- year growth in house prices has begun to stabilize, as
+moderate growth in Quebec and Ontario offsets weakness in Western Canada. However, seasonally adjusted prices ticked up in Vancouver in recent months.
+	New home inventory remains elevated in Alberta.
+	The savings rate edged up in 2019Q2 from a relatively low level.
+	Mortgage credit growth increased slightly in recent months.		Housing activity and prices
+	Residential investment
+	Regulatory environment
+	Mortgage credit growth
+	Household indebtedness and savings behaviour
+	Employment and income
+	Population growth
+Weaker growth in emerging-market economies		Growth continues to slow in China as private sector manufacturing softens.
+	Credit growth in China has stabilized at a slower rate.
+	Growth in emerging Asia is constrained by weak demand from China.
+	India’s economy is constrained by a credit crunch.
+	In Argentina, the recession that started in 2018 continues.		GDP growth in China and other major emerging- market economies
+	Business sentiment indicators
+	Credit growth
+Global disinflation		Inflation expectations have fallen over the past year in the United States and the euro area, and core inflation remains below target in these countries.
+	Producer prices for goods have fallen over the past year in major economies.
+	Durable and semi-durable goods inflation picked up in recent months in Canada.		Core inflation and inflation expectations in major trading partners
+	Producer prices in major trading partners
+	Prices of goods with high import content in Canada (e.g., durables and semi-durables)
+

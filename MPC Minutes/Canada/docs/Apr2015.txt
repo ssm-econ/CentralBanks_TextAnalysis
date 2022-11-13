@@ -1,0 +1,1591 @@
+ 11!11	8 :
+ 
+ANADA
+U CANADA
+ 
+
+
+
+
+
+MONETARY POLICY REPORT
+April 2015
+ 
+Canada’s Inflation-Control Strategy1
+
+
+ 
+Inflation targeting and the economy
+•	The Bank’s mandate is to conduct monetary policy to pro- mote the economic and financial well-being of Canadians .
+•	Canada’s experience with inflation targeting since 1991 has shown that the best way to foster confidence in the value of money and to contribute to sustained economic growth, employment gains and improved living standards is by keeping inflation low, stable and predictable .
+•	In 2011, the Government and the Bank of Canada renewed Canada’s inflation-control target for a further five-year period, ending 31 December 2016 . The target, as measured by the total consumer price index (CPI), remains at the
+2 per cent midpoint of the control range of 1 to 3 per cent .
+The monetary policy instrument
+•	The Bank carries out monetary policy through changes in the target overnight rate of interest .2 These changes are transmitted to the economy through their influence on market interest rates, domestic asset prices and the exchange rate, which affect total demand for Canadian goods and services . The balance between this demand and the economy’s production capacity is, over time, the
+primary determinant of inflation pressures in the economy .
+•	Monetary policy actions take time—usually from six to eight quarters—to work their way through the economy and have their full effect on inflation . for this reason, monetary policy must be forward-looking .
+•	Consistent with its commitment to clear, transparent communications, the Bank regularly reports its perspec- tive on the forces at work on the economy and their
+ 
+implications for inflation . The Monetary Policy Report is a key element of this approach . Policy decisions are typi- cally announced on eight pre-set days during the year, and full updates of the Bank’s outlook, including risks to the projection, are published four times per year in the Monetary Policy Report .
+Inflation targeting is symmetric and flexible
+•	Canada’s inflation-targeting approach is symmetric, which means that the Bank is equally concerned about inflation rising above or falling below the 2 per cent target .
+•	Canada’s inflation-targeting framework is flexible . Typically, the Bank seeks to return inflation to target over a horizon of six to eight quarters . However, the most appropriate horizon for returning inflation to target will vary depending on the nature and persistence of the shocks buffeting the economy .
+Monitoring inflation
+•	In the short run, a good deal of movement in the CPI is caused by fluctuations in the prices of certain volatile components (e .g ., fruit and gasoline) and by changes in indirect taxes . for this reason, the Bank also monitors a set of “core” inflation measures, most importantly the CPIX, which strips out eight of the most volatile CPI com- ponents and the effect of indirect taxes on the remaining components . These “core” measures allow the Bank to “look through” temporary price movements and focus on the underlying trend of inflation . In this sense, core infla- tion is monitored as an operational guide to help the Bank achieve the total CPI inflation target . It is not a replace- ment for it .
+ 
+
+ 
+1	See Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Inflation-Control Target (8 November 2011) and
+Renewal of the Inflation-Control Target: Background Information—November 2011, which are both available on the Bank’s website .
+2	When interest rates are at the zero lower bound, additional monetary easing to achieve the inflation target can be provided through three unconven- tional instruments: (i) a conditional statement on the future path of the policy rate; (ii) quantitative easing; and (iii) credit easing . These instruments and the principles guiding their use are described in the annex to the april 2009 Monetary Policy Report .
+
+
+
+
+
+
+
+The Monetary Policy Report is available on the Bank of Canada’s website at bankofcanada.ca.
+ 
+For further information, contact:
+Public Information Communications Department Bank of Canada
+234 Laurier Avenue West Ottawa, Ontario K1A 0G9
+ 
+Telephone: 613 782-8111;
+1 800 303-1282 (toll-free in North America)
+Email: info@bankofcanada.ca; Website: bankofcanada.ca
+ISSN 1201-8783 (Print)
+ISSN 1490-1234 (Online)
+© Bank of Canada 2015
+ 
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+April 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a report of the Governing Council of the Bank of Canada:
+Stephen S. Poloz, Carolyn Wilkins, Timothy Lane, Agathe Côté, Lawrence Schembri and Lynn Patterson.
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“The negative effects of lower oil prices hit the economy right away, and the various positives—more exports because
+of a stronger U.S. economy and a lower dollar, and more consumption spending as households spend less on fuel—will arrive only gradually, and are of uncertain size.”
+
+
+—Stephen S. Poloz
+
+Governor, Bank of Canada London, Ontario
+24 February 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Contents	
+Global Economy	1
+Disinflationary pressures	1
+Global financial conditions	2
+Oil prices	5
+Box 1: Which Oil Prices Matter for the Canadian Economy?	6
+Other commodity prices	8
+Global economic growth	10
+Exchange rate movements	11
+Canadian Economy	13
+Inflation	14
+The negative effects of lower oil prices	16
+Box 2: Regional Impacts of the Decline in Oil Prices	17
+Capacity pressures	18
+Canadian financial conditions	20
+Growth outlook	21
+Non-energy exports	22
+Business investment	23
+Household spending	24
+Inflation outlook	25
+Risks to the Inflation Outlook	29
+Appendix: Updated Estimates ofPotential Output Growth	31
+
+
+
+
+
+
+
+ 
+Global EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+
+
+
+
+
+
+
+
+
+Global financial conditions have eased further in recent months, as many central banks have added to monetary policy stimulus in response to persis- tent economic slack and below-target inflation. The effects of lower prices for oil and other commodities are working their way through the world economy, boosting overall global growth, but weakening growth prospects in some countries. All things considered, the Bank expects global economic growth to strengthen and average about 3 1/2 per cent over the 2015–17 period, in line with the January Monetary Policy Report (Table 1).
+In this global context, the economic prospects of major economies continue to diverge. As the U.S. economy strengthens, the Federal Reserve is widely expected to start normalizing monetary policy later this year—in contrast to the ongoing easing in other advanced economies. The substantial strength- ening of the U.S. dollar against most other currencies, notably the euro,
+the yen and the Canadian dollar, largely reflects such differences and, over time, will contribute to mitigating them by boosting net exports in the weaker economies.
+Table 1: Projection for global economic growth
+
+	Share of real global GDPa (per cent)	Projected growthb (per cent)
+		2014	2015	2016	2017
+United States	16	2.4 (2.4)	2.7 (3.2)	3.0 (2.8)	2.6
+Euro area	12	0.9 (0.8)	1.2 (0.9)	1.3 (1.2)	1.3
+Japan	5	-0.1 (0.1)	0.4 (0.6)	1.5 (1.6)	1.3
+China	16	7.4 (7.4)	6.9 (7.2)	6.8 (7.0)	6.5
+Rest of the world	51	3.3 (2.9)	3.1 (3.1)	3.5 (3.4)	3.7
+World	100	3.3 (3.1)	3.3 (3.4)	3.6 (3.5)	3.6
+a.	GDP shares are based on International Monetary Fund (IMF) estimates of the purchasing-power-parity (PPP) valuation of country GDPs for 2013 from the IMF’s October 2014 World Economic Outlook.
+b.	Numbers in parentheses are projections used for the Bank’s January 2015 Monetary Policy Report.
+Source: Bank of Canada
+
+
+Disinflationary pressures have spurred further monetary policy action
+The sharp drop in oil prices as well as lower commodity food prices have been key common factors behind weak total CPI inflation globally. Although the disinflationary effects of lower oil and food prices are generally expected to be transitory, core inflation in many countries has been well below infla- tion targets for an extended period (Chart 1). Persistent excess global supply has been a steady source of downward pressure on underlying infla- tion in the advanced economies. Labour gaps also remain large. While some
+ 
+Global EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+Chart 1: Inflation has been persistently below targets in many advanced economies
+Deviation from inflation target
+Percentage points
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+2006	2007	2008	2009	2010	2011	2012	2013	2014 2015
+Deviation of core inflation from target	Deviation of total inflation from target
+
+Note: The aggregate deviation from inflation targets for advanced economies is calculated using GDP shares, which are based on International Monetary Fund (IMF) estimates of the purchasing-power-parity (PPP) valuation of selected country GDPs constituting 40 per cent of global GDP. Inflation targets are fixed using 2014 targets.
+Sources: National sources via Haver Analytics,
+the IMF and Bank of Canada calculations	Last observation: February 2015
+
+
+countries have achieved significant reductions in headline unemployment rates, in many advanced economies, high rates of long-term unemployment and modest wage growth suggest that labour market slack remains.
+In response to this persistent economic slack and low inflation, as well as the weakening growth prospects of some commodity producers, more than
+25 central banks of advanced and emerging-market economies, representing over half of world GDP, have lowered their policy rates further or introduced additional unconventional easing measures since the start of 2015. Notably, the European Central Bank (ECB) announced a quantitative easing program in January and began asset purchases in early March. As well, policy deposit rates are negative in the euro area and in several other European countries.
+
+Global financial conditions have eased further
+Yields on long-term bonds have reached historical lows across most advanced economies, reflecting both market expectations for low short- term interest rates in the future and compressed term premiums. In par- ticular, the asset purchase programs implemented by the ECB and the Bank of Japan have lowered term premiums, with spillover effects into yields in other countries. In many euro-area countries, long-term bond yields have fallen sharply, in some cases even showing negative rates on terms beyond five years (Chart 2). At the same time, the gap between lending rates in the core and peripheral countries has narrowed, with the exception of Greece.
+The additional policy easing in many countries in recent months has boosted stock market indexes globally, particularly in Europe (Chart 3), and many indexes remain at or near record highs. Credit spreads for both investment-grade and high-yield issuers have contracted further.
+ 
+Global EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+Chart 2: Yields are negative in many European sovereign bond markets
+Switzerland Germany Finland Denmark Austria Netherlands
+Belgium Sweden France Spain Italy Norway
+United Kingdom
+
+0	1	2	3	4	5	6	7	8	9	10
+Maturity (years)
+Below 0 per cent	Between 0 and 1 per cent	Between 1 and 2 per cent
+
+Source: Bloomberg	Last observation: 10 April 2015
+
+
+ 
+Chart 3: Equity markets have improved in advanced economies
+Index: 2 January 2014 = 100
+ 
+
+
+
+Index 130
+ 
+
+
+120
+
+
+110
+
+
+100
+
+
+90
+Jan	Mar	May	Jul	Sep	Nov	Jan	Mar
+			2014				2015
+ 
+Canada–S&P/TSX Composite United States–S&P 500
+ 
+Euro area–STOXX 50
+United Kingdom–FTSE 100
+ 
+Source: Reuters	Last observation: 10 April 2015
+
+
+Uneven growth prospects across regions and expectations of diverging monetary policy paths have been reflected in higher levels of financial market volatility, particularly in fixed-income and foreign exchange markets. An increase in volatility toward more normal levels is to be expected with the re-emergence of two-way risk in policy rates. Some central banks have lowered rates to negative values—below what was previously viewed as a lower bound. In other countries, such as the United States and the United Kingdom, market prices reflect expectations of rising policy rates (Chart 4). These same forces have also contributed to the further appreciation of the
+U.S. dollar against other currencies (Chart 5), including the Canadian dollar.
+ 
+Global EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+Chart 4: The paths for monetary policy rates implied by market expectations diverge across advanced economies
+Expectations derived from overnight index swaps
+% 2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+ 
+
+2010	2011	2012	2013	2014
+ 
+
+2015	2016	2017
+ 
+-0.5
+ 
+Canada	United States	Euro area	Japan	United Kingdom
+
+Sources: Reuters and Bank of Canada calculations	Last observation: 10 April 2015
+
+Chart 5: The U.S. dollar has continued to appreciate, driven by diverging performances among major economies
+ 
+Index: 6 January 2014 = 100
+ 
+Index 130
+ 
+
+120
+
+110
+
+100
+
+90
+
+80
+
+70
+Jan	Mar	May	Jul	Sep	Nov	Jan	Mar
+			2014			2015
+ 
+Can$ vis-à-vis US$
+Trade-weighted US$ Index
+ 
+Euro vis-à-vis US$ Yen vis-à-vis US$
+ 
+CERI, excluding US$a
+ 
+
+a. The Canadian-dollar effective exchange rate index (CERI) is a weighted average of bilateral exchange rates for the Canadian dollar against the currencies of Canada’s major trading partners. A rise indicates an appreciation of the Canadian dollar.
+Sources: Bank of Canada, U.S. Federal Reserve,
+European Central Bank and Bank of Japan	Last observation: 10 April 2015
+
+
+Since January, the Canadian dollar has depreciated against the U.S. dollar, largely reflecting the broad strength of the U.S. dollar and the expected divergence in the paths for monetary policy in the two countries. The cur- rent level of the Canadian dollar is also consistent with the dollar’s historical relationship with oil prices (Chart 6). By convention, the Canadian dollar is assumed to be close to its recent average level of 79 cents over the projec- tion horizon, compared with the 86 cents assumed in January.
+ 
+Global EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+
+ 
+Chart 6: The current level of the Canadian dollar is consistent with its historical relationship with oil prices
+Index: January 2000 = 100 Index
+200
+ 
+
+
+
+
+Index 600
+ 
+
+180	500
+
+160	400
+
+140	300
+
+120	200
+
+100	100
+
+80	0
+2000	2002	2004	2006	2008	2010	2012	2014
+ 
+Can$/US$ (left scale) Daily Can$
+ 
+Crude oil index (right scale) Daily crude oil index
+ 
+
+Note: The crude oil index is a subindex of the Bank of Canada Commodity Price Index (BCPI) that is composed of prices for West Texas Intermediate, Western Canada Select and Brent crude oil.
+Source: Bank of Canada	Last observations: Monthly data, March 2015; daily data, 10 April 2015
+
+
+Oil prices remain low and volatile
+Following their sharp slide in the second half of 2014, the benchmark oil prices that are relevant for the Canadian economy have been quite volatile, fluctuating at or below levels assumed in the January Report (Chart 7, Box 1). Prices for West Texas Intermediate (WTI) and Western Canada Select (WCS)—the main pricing benchmarks for Western Canadian producers— continue to be influenced by rising U.S. oil production, even as refinery maintenance and strikes have curbed demand.
+
+Chart 7: Benchmark prices for crude oil have remained low and volatile
+US$/barrel
+125
+
+
+100
+
+
+75
+
+
+50
+
+
+25
+
+
+
+a.	WCS refers to Western Canada Select.
+b.	WTI refers to West Texas Intermediate.
+Source: Bank of Canada	Last observation: 10 April 2015
+
+ 
+Global EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+
+
+Which Oil Prices Matter for the Canadian Economy?
+ 
+Three main oil price benchmarks are relevant for the Canadian economy: Brent, a global benchmark; West Texas Intermediate (WTI), the benchmark for light oil in North america; and Western Canada Select (WCS), a benchmark for heavy oil in Western Canada .
+The importance of the respective benchmarks differs for producers and consumers . WTI and WCS prices are most relevant for Canadian oil producers, since they represent roughly 55 per cent and 35 per cent of oil production by value, respectively, while Brent represents 10 per cent . The Brent price is more important for Canadian consumers, since wholesale and retail gasoline prices have tended to move more closely with Brent, even in regions that predominantly refine WTI . The direct effect of oil prices on consumer prices results mainly from changes in the price of gasoline, which currently
+ 
+constitutes 3 .8 per cent of the CPI basket . Because Canada is a net exporter of oil, the Canadian dollar tends to co-move with oil prices . This co-movement mitigates the impact of
+U .S .-dollar-denominated movements in oil prices on consumer prices in Canada . for example, when U .S .-dollar oil prices
+fall, the Canadian dollar tends to depreciate, attenuating the decline in Canadian-dollar crude oil and gasoline prices .
+While the oil market is generally thought of as “global” (since prices in different regions move synchronously with one another for the most part), idiosyncratic developments continue to be significant for individual benchmarks . If prices for WTI or WCS fall by more than prices for Brent, the revenues of Canadian oil producers decrease, although Canadian consumers would not benefit to the same extent through lower gasoline prices .
+ 
+
+In response to low prices, many oil producers, particularly those with higher- cost projects in U.S. shale and the Canadian oil sands, have announced steep cuts to their capital expenditure budgets, and drilling activity has fallen sharply (Chart 8). Consequently, estimates of oil supply growth over the next three years have been revised down among producers who are not members of the Organization of the Petroleum Exporting Countries (OPEC) (Chart 9).
+By convention, the Bank assumes that energy prices will remain near their recent levels over the projection horizon. The U.S.-dollar prices for Brent, WTI and WCS have averaged roughly $55, $50 and $35 per barrel, respect- ively, since early March. Relative to assumptions in the January Report, these prices are $5 weaker for all three benchmarks.
+
+Chart 8: The number of drilling rigs in operation has dropped sharply
+ 
+
+Number of rigs 400
+ 
+
+Number of rigs
+1,600
+ 
+
+
+300	1,200
+
+
+200	800
+
+
+100	400
+
+
+0	0
+2008	2009	2010	2011	2012	2013	2014   2015
+Canada (left scale)	United States (right scale)
+
+Note: Canadian rig counts are seasonally adjusted using the X-12-ARIMA procedure.
+Sources: Baker Hughes Inc. and Bank of Canada calculations	Last observation: March 2015
+
+ 
+Global EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+Over the remainder of 2015, there continue to be important downside risks to oil prices, since it will take time for cuts in investment to be reflected in reduced production. With continued overproduction, oil inventories have been accumulating rapidly, particularly in the United States. The “contango” in oil futures markets (i.e., when futures prices are above spot prices) is encouraging the accumulation of inventories (Chart 10). As long as this price spread exceeds storage costs, oil market participants can buy relatively cheap oil today and sell it forward for future delivery, locking in risk-free profits. In a situation such as the current one, where supply is still adjusting to lower prices, such storage behaviour tends to stabilize market prices by
+
+Chart 9: Capital expenditure cuts globally have led to expectations of slower growth in non-OPEC oil supply
+Production growth, by region (2015–17), millions of barrels per day (mb/d)
+ 
+mb/d 2.0
+ 
+mb/d
+4
+ 
+
+1.5	3
+
+1.0	2
+
+0.5	1
+
+0.0	0
+
+ 
+-0.5
+ 
+-1
+United States  Canada	Mexico	Norway	Russia	Total non-
+OPEC supply (right scale)
+ 
+June 2014 forecast	February 2015 forecast
+
+Note: OPEC refers to the Organization of the Petroleum Exporting Countries. Source: International Energy Agency
+
+Chart 10: The oil futures curve has been exhibiting a contango structure
+Difference between the 12-month futures price and spot price
+US$/barrel
+30
+
+20
+
+10
+
+0
+
+-10
+
+-20
+2008	2009	2010	2011	2012	2013	2014	2015
+Brent crude oil	WTI crude oila
+
+a. WTI refers to West Texas Intermediate.
+Note: A contango structure occurs when the futures price is above the spot price.
+Sources: ICE and NYMEX	Last observation: 10 April 2015
+
+ 
+Global EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+removing oil from the market when it is relatively abundant and making it available at a later date, when it may be scarcer. There is a risk, however, that the available storage capacity will be filled up before production is brought back into line with demand growth, triggering a further drop in prices.
+Over the medium term, there are both upside and downside risks to the price of oil. Overall, the Bank judges that these risks are tilted to the upside. The upside risks continue to be supply driven. Without a sufficient increase in OPEC production capacity, higher-cost, non-OPEC unconventional supply will be needed to meet rising global demand. Persistently low investment
+in new oil projects could significantly reduce future growth in oil supplies, leading to higher prices. This upward pressure will be partly mitigated by cost-cutting initiatives, which, together with ongoing technological advances, are helping to lower the cost of producing oil. Geopolitical tensions and supply disruptions may also lead to lower-than-expected growth of supply.
+On the downside, competition among major producers and reduced demand as a result of energy efficiency and regulation could put downward pressure on oil prices. As well, depending on the outcome of negotiations with Iran currently scheduled to conclude in June, additional Iranian oil sup- plies could return to the market.
+Prices are expected to remain volatile as the structure of the oil market continues to evolve—particularly since OPEC producers are less able to play their customary role as the “swing producer” in stabilizing prices. In this context, market supply will adjust mainly through the uncoordinated pro- duction decisions of higher-cost producers such as shale producers. Such actions are not likely to rebalance the market as quickly as in periods when OPEC has taken coordinated action to stabilize prices.
+
+Prices of other commodities have declined further
+Commodity prices are being held down by commodity-specific supply fac- tors in the context of the weak growth of global demand over the past few years. The Bank’s indexes of energy and non-energy commodity prices are both below their historical averages in real terms (Chart 11).
+Despite robust demand triggered by the cold weather this winter, natural gas prices have fallen sharply since November, reflecting very strong U.S. production. Meanwhile, non-energy commodity prices have also continued to move down (Chart 12). Agricultural commodity prices are near their lowest levels in five years, owing to good harvests for grains in recent years and improving supply prospects for livestock. Hog prices are declining as producers rebuild their herds in response to record-high prices last summer. Lumber prices have also fallen, since extremely cold weather impeded North American construction activity in early 2015. The ongoing correction in the Chinese housing market, meanwhile, is putting persistent downward pressure on the prices of base metals. The global spot price for iron ore has declined by 50 per cent over the past year, as low-cost production capacity has been brought online in Australia and Brazil, despite the slowdown in demand growth.
+The Bank’s non-energy commodity price index has fallen by 5 per cent since the January Report and is expected to continue to decline over the first half of 2015, before rising modestly over the remainder of the projection period as the global economy strengthens.
+ 
+Global EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+Chart 11: The Bank’s indexes of commodity prices have fallen further below their historical averages
+Index: January 2000 = 100
+ 
+Index 400
+ 
+Index 175
+ 
+
+
+300	150
+
+
+200	125
+
+
+100	100
+
+
+0	75
+2000	2002	2004	2006	2008	2010	2012	2014
+ 
+Real energy index (left scale) Historical average of real energy index (left scale)
+ 
+Real non-energy index (right scale) Historical average of real non-energy index (right scale)
+ 
+
+Notes: The nominal Bank of Canada commodity price subindexes have been deflated using the U.S. GDP deflator. The historical averages represent the average monthly index values from 1972 to 2014.
+Sources: Bank of Canada and U.S. Bureau of Economic Analysis	Last observation: March 2015
+
+Chart 12: Prices of other energy and non-energy commodities have declined further since the January Report
+Index: 2 June 2014 = 100
+Index 120
+
+
+100
+
+
+80
+
+
+60
+
+
+ 
+
+Jun	Aug		Oct	Dec 2014
+ 
+40
+Feb	Apr
+2015
+ 
+Natural gas	Nickel	Iron orea	Hogs	Lumber
+a. The iron ore series represents an index of spot market prices in China, normalized to the iron ore delivered to the Qingdao Port that contains 62 per cent ferrous content.
+Sources: Bloomberg and Bank of Canada	Last observation: 10 April 2015
+
+ 
+Global EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+
+Global economic growth is recovering gradually
+Both low oil prices and accommodative monetary policy are providing sup- port for the global economy. The economic prospects of the major econ- omies continue to diverge, however, as the benefits of low oil prices vary across regions, and headwinds linger in many economies.
+In the United States, despite a weak start to 2015, real GDP growth is expected to strengthen and to become increasingly self-sustaining, led by strong private domestic demand (Chart 13). Economic activity in the first quarter of 2015 was negatively affected by several transitory fac- tors, including severe winter weather and disruptions caused by the West Coast port strike. Much of this activity is expected to be recovered over the coming months, however, as suggested by other indicators, such as
+employment growth and confidence (Chart 14). Together with low oil prices, an improving labour market should contribute to solid growth in real dispos- able income and household spending.
+A sustained expansion in U.S. residential investment—a key market for Canada’s exports—has been slow to materialize. However, with robust growth in labour income, low mortgage rates and signs that household formation is improving, new housing construction is still expected to post strong growth later this year. A pickup in household demand and ongoing improvements in confidence, combined with healthy firm balance sheets, should further stimulate business investment.
+The appreciation of the U.S. dollar, which reflects this relatively positive economic outlook, is nevertheless expected to be a drag on U.S. growth.
+Headwinds to growth have been slower to dissipate in other oil-importing advanced economies. In the euro area, economic activity is projected to be stronger than in recent years in light of low oil prices and the announce- ment and implementation of quantitative easing. The recovery is neverthe- less expected to remain modest and uneven across the region, since the need for private deleveraging remains high and labour market conditions continue to be difficult in some economies. In Japan, growth is expected to increase over the projection horizon, but weak increases in real wages
+
+Chart 13: U.S. real GDP growth is expected to strengthen, led by private domestic demand
+Year-over-year percentage change	%
+5
+
+4
+
+3
+
+2
+
+1
+
+ 
+
+2013
+ 
+
+2014
+ 
+
+2015
+ 
+
+2016
+ 
+0
+2017
+ 
+U.S. GDP Forecast
+ 
+U.S. private domestic demand Forecast
+ 
+
+Sources: U.S. Bureau of Economic Analysis and Bank of Canada	Last data plotted: 2017
+
+ 
+Global EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+Chart 14: In the United States, the labour market and confidence have improved
+Index: Normalized deviations from mean
+ 
+Index 3
+ 
+% 2.50
+ 
+
+2
+2.25
+1
+
+0	2.00
+
+-1
+1.75
+-2
+
+ 
+-3
+2012	2013	2014	2015
+ 
+1.50
+ 
+Conference Board Consumer Confidence Index (left scale)
+a. Year-over-year percentage change
+ 
+Small Business Optimism Index (left scale)
+ 
+Employment growtha (right scale)
+ 
+Sources: The Conference Board,	Last observations:
+National Federation of Independent Business	Small Business Optimism Index, February 2015; and U.S. Bureau of Labor Statistics		remaining, March 2015
+
+
+and low confidence are hindering progress toward achieving the country’s policy objectives. In contrast, growth has been picking up more strongly in the United Kingdom, in part reflecting greater progress in deleveraging and balance-sheet repair following the global financial crisis.
+In China, a correction in the property market and weaker investment, brought about in part by actions by the authorities to rebalance the economy, have led to a slowdown in activity. In response, policy support has been introduced. Economic growth in 2015 is now expected to come in
+around the authorities’ target of about 7 per cent. Solid growth is anticipated in other parts of emerging Asia, notably India, contributing to a pickup in global growth in 2016.
+Low commodity prices have dampened the growth prospects of many emerging-market commodity exporters, who are facing declines in their terms of trade, government revenues, investment and confidence. In some cases, geopolitical uncertainty is exacerbating these negative effects.
+
+Exchange rate movements are helping to mitigate divergences
+The appreciation of the U.S. dollar against most other major currencies is helping to mitigate differences in growth prospects by strengthening the export competitiveness of slower-growing regions. Notably, the euro, the yen and the currencies of many commodity-exporting countries have
+depreciated against the U.S. dollar. These exchange rate adjustments have led to a weaker growth outlook for the U.S. economy in 2015 than antici- pated in the January Report, through a drag from net trade. The gains in net trade resulting from the depreciation of the euro and the yen should provide some offset to the lingering headwinds in these regions.
+Overall, while the regional composition of growth has shifted somewhat, the Bank continues to expect global growth to average about 3 1/2 per cent over the projection horizon, in line with the January Report (Table 1).
+ 
+Canadian EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+
+
+
+
+
+
+
+
+
+Core inflation has remained close to 2 per cent in recent months, while total CPI inflation has slowed to 1 per cent, reflecting the fall in gasoline prices. Core inflation has been boosted by the pass-through effects of the lower Canadian dollar and some sector-specific factors that have been offsetting the disinflationary pressures from economic slack.
+The broad implications of the decline in oil prices for the Canadian economy remain as described in the January Report, although the negative effects appear to be even more front-loaded. The negative impact on income and wealth associated with the fall in the terms of trade is already reducing household spending. At the same time, investment plans in the oil and
+gas sector are being sharply curtailed. The Bank now expects that the Canadian economy stalled in the first quarter of 2015, leading to a widening in the degree of excess capacity and additional downward pressure on inflation.
+Beyond the energy sector, the natural sequence of stronger exports, increased investment and improved employment opportunities is pro- gressing, even though the temporary weakening in the U.S. economy early in the year has slowed this process. Looking ahead, this sequence will be bolstered by strengthening U.S. demand and by the considerable easing in financial conditions that has occurred, resulting in part from the January cut to the target for the overnight rate. As the impact of the oil price shock on growth starts to dissipate, this natural sequence is expected to re-emerge as the dominant trend around mid-year.
+On an average annual basis, real GDP is expected to grow by 1.9 per cent in 2015 and 2.5 per cent in 2016, roughly the same as anticipated in January. However, the composition of growth will be somewhat different, with stronger exports and a smaller pickup in investment. In 2017, real GDP is expected to grow by 2.0 per cent (Table 2).
+Based on the assumption that Brent will be priced at US$55 per barrel, total CPI inflation is expected to ease to slightly below 1 per cent in the coming months before rising to the 2 per cent target early in 2016 (Table 3). Core inflation is anticipated to remain near 2 per cent over the projection horizon, as the upward pressure from past exchange rate depreciation offsets the ongoing downward pressure from excess supply, which will gradually diminish as the output gap closes. The Bank continues to expect that core and total CPI inflation will be at 2 per cent on a sustainable basis around the end of 2016 as the economy reaches full capacity.
+ 
+Canadian EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+Table 2: Contributions to average annual real GDP growth
+Percentage pointsa, b
+
+	2014	2015	2016	2017
+Consumption	1.5 (1.5)	1.1 (1.3)	1.2 (1.0)	1.0
+Housing	0.2 (0.2)	0.0 (0.0)	0.0 (0.0)	0.0
+Government	0.0 (0.0)	0.2 (0.2)	0.2 (0.3)	0.2
+Business fixed investment	0.0 (-0.1)	-0.7 (-0.1)	0.7 (0.7)	0.7
+Subtotal: Final domestic demand	1.6 (1.6)	0.6 (1.4)	2.1 (2.0)	1.9
+Exports	1.7 (1.6)	1.4 (1.2)	1.7 (1.3)	1.4
+Imports	-0.5 (-0.5)	-0.3 (-0.5)	-1.0 (-0.9)	-1.3
+Subtotal: Net exports	1.2 (1.1)	1.1 (0.7)	0.7 (0.4)	0.1
+Inventories	-0.3 (-0.3)	0.2 (0.0)	-0.3 (0.0)	0.0
+GDP	2.5 (2.4)	1.9 (2.1)	2.5 (2.4)	2.0
+Memo items:
+Potential output
+Real gross domestic income (GDI)	
+2.1 (2.0)	
+1.8 (1.9)	
+1.8 (1.9)	
+1.8
+	2.1 (2.0)	0.2 (0.6)	2.5 (2.3)	2.0
+a.	Numbers in parentheses are from the projection in the January 2015 Monetary Policy Report.
+b.	Numbers may not add to total because of rounding.
+
+Table 3: Summary of the projection for Canadaa
+
+	2014	2015	2016	2017
+	Q4	Q1	Q2	Q3	Q4	Q1	Q2	Q3	Q4	Q1	Q2	Q3	Q4
+Real GDP (quarter-over-quarter percentage change at annual rates)	2.4
+(2.5)	0.0
+(1.5)	1.8
+(1.5)	2.8
+(2.0)	2.5
+(2.5)	2.5
+(2.6)	2.5
+(2.6)	2.3
+(2.6)	2.1
+(2.3)	2.0	1.9	1.8	1.8
+Real GDP (year-over-year percentage change)	2.6
+(2.5)	2.4
+(2.6)	1.9
+(2.1)	1.8
+(1.9)	1.8
+(1.9)	2.4
+(2.1)	2.6
+(2.4)	2.5
+(2.6)	2.4
+(2.5)	2.2	2.1	1.9	1.9
+Core inflation (year-over-year percentage change)	2.2
+(2.2)	2.1
+(2.0)	2.1
+(1.9)	2.0
+(1.8)	2.1
+(1.9)	2.1
+(1.9)	2.1
+(1.9)	2.0
+(1.9)	2.0
+(2.0)	2.0	2.0	2.0	2.0
+Total CPI (year-over-year percentage change)	2.0
+(2.0)	1.0
+(0.5)	0.8
+(0.3)	0.9
+(0.5)	1.4
+(1.2)	2.1
+(1.9)	2.1
+(1.9)	2.0
+(1.9)	2.0
+(2.0)	2.0	2.0	2.0	2.0
+a. Numbers in parentheses are from the projection in the January 2015 Monetary Policy Report. Assumptions for the price for crude oil are based on the average of spot prices since early March.
+
+Underlying inflation remains below 2 per cent
+Core inflation, as measured by CPIX, has been relatively stable at about
+2 per cent in recent months, since the temporary effects of sector-specific factors (mainly meat and communications prices) and the pass-through effects of the depreciation of the Canadian dollar have offset the disinfla- tionary forces from slack in the economy and heightened competition in the retail sector (Chart 15).
+The temporary boost to core inflation from sector-specific factors has begun to dissipate and is now estimated to be 0.2 percentage points. The disinfla- tionary effect of heightened competition in the retail sector continues to wane and is currently estimated to lower core inflation by only 0.1 percentage point.
+The Bank estimates that the impact of the pass-through from exchange rate depreciation is currently boosting core inflation by about 0.3 to 0.4 percentage points. A comparison of price developments in Canada with those in the United States supports this assessment (Chart 16). The estimated pass-through is higher than was estimated in January, as the effects of the additional deprecia- tion of the Canadian dollar since then are starting to materialize.
+ 
+Canadian EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+As always, the Bank monitors a wide range of measures to assess under- lying inflation. However, none of the measures of core inflation, including CPIX, can perfectly capture underlying inflation at any given time. For example, all of the alternative measures of core inflation are currently being boosted to varying degrees by exchange rate pass-through. The Bank’s analysis indicates that, without this pass-through, these measures of infla- tion would range from about 1.6 per cent to 1.8 per cent. Taking these measures into account, together with other indicators of economic slack,
+
+Chart 15: Alternative measures of core inflation have been relatively stable in recent months
+Year-over-year percentage change, monthly data
+% 4.0
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+2007	2008	2009	2010	2011	2012	2013	2014 2015
+ 
+Range of alternative measures of core inflationa
+ 
+Common component
+ 
+Target	Core CPI
+ 
+
+a. These measures are CPIX; MEANSTD; the weighted median; CPIW; CPI excluding food, energy and the effect of changes in indirect taxes; and the common component.
+For definitions, see: Statistics > Indicators > Indicators of Capacity and Inflation Pressures for Canada > Inflation on the Bank of Canada’s website.
+Sources: Statistics Canada and Bank of Canada calculations	Last observation: February 2015
+
+Chart 16: Canadian prices for durable goods and apparel have been rising faster than those in the United States since the Canadian dollar began to depreciate
+Year-over-year percentage change, monthly data
+ 
+
+a. Durable goods
+ 
+
+%	b. Apparel	%
+4	6
+
+2	4
+ 
+
+0
+2
+-2
+0
+-4
+
+-6	-2
+
+ 
+
+2007	2009	2011
+Canada	United States
+ 
+-8
+2013	2015
+ 
+
+2007	2009	2011
+Canada	United States
+ 
+-4
+2013	2015
+ 
+
+Note: September 2012 was the date chosen as the start of the depreciation.
+Sources: Statistics Canada and U.S. Bureau of Labor Statistics	Last observation: February 2015
+
+ 
+Canadian EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+the Bank’s view is that underlying inflation is still below 2 per cent. Thus, if the output gap failed to close as projected by the Bank, inflation would drift down below 2 per cent.
+Total CPI inflation slowed to 1 per cent, reflecting a steep decline in year- over-year gasoline prices. This drop in total CPI inflation was smaller than expected at the time of the January Report, largely owing to the further depreciation of the Canadian dollar against the U.S. dollar.1,2
+
+The negative effects of lower oil prices are materializing rapidly
+The negative effects of lower oil prices have begun to emerge and seem to be more front-loaded than expected in January. Not surprisingly, there is consider- able dispersion in the regional impacts of these developments, with areas that have a larger energy-production footprint more adversely affected (Box 2).
+The decline in commodity prices is having a large effect on income, with Canada’s real gross domestic income (GDI) decreasing by 0.7 per cent in the fourth quarter of 2014. Canada’s terms of trade declined by about 8 per cent in the fourth quarter and are estimated to have continued to deteriorate in the first quarter of 2015 (Chart 17 and Chart 18). A number of signals suggest that the reduction in domestic incomes, profits and wealth associated with this deterioration is already affecting household
+spending. While there are other factors contributing to near-term weakness, the volume of retail sales declined markedly in December and January. In addition, residential investment slowed in the fourth quarter of 2014 and is estimated to have fallen off significantly in the first quarter of 2015.
+
+Chart 17: The recent drop in oil prices is weighing significantly on the Canadian economy
+Year-over-year percentage change, quarterly data
+% 4
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+-10
+2012	2013	2014	2015	2016	2017
+Terms of trade	Real gross domestic income (GDI)	Real GDP
+
+Sources: Statistics Canada and Bank of Canada projections
+
+1	The pass-through of the depreciation of the Canadian dollar to total CPI inflation is estimated to be about 0.6 to 0.7 percentage points.
+2	The decline in oil prices from June to the first quarter of 2015, measured in U.S. dollars, has contributed to reducing total CPI inflation by about 1.3 percentage points.
+ 
+Canadian EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+ 
+Box 2
+Regional Impacts of the Decline in Oil Prices
+The rapid decline in oil prices since the middle of 2014 is expected to affect the oil-producing provinces to a greater degree than other regions . The Bank of Canada has estimated the regional effects of the oil price shock
+using a simple regional macroeconomic model, combined with judgment on investment and energy exports that
+is informed by survey responses and other information . although subject to considerable uncertainty, these esti- mates nevertheless provide a rough idea of the relative effects of the decline in oil prices .1
+The estimates are based on a scenario in which the price
+of Brent crude oil declines from its June 2014 level of about US$110 to US$60 per barrel, relative to one in which the price remains at US$110 . The results reported here isolate the impact of the shift in oil prices and assume no monetary policy response, consistent with results for the Canadian economy that were reported in the appendix to the January Report .
+In this scenario, Canadian GDP is 1 per cent lower than it
+ 
+
+
+
+
+Chart 2-A: The impact of the decline in oil prices on GDP is expected to be unevenly distributed across Canada
+Impact on the level in 2015Q4
+ 
+
+
+
+
+
+
+
+
+% 5
+
+
+0
+
+
+-5
+
+
+-10
+
+
+-15
+
+
+-20
+ 
+would have been had the price been the same by the end of 2015 . as expected, the adverse impact on GDP is con- centrated in the main oil-producing provinces of alberta,
+Saskatchewan, and Newfoundland and labrador (Chart 2-A) . Other provinces are also adversely affected, partly through trade linkages with the oil-producing regions . as a percentage of GDP, interprovincial exports to the main oil-producing provinces are most important for British Columbia and Manitoba, both of which see modest declines in GDP in our scenario . although the Maritimes, Ontario and Quebec are less exposed to the main oil-producing provinces, they also suffer losses in interprovincial exports . However, for these provinces, gains in international exports that derive from stronger foreign activity and a weaker Canadian dollar, along with associated increases in investment, offset their losses .
+The decline in oil prices in this scenario also causes Canada, as a net exporter of oil, to experience a 9 per cent deterioration in its terms of trade by the end of 2015 . The impact of this
+shift in the terms of trade on economic activity in Canada (e .g ., through lower consumption) is captured in the GDP estimates reported in Chart 2-A . However, the weaker terms of trade also have a direct effect on real gross domestic income (GDI) . Combined with the 1 per cent decline in GDP, this direct effect
+ 
+GDP	Direct  terms-of-trade  effect  on	GDI gross domestic income (GDI)
+Note: The numbers represent the impact on the levels of the variables in 2015Q4 of a decline in oil prices from US$110 to US$60, relative to a scenario in which oil prices remain at US$110 throughout the projection. All of these scenarios assume no monetary policy response to lower oil prices.
+Sources: Statistics Canada and Bank of Canada calculations and projections
+
+reduces GDI by 4 per cent .2 The direct terms-of-trade effect is strongest in the main oil-exporting provinces, which incur a
+drop in their export prices as oil prices fall, contributing to sub- stantial declines in their GDI . British Columbia and Manitoba see more modest decreases in GDI, while the impact is close to zero in the Maritimes, Ontario and Quebec .
+Consistent with this analysis, significant regional differences in the impact of the oil price decline are already emer-
+ging in the data . In recent months, unemployment rates have increased in the main oil-producing provinces . as well, interprovincial migration to alberta has declined by over 65 per cent since the middle of last year and is at its lowest level since the third quarter of 2011 .3 Households in oil-producing regions also appear to be reacting strongly . Consumer confidence, housing activity and retail sales have all shown outsized weakness in alberta and, to a lesser extent, in the other oil-producing provinces .
+ 
+
+ 
+1  These estimates are highly uncertain, in part because of the limited availability and low frequency of provincial data . In addition, the analysis may not fully capture the automatic tendency of federal fiscal policy to attenuate disparities in the impact of movements in oil prices on different regions . It is also important to note that these results are for a specific point in time (the fourth quarter of 2015), but the form and regional distribution of the effects are likely to evolve over time . Despite these limitations, the estimates remain useful as a rough guide to the relative magnitudes of the effects .
+ 
+
+2	The impact on GDI is approximately equal to the sum of the impact on GDP and the terms-of-trade effect .
+3	In addition, some evidence suggests that the number of interprovincial workers who are commuting has already begun to adjust . for example, charter passenger traﬃc at the fort McMurray airport was down 25 per cent in the first two months of 2015 . Interprovincial employees are often relatively more expensive and are therefore among the first to be released in a downturn .
+ 
+Canadian EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+Chart 18: The terms of trade continued to decline in the first quarter of 2015
+Index: 2002Q1 = 1, quarterly data
+Index 1.35
+
+1.30
+
+1.25
+
+1.20
+
+1.15
+
+1.10
+
+1.05
+
+1.00
+2002	2004	2006	2008	2010	2012	2014
+Terms of trade
+
+Note: The value for 2015Q1 is a Bank of Canada estimate.
+Sources: Statistics Canada and Bank of Canada calculations	Last data plotted: 2015Q1
+
+
+After picking up in the middle of last year, business investment declined in the fourth quarter. The drop in oil prices is expected to lead to a rapid contraction in investment in the oil and gas sector. Steep cuts to capital expenditures in the oil industry have been announced, and rigging activity has decreased precipitously since the beginning of the year (Chart 8).
+The Bank’s estimate of real GDP in the first quarter of 2015 has been revised down since the January Report, to essentially no growth, primarily reflecting the pulling forward of the impact of the oil price shock. Other factors at play included harsh winter weather and temporary weakness in
+U.S. economic activity.
+
+Excess capacity has increased
+The Bank monitors a wide array of indicators to assess the degree of cap- acity pressures in the Canadian economy. Two of the most important indica- tors point to an increase in excess capacity in the first quarter (Chart 19): the Bank’s statistical measure of the output gap is estimated to be about
+-1/2 per cent, while the structural measure, which has been updated to reflect our reassessment of potential output growth (Appendix), suggests excess capacity of 1 1/2 per cent in the first quarter.3 In contrast, the spring Business Outlook Survey suggests that many firms continue to operate close to capacity.
+Meanwhile, labour market conditions appear to have improved modestly, on balance, over the past six months. For example, the unemployment, underutilization and long-term unemployment rates have all eased, while prime-age labour force participation has begun to recover in recent months following weakness in the middle of 2014. Despite these encouraging developments, a material degree of slack persists in the labour market, as illustrated by the Bank’s labour market indicator (Chart 20). Moreover, the full impact of the decline in oil prices has yet to show up in employment
+
+3	The statistical and structural estimates of the output gap can be found on the Bank’s website at http://www.bankofcanada.ca/rates/indicators/capacity-and-inflation-pressures.
+ 
+Canadian EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+Chart 19: Excess capacity has increased
+%	%
+3
+ 
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+2007
+ 
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
+-4
+
+-5
+2008	2009	2010	2011	2012	2013	2014    2015
+ 
+Some and significant difficultya (left scale)
+ 
+Structural approach (right scale) Statistical approach (right scale)
+ 
+
+a. Responses to Business Outlook Survey question on capacity pressures. Percentage of firms indicating that they would have either some or significant difficulty meeting an unanticipated increase in demand/sales.
+Note: Estimates for the first quarter of 2015 are based on an unchanged level of output for the quarter. Definitions for all series in this chart can be found at Statistics > Indicators > Indicators of Capacity and Inflation Pressures for Canada on the Bank of Canada’s website.
+Source: Bank of Canada	Last data plotted: 2015Q1
+
+Chart 20: Labour market slack is greater than indicated by the unemployment rate
+Monthly data
+% 9
+
+
+8
+
+
+7
+
+
+6
+
+
+5
+2007	2008	2009	2010	2011	2012	2013	2014 2015
+Unemployment rate	Labour market indicator
+
+Sources: Statistics Canada and Bank of Canada	Last observation: March 2015
+
+
+statistics. The balance of opinion on hiring intentions in the Business Outlook Survey fell to its lowest level since 2009, and firms reported that labour shortages remain low and are less intense than 12 months ago.
+Measures of the utilization of existing capital stock continue to indicate less excess capacity than do measures of labour market slack, consistent with the pattern expected following a destructive recession. Total industrial capacity utilization has risen above its historical average, to 83.6 per cent. Capacity utilization in many non-energy industries has also increased in recent quarters, a precursor to greater investment spending. The most
+ 
+Canadian EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+recent Business Outlook Survey indicates that capacity pressures were more prevalent among export-oriented firms, which frequently cited physical capacity constraints as a key obstacle to meeting a sudden rise in demand.
+Taking into account the various indicators of capacity pressures, the Bank judges that there is material slack in the Canadian economy. The amount of excess capacity in the first quarter is estimated to be between 1/2 and 1 1/2 per cent, suggesting more slack and disinflationary pressures than estimated in January.4
+
+Canadian financial conditions have eased significantly
+The easing of financial conditions since January will provide additional sup- port to growth over the projection horizon. The yield curve on government bonds has shifted down, reflecting the January reduction in the target for the overnight rate as well as developments in global financial markets (Chart 21). In turn, lower government bond yields have fed through to household and business borrowing rates, which have declined to historical lows (Chart 22).
+The balance of opinion on credit conditions in the Bank’s Business Outlook Survey points to an easing over the past three months. Overall, most busi- nesses continue to characterize credit as easy or relatively easy to obtain. The Bank’s Senior Loan Officer Survey for the first quarter of 2015 suggests broadly unchanged overall business-lending conditions. However, both sur- veys noted some tightening for firms tied to commodity-related production.
+Easier credit conditions, together with the 8 per cent decline in the value of the Canadian dollar relative to the assumption in the January Report, will help to mitigate the negative effects of the decline in oil prices. They will facilitate the sectoral adjustment needed to strengthen investment, improve firms’ cash flows and provide support to household spending.
+
+
+Chart 21: Canadian interest rates have shifted down across the whole yield curve since January
+Government bond yields, percentage, daily data
+% 1.75
+
+1.50
+
+1.25
+
+1.00
+
+0.75
+
+0.50
+
+0.25
+
+ 
+
+1-month 3-month 6-month  1-year	2-year
+Maturity 20 January 2015	10 April 2015
+ 
+0.00
+3-year	5-year	7-year   10-year
+ 
+Source: Bank of Canada	Last observation: 10 April 2015
+
+
+4	The projection is constructed around the midpoint of the range for the output gap in the first quarter of 2015 (i.e., -1 per cent).
+ 
+Canadian EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+Chart 22: Borrowing rates for households and businesses have declined to historical lows
+Weekly data
+% 8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+2000	2002	2004	2006	2008	2010	2012	2014
+Effective business interest rate	Effective household interest rate
+
+Note: For more information on the series, see Statistics > Credit Conditions > Financial Conditions on the Bank of Canada’s website.
+Source: Bank of Canada	Last observation: 10 April 2015
+
+
+Although the Canadian outlook is broadly unchanged, the timing and composition of growth have shifted
+After stalling in the first quarter, real GDP growth is expected to rebound in the second quarter and subsequently strengthen to average about
+2 1/2 per cent on a quarterly basis until the middle of 2016 (Table 2 and Table 3). The Bank expects that the economy will reach full capacity around the end of 2016. In 2017, growth will average about 2 per cent. Given the degree of uncertainty in economic projections, the Bank judges that real GDP growth is likely to be within ±0.5 percentage points of the base-case projection in 2015, with a somewhat wider range in 2016 and 2017.
+The stronger growth profile for GDP that emerges in mid-2015 occurs as the negative effects of lower oil prices on investment growth in the energy sector start to dissipate and activity in the non-energy sector gains further
+traction (Chart 23). In the base-case projection, the low oil price assumption leads to a persistent shift of investment and jobs away from energy-related sectors and regions, reversing some of the earlier structural adjustment in the Canadian economy.
+The timing and composition of growth have shifted somewhat relative to the outlook in the January Report. As already discussed, the negative impact of the decline in oil prices is appearing earlier than previously anticipated but, over the projection horizon, the total drag associated with the decline is esti- mated to be about the same.5 Although the weaker value of the Canadian dollar will provide an additional boost to exports, by increasing the cost of imported capital, the lower dollar will weigh on investment spending. Taking into account these factors as well as recent indicators and analysis, the Bank has revised down its profile for business investment.
+The government spending assumptions contained in the base case provide a small positive contribution to growth over the projection horizon and reflect already-announced fiscal measures, as is the Bank’s convention.
+
+5	In the base-case projection, the decline in oil prices since the middle of last year lowers the level of GDP by about 1/2 per cent by the end of 2015.
+ 
+Canadian EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+Chart 23: Real GDP growth is projected to slow in the first half of 2015
+Contributions to real GDP growth
+%	Percentage points
+6	6
+
+4	4
+
+2	2
+
+0	0
+
+-2	-2
+
+-4	-4
+2012	2013	2014	2015	2016	2017
+ 
+GDP growth, quarterly,
+at annual rates (left scale)
+ 
+Business fixed investment (right scale) Exports (right scale)
+Other components of GDP (right scale)
+ 
+
+Sources: Statistics Canada and Bank of Canada calculations and projections
+
+
+The recovery in non-energy exports is expected to become more firmly entrenched
+The anticipated rotation of demand toward non-energy exports (NEX) is well under way. After two years of weak growth, the pickup in NEX finally mater- ialized in 2014 (Chart 24). The product categories expected to lead the NEX recovery, most of which are sensitive to the exchange rate, grew at their fastest pace since 2000 and have maintained some momentum in the early
+
+Chart 24: Non-energy exports expected to lead the recovery have strengthened
+Index: 2012Q1 = 100, quarterly data
+Index 115
+
+
+110
+
+
+105
+
+
+100
+
+
+95
+2012	2013	2014
+ 
+Total non-energy exports
+Non-energy exports expected to lead the recovery
+ 
+Non-energy exports not expected to lead the recovery
+ 
+Notes: Key categories expected to lead the recovery include aircraft and parts, industrial machinery and equipment, pharmaceutical and medicinal products, building and packaging materials, and fabricated metal products, among others. For a complete list, see A. Binette, D. de Munnik and É. Gouin-Bonenfant,
+“Canadian Non-Energy Exports: Past Performance and Future Prospects,” Bank of Canada Discussion Paper No. 2014-1.
+The value for 2015Q1 is a Bank of Canada estimate.
+Sources: Statistics Canada and Bank of Canada calculations	Last data plotted: 2015Q1
+
+ 
+Canadian EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+months of 2015. Some of the major contributors to this recent surge include aircraft and parts, industrial and electrical machinery and equipment, phar- maceutical products, building and packaging materials, and metal products. In addition, exports of services continued to post positive growth in 2014.
+The pickup in the manufacturing sector, which accounts for 70 per cent of NEX, will generate positive spillovers to other sectors, such as transporta- tion and warehousing; wholesale trade; and finance, insurance, real estate and leasing.
+The recovery in NEX is expected to become more firmly entrenched as the
+U.S. economy strengthens. In addition, the depreciation of the Canadian dollar, combined with stronger labour productivity growth in Canada than in the United States over the past two years, has led to a meaningful improve- ment in Canada’s competitiveness (Chart 25). Nevertheless, the projected profile of NEX growth is based on prudent assumptions, taking into account the lost capacity and underperformance in this sector over the past decade.
+
+Chart 25: The Canada-U.S. competitiveness gap has narrowed in recent quarters
+Contribution of various factors to the change in Canada’s relative business sector unit labour costs vis-à-vis those in the United States, quarterly data
+%
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+-20
+2002	2004	2006	2008	2010	2012	2014
+ 
+Canadian dollar
+vis-à-vis U.S. dollar Relative productivity
+ 
+Relative wages
+Percentage change in relative unit labour costs vis-à-vis the United States since 2002Q1
+ 
+
+Note: The value for 2015Q1 is an estimate based on the actual change in the Can$/US$ exchange rate and the same contributions from relative productivity and relative wages as in 2014Q4.
+Sources: Statistics Canada, U.S. Bureau of Economic Analysis
+and Bank of Canada calculations	Last data plotted: 2015Q1
+
+
+The timing of the recovery in business investment remains uncertain
+Growth in total business investment is expected to decline significantly in the first half of 2015, reflecting a sizable pullback in the oil and gas
+sector, before slowly recovering in the second half of the year and gaining momentum in 2016.
+The aggregate data for business investment are masking divergent develop- ments in the energy and non-energy sectors. The Bank expects investment in the oil and gas sector to fall by about 30 per cent in 2015. In contrast, growth in business investment outside of the oil and gas sector is expected to pick up as non-energy exports grow, remaining excess capacity in these industries is absorbed, and businesses become increasingly confident
+ 
+Canadian EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+about the economic outlook. Recent improvements in financing costs and conditions should further support business investment. However, there
+is considerable uncertainty about how quickly business investment will respond to these favourable drivers.
+In the Bank’s base-case projection, investment outside of the oil and gas sector is expected to increase by about 7 per cent per year, on average. This profile is lower than was expected in January, reflecting weaker momentum at the end of 2014, as well as further evidence from the spring Business Outlook Survey that showed a second quarterly decline in the bal- ance of opinion on investment intentions. In addition, the weaker dollar has raised the cost of imported machinery and equipment.
+
+Elevated debt levels and the income effects of declines in commodity prices will restrain household spending growth
+Household expenditures are expected to grow at a moderate pace over the projection horizon. The loss of wealth and income associated with the rapid decline in Canada’s terms of trade will restrain spending growth, although easier financial conditions will provide some offset. The money that con- sumers are saving at the gas pump could also help to mitigate the negative income effects, although the extent to which this windfall will be spent or used to pay down debt is not clear.
+In recent months, there have been signs of moderation in the national housing market. Housing starts and resale activity have slowed since last autumn alongside harsh weather conditions in early 2015. Additionally, a more balanced sales-to-listings ratio has been accompanied by slower growth in house prices. However, housing market conditions continue to diverge across regions. To date, the impacts on housing activity from falling energy prices appear to be largely restricted to Canada’s energy-producing regions. The previously robust markets of Calgary and Edmonton have seen steep declines in resale activity and a significant slowdown in the year-
+over-year growth of house prices in recent months. At the same time, resale activity has remained strong in British Columbia and Ontario, particularly in Vancouver and Toronto, where house price growth is still elevated.
+Over the projection horizon, residential investment as a share of GDP is expected to edge down. Despite localized risks, the most likely scenario as the economy gains strength remains a soft landing in the national housing market and a stabilization of debt-to-income ratios.6
+The January cut in the target for the overnight rate should help to mitigate financial pressures in the household sector by cushioning the decline in income and employment caused by lower oil prices. It also reduces the likelihood of a more adverse scenario that could cause stress in the financial system.
+
+
+
+
+
+
+6	For a more detailed assessment of vulnerabilities in the household sector, see the December 2014
+Financial System Review at http://www.bankofcanada.ca/2014/12/fsr-december-2014.
+ 
+Canadian EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+
+Inflation is expected to return sustainably to 2 per cent around the end of 2016
+Core inflation is expected to remain near 2 per cent throughout the projec- tion period (Chart 26). In the near term, the widening of the output gap is expected to exert additional downward pressure on inflation. Based on the assumption that the Canadian dollar stays around 79 cents, the pass- through effects are expected to peak in the second half of 2015 and to
+dissipate by the end of 2016. Meanwhile, as economic growth picks up and the output gap narrows, the disinflationary pressures from excess supply are expected to gradually diminish. The effects on core inflation of the lower dollar and the narrowing output gap roughly offset each other over the pro- jection horizon.
+With a Brent price of US$55, total CPI inflation is expected to fall slightly below 1 per cent in the coming months, reflecting steep year-over-year declines in gasoline prices, before returning to 2 per cent early in 2016 (Chart 27). Given the volatility in oil prices, there remains a high level of uncertainty about the profile for total CPI inflation. For example, if the base- case scenario assumed that oil prices were 10 per cent higher (lower), total CPI inflation would be higher (lower) by about 0.3 percentage points over the coming year.
+As the economy reaches and remains at full capacity around the end of 2016 and with well-anchored inflation expectations, both total and core infla- tion are projected to be close to 2 per cent on a sustained basis.
+While short-term expectations for total CPI inflation remain near the lower end of the control range, medium-term inflation expectations continue to be well anchored at 2 per cent. The March Consensus Economics forecast for total CPI inflation for 2015 is 0.9 per cent, down slightly from January, while the forecast for 2016 has remained unchanged, at 2.1 per cent. Results
+
+Chart 26: Core inflation is expected to remain close to 2 per cent
+Contribution to the deviation of inflation from 2 per cent, percentage points
+ 
+% 3.0
+ 
+Percentage points
+1.0
+ 
+
+
+2.5	0.5
+
+
+2.0	0.0
+
+
+1.5	-0.5
+
+
+ 
+1.0
+ 
+
+2014	2015	2016
+ 
+-1.0
+ 
+Core inflation (year-over-year percentage change, left scale) Core inflation projection
+ 
+Output gap and retail competition (right scale)
+ 
+Exchange rate pass-through (right scale)
+Sector-specific factors (right scale)
+ 
+Sources: Statistics Canada and Bank of Canada calculations and projections
+
+ 
+Canadian EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+Chart 27: Total CPI inflation is expected to return to 2 per cent in 2016
+Year-over-year percentage change, quarterly data
+% 4
+
+3
+
+2
+
+1
+
+0
+
+-1
+2007 2008   2009   2010   2011   2012   2013   2014   2015   2016   2017
+Total CPI	Core CPIa             Target	Control range
+a. CPI excluding eight of the most volatile components and the effect of changes in indirect taxes on the remaining components
+Sources: Statistics Canada and Bank of Canada calculations and projections
+
+
+from the Bank’s spring Business Outlook Survey show that the majority of firms anticipate that, over the next two years, total CPI inflation will be in the bottom half of the Bank’s 1 to 3 per cent inflation-control range. This is
+consistent with low total CPI inflation in 2015, reflecting the downward pres- sures coming from gasoline prices.
+Based on the past dispersion of private sector forecasts, a reasonable range around the base-case projection for total CPI inflation is ±0.3 percentage points. This range is intended to convey a sense of forecast uncertainty. Fan charts, which are derived using statistical analysis of the Bank’s forecast errors, provide a complementary perspective (Chart 28 and Chart 29).7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7	The fan charts are derived from projection errors for the current quarter to eight quarters in the future. These errors are based on inflation projections from past issues of the Monetary Policy Report and Monetary Policy Report Update, using quarterly data from the first quarter of 2003 to the second quarter of 2014.
+ 
+Canadian EConoMy
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+
+ 
+Chart 28: Projection for core inflation
+Year-over-year percentage change, quarterly data
+% 4
+ 
+Chart 29: Projection for total CPI inflation
+Year-over-year percentage change, quarterly data
+% 4
+ 
+
+
+3	3
+
+
+2	2
+
+
+1	1
+
+
+0	0
+
+ 
+
+-1
+2011	2012	2013	2014	2015	2016	2017
+Projection	50 per cent confidence interval
+90 per cent confidence interval Source: Bank of Canada
+ 
+
+-1
+2011	2012	2013	2014	2015	2016	2017
+
+Projection	50 per cent confidence interval
+90 per cent confidence interval Source: Bank of Canada
+ 
+ 
+ 
+Risks to thE inflation outlook
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+
+
+
+
+
+
+
+
+Risks to the inflation outlook	
+The outlook for inflation is subject to several risks emanating from both the external environment and the domestic economy. The Bank judges that the risks to the projected path for inflation are roughly balanced.
+The most important risks to inflation are the following:
+
+(i)	Greater impact of the decline in oil prices
+Considerable uncertainty remains around the future path for oil prices. Indeed, the Bank believes that there are still downside risks to oil prices in the near term, while over the medium term, risks are
+tilted to the upside. At present, however, a more important risk relates to the effect of the oil price shock on the Canadian economy. Real GDP appears to have stalled in the first quarter, a weaker outcome than anticipated in January. While the Bank believes that this addi- tional weakness primarily reflects a pulling forward of the adverse impact of the oil price shock, there is a risk that the negative impact of the shock is larger than estimated. For example, there could be a larger pullback in investment in the oil and gas sector than currently anticipated. In addition, the Bank judges that part of the weakness in consumption in the first quarter was related to temporary factors. If
+a greater portion was instead attributable to the decline in oil prices, household spending could take longer to recover. If this risk were to materialize, disinflationary pressures would be more persistent than currently anticipated.
+
+(ii)	Imbalances in the Canadian household sector
+At the national level, a soft landing in the housing sector continues to be the most likely scenario, with residential investment as a share of GDP expected to edge down over the projection horizon. Nevertheless, elevated house prices and debt levels relative to income continue to leave households vulnerable. The adverse impact of the oil price shock in Alberta and continued robust price growth in Toronto and Vancouver suggest a risk of a correction in these markets. While historical experi- ence suggests that localized Canadian house price cycles, both in terms of the factors behind the boom as well as the correction, have typically not spilled over to other regions, it would be a major event if it occurred. If corrections in several important local markets materialized simultaneously, the spillover effects to the rest of the economy could be significant. In addition, while the precise magnitude is highly uncertain, the adverse impact of lower oil prices on household income is likely to
+ 
+Risks to thE inflation outlook
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+contribute to a further increase in debt-to-income ratios. A disorderly unwinding of these imbalances, should it materialize, could have sizable negative effects on other parts of the economy and on inflation.
+
+(iii)	Stronger U.S. private demand
+Stronger-than-expected private demand in the United States is the most important upside risk to inflation in Canada. Consumption growth in the United States has been robust, despite modest wage growth over the recent past. Steady employment gains and improving labour market fundamentals—such as falling levels of long-term unemployment and of involuntary part-time workers—suggest that wage growth could strengthen more quickly than anticipated as labour market slack is taken up. Higher wage growth, together with the boost from lower oil prices, could trigger even faster consumption growth. Businesses would increase hiring and investment by more than expected, further supporting household spending and economic activity more generally. Stronger U.S. activity would generate posi- tive spillovers to growth in the rest of the world, and in particular to demand for Canadian non-energy exports and to Canadian business investment.
+ 
+aPPEndix: uPdatEd EstiMatEs of PotEntial outPut GRowth
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+
+
+
+
+
+
+
+ 
+This appendix provides an update on how potential output growth is likely to evolve through to 2017.1 Identifying the current level of potential output enables the Bank of Canada to estimate the output gap, and the projection for the growth of potential output sheds light on the prospects for economic growth in Canada.
+Potential output growth is expected to slow to
+1.8 per cent in 2015 from 2.1 per cent in 2014, mainly reflecting a slowing in the trend growth rate of labour input, but also in the growth of trend labour productivity (Table A-1). The former reflects a decline in the projected growth rate of the working-age population, while the fall in trend labour productivity flows from the recent slowing in the growth rate of business investment and hence in capital deepening outside the oil and gas sector.
+From 2016 to 2017, potential output growth is expected to remain stable at about 1.8 per cent, as a further deterioration in the growth of trend labour input is offset by a pickup in trend labour productivity. The slowdown in trend labour input reflects a combination of declining trend employment rates associated with aging baby
+ 
+of the recent increase in observed labour productivity growth (Chart A-2) together suggest somewhat greater momentum in the growth of trend labour productivity over the projection horizon than was expected in
+
+Chart A-1: Aging baby boomers are contributing to a slowdown in the growth of trend labour input
+Per cent, quarterly data	%
+65
+
+64
+
+63
+
+62
+
+61
+
+60
+
+59
+
+58
+
+57
+
+56
+1992	1995	1998     2001	2004    2007	2010     2013	2016
+Employment rate	Trend employment rate
+ 
+boomers, decreasing trend average hours worked and a slowing in the growth rate of the working-age population
+ 
+Sources: Statistics Canada  and  Bank of Canada calculations and projections
+ 
+Last observation: 2015Q1 for the employment rate
+ 
+(Chart A-1).2 At the same time, as foreign activity and non- energy exports continue to strengthen, business invest- ment growth is expected to rebound in 2016, particularly in productivity-enhancing machinery and equipment, contributing to a strengthening in the growth of trend labour productivity to around 1.4 per cent in 2017.
+Since October, there have been two notable develop- ments influencing the Bank’s projection for potential output growth. First, positive historical revisions to GDP growth and a continuation in the second half of 2014
+
+ 
+1	The Bank’s annual update to its projection for potential GDP growth will now be published in the April Monetary Policy Report, instead of October, reflecting changes to the timing of the release of Statistics Canada’s annual comprehensive revisions to the System of National Accounts.
+2	The 0.1-percentage-point upward revision to the growth rate of trend labour input in 2016 reflects a positive revision to the share of older workers in
+ 
+Chart A-2: Labour productivity and trend labour productivity
+Year-over-year percentage change, quarterly data
+% 4
+
+
+3
+
+
+2
+
+
+1
+
+
+0
+
+
+-1
+1992	1995	1998     2001	2004    2007	2010     2013	2016
+ 
+the population, as reported in Statistics Canada’s Labour Force Survey.	Labour productivity	Trend labour productivity
+Since the participation rate of this segment of the population is projected to
+ 
+increase in the coming years, the higher share results in a modest upward revision to the overall growth of trend labour input.
+ 
+Sources: Statistics Canada  and  Bank of Canada calculations and projections
+ 
+Last observation: 2014Q4 for labour productivity
+ 
+aPPEndix: uPdatEd EstiMatEs of PotEntial outPut GRowth
+BaNk Of CaNaDa  •  MONETaRy POlICy REPORT  •  aPRIl 2015
+
+ 
+October. At the same time, the significant downward revision to the projection for business investment rela- tive to October—largely in response to the impact of the decline in oil prices on investment in the oil and gas sector—will mean slower growth in capital deepening and labour productivity. The precise timing of the
+impact on production capacity of changes to investment spending in the oil and gas sector is difficult to estimate and will differ for conventional and unconventional oil projects. The Bank estimates that the drag on trend labour productivity growth from the lower oil prices will gradually build over the projection horizon, peaking at about 0.2 percentage points by 2017.3 In contrast, the negative revision to business investment outside the
+oil and gas sector affects potential much more quickly, subtracting about 0.2 percentage points from trend labour productivity growth in 2015 and 2016.
+On net, potential output growth has been revised down from October by 0.1 percentage point to 1.8 per cent in 2015 and 2016, the years when the effects of the nega- tive revisions to business investment in the energy and non-energy sectors are greatest. The estimate for 2017 remains unchanged, at 1.8 per cent.
+A sensitivity analysis of the various assumptions on which the projection is based suggests a range for the growth of potential output of ±0.2 percentage points around the
+
+ 
+3	While increased labour supply may provide a partial offset to the negative shock to household income and wealth following the decline in oil prices, this offset is estimated to be very small and is subject to considerable uncertainty.
+ 
+base case in 2015, increasing to ±0.5 percentage points in 2017. The uncertainty surrounding our estimate of trend labour productivity growth is particularly large at this time, reflecting uncertainty about the degree to which the recent pickup in actual labour productivity is structural in nature, as well as about the magnitude and timing of the impact of lower investment in the oil and gas sector on capital deepening.
+Estimates of the neutral rate of interest, as well as potential economic growth in the United States and other major economies, have also been re-examined and remain unchanged from those reported in the October 2014 Report. Specifically, the neutral nominal policy rate is estimated to be between 3 per cent
+and 4 per cent, and U.S. potential growth is around 2 per cent.
+
+Table A-1: Projected growth rate of potential output
+Year-over-year percentage change
+
+	2014	2015	2016	2017
+Range for potential output	2.0–2.2	1.6–2.0	1.4–2.2	1.3–2.3
+Midpoint of range	2.1 (1.9)	1.8 (1.9)	1.8 (1.9)	1.8 (1.8)
+Trend labour input	0.8 (0.7)	0.6 (0.6)	0.6 (0.5)	0.4 (0.4)
+Trend labour productivity	1.3 (1.2)	1.2 (1.3)	1.2 (1.4)	1.4 (1.4)
+Note: Figures in parentheses are taken from the October 2014 Monetary Policy Report.
